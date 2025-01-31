@@ -1,5 +1,5 @@
 <script lang="ts">
-    import type { WaitingForCardStage } from "../../scripts/game.svelte";
+    import type { WaitingForCardStage } from "../../scripts/schema";
 
     const { progress }: WaitingForCardStage = $props();
 </script>

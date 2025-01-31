@@ -1,15 +1,14 @@
-<script lang="ts">
-    import DevTools from "./dev/DevTools.svelte";
-    import Main from "./Main.svelte";
-    import PlayerList from "./player_list/PlayerList.svelte";
+<script>
+    import { storage } from "../scripts/game.svelte";
+    import Game from "./Game.svelte";
+    import Lobby from "./Lobby.svelte";
 </script>
 
-
-<div>
-    <PlayerList />
-    <Main />
-    <DevTools />
-</div>
+{#if storage.gameData}
+    <Game {...storage.gameData} />
+{:else}
+    <Lobby />
+{/if}
 
 <style>
     :root {
@@ -20,16 +19,8 @@
         --secondary: #70d663;
         --secondary30: #70d66350;
         --accent: #4acc57;
-    }
 
-    * {
         font-family: Verdana, sans-serif;
         color: var(--text);
-    }
-
-    div {
-        display: grid;
-        grid-template-columns: 1fr 3fr;
-        height: 100vh;
     }
 </style>

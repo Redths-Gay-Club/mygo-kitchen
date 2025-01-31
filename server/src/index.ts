@@ -1,54 +1,54 @@
-import { WebSocketServer, WebSocket, type RawData, type Server } from "ws";
 import z from "zod";
-import Room from "./room";
-import Player from "./player";
-const wss = new WebSocketServer({ port: 8080 });
+import { type Room, createRoom, joinRoom, leaveRoom, processPacket, rooms } from "./room";
+import type { ServerWebSocket } from "bun";
+import { C2SPacketSchema, type C2SPacket, type PlayerProfile, type S2CPacket as S2CPacket } from "./schema"
 
-let rooms = new Map<string, Room>();
+type PlayerData = {
+    profile: PlayerProfile,
+    room: Room,
+}
+export type Player = ServerWebSocket<PlayerData>
 
-
-const Start = z.object({
-    name: z.string(),
-    action: z.literal("start"),
-    key: z.string(),
-    room: z.string(),
-});
-
-const Join = z.object({
-    name: z.string(),
-    action: z.literal("join"),
-    room: z.string().optional(),
-});
-
-
-const Packets = z.union([Start, Join]);
-
-function handlePacket(ws: WebSocket, packet: RawData) {
-    const parsed = Packets.parse(packet);
-    const player = new Player(parsed.name);
-    const room = parsed.room && rooms.get(parsed.room) || new Room(Math.floor(Math.random() * 500).toString(), player);
-    switch (parsed.action) {
-        case "start":
-            console.log(parsed.key);
-            break;
-        case "join":
-            if (!room.players.includes(player)) {
-                room.players.push(player);
-                ws.send(room.id);
-            } else {
-                rooms.set(room.id, room);
-                room.players.push(player);
-            }
-    }
+export function sendPacket(player: Player, packet: S2CPacket) {
+    player.send(JSON.stringify(packet));
 }
 
-
-wss.on('connection', function connection(ws) {
-    ws.on('error', console.error);
-
-    ws.on('message', function message(data) {
-        handlePacket(ws, data);
-    });
-
-    ws.send('something');
+Bun.serve({
+    port: 3000,
+    fetch(req, server) {
+        const url = new URL(req.url);
+        if (url.pathname === "/ws") {
+            const name = url.searchParams.get("name");
+            if (!name) return new Response("Name is required", { status: 400 });
+            const roomId = url.searchParams.get("room_id");
+            const room = roomId ? rooms.get(roomId) : createRoom(name)
+            if (!room) return new Response("Invalid Room ID", { status: 404 });
+            if (server.upgrade<PlayerData>(req, { data: { profile: { name }, room } })) return;
+            return new Response("Upgrade failed", { status: 500 });
+        }
+    },
+    websocket: {
+        open(player: Player) {
+            console.log(`${player.data.profile.name} joined room ${player.data.room.id}`);
+            joinRoom(player, player.data.room);
+        },
+        message(player, message) {
+            try {
+                console.log(message);
+                const str = z.string().safeParse(message);
+                if (!str.success) return;
+                const json = JSON.parse(str.data);
+                const parsed = C2SPacketSchema.safeParse(json);
+                if (!parsed.success) return;
+                processPacket(player, parsed.data);
+            } catch (e) {
+                console.error(e);
+            }
+        },
+        close(player, code, message) {
+            console.log("closed: ", code, message);
+            leaveRoom(player, player.data.room);
+        },
+    },
 });
+console.log("Server started on port 3000");

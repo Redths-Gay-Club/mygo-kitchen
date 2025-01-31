@@ -1,22 +1,20 @@
 <script lang="ts">
-    import { sendPacket, storage } from "../../scripts/game.svelte";
+    import { connectToWebsocket } from "../scripts/game.svelte";
 
-    const disabled = $derived(
-        !(
-            storage.gameData &&
-            storage.gameData.judge === storage.gameData.username &&
-            storage.gameData.players.length >= 2
-        ),
-    );
+    let name = "";
+    let roomId: string | undefined;
 
     function onclick() {
-        sendPacket({ type: "start" });
+        if (!name) return;
+        connectToWebsocket(name, roomId);
     }
 </script>
 
 <div>
     <h1>MyGo Kitchen</h1>
-    <button type="button" {disabled} {onclick}>START</button>
+    <input bind:value={name} placeholder="Name"/>
+    <button type="button" {onclick}>{roomId ? "Join" : "Create"}</button>
+    <input bind:value={roomId} placeholder="or enter a room id"/>
 </div>
 
 <style>
