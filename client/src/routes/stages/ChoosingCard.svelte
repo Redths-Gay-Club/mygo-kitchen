@@ -1,7 +1,15 @@
 <script lang="ts">
-    import type { ChoosingCardStage } from "../../scripts/game.svelte";
+    import { sendPacket } from "../../scripts/game.svelte";
+    import type { ChoosingCardStage } from "../../scripts/schema";
 
     const { sentence, cards }: ChoosingCardStage = $props();
+
+    function choose(card: string) {
+        sendPacket({
+            type: "choose_card",
+            card,
+        });
+    }
 </script>
 
 <div id="main">
@@ -9,7 +17,9 @@
     <h1>Choose a Card</h1>
     <div id="cards">
         {#each cards as card}
-            <button type="button"><img src={card} alt="card" /></button>
+            <button type="button" onclick={() => choose(card)}>
+                <img src={card} alt="card" />
+            </button>
         {/each}
     </div>
 </div>

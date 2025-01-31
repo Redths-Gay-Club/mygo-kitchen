@@ -1,28 +1,17 @@
-<script>
-    let users = [
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-        "Redth",
-    ];
+<script lang="ts">
+    import type { GameData } from "../../scripts/schema";
+    let { players, judge }: GameData = $props()
 </script>
 
 
 <div class="sidebar">
-    {#each users as user}
+    {#each players as player}
         <div class="player-card">
             <div class="user-icon"></div>
-            <span>{user}</span>
+            <span>{player.name}</span>
+            {#if judge === player.name}
+                <span>[Judge]</span>
+            {/if}
         </div>
     {/each}
 </div>

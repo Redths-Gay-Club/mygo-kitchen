@@ -1,13 +1,21 @@
 <script lang="ts">
-    import type { ChoosingSentenceData } from "../../scripts/game.svelte";
+    import { sendPacket } from "../../scripts/game.svelte";
+    import type { ChoosingSentenceData } from "../../scripts/schema";
 
     const { sentences }: ChoosingSentenceData = $props();
+
+    function choose(sentence: string) {
+        sendPacket({
+            type: "choose_sentence",
+            sentence,
+        });
+    }
 </script>
 
 <div>
     <h1>Choose a sentence</h1>
     {#each sentences as sentence}
-        <button type="button">{sentence}</button>
+        <button type="button" onclick={() => choose(sentence)}>{sentence}</button>
     {/each}
 </div>
 
