@@ -1,28 +1,30 @@
 <script lang="ts">
-    import { sendPacket, storage } from "../../scripts/game.svelte";
+    import { sendPacket } from "../../scripts/game.svelte";
     import type { RevealingCardStage } from "../../scripts/schema";
 
     const { sentence, cards }: RevealingCardStage = $props();
-    // let cards = $derived(storage.gameData?.stage.name === "revealing_card" ? storage.gameData.stage.cards : []);
+    
     let selected = $state(-1);
-    let allRevealed = $derived(
-        cards.every((c) => c.revealed) && selected !== -1,
-    );
+    let allRevealed = $derived(cards.every((c) => c.revealed));
 
     function reveal(index: number) {
         if (!cards[index].revealed) {
             sendPacket({
-                type: "reveal_card",
+                action: "reveal_card",
                 index,
             });
-        } else {
+        } else if (allRevealed) {
             selected = index;
+            sendPacket({
+                action: "select_card",
+                index,
+            });
         }
     }
 
     function submitBest() {
         sendPacket({
-            type: "choose_best_card",
+            action: "choose_best_card",
             index: selected,
         });
     }
@@ -35,7 +37,7 @@
             <button
                 type="button"
                 onclick={() => reveal(index)}
-                class={index === selected ? "glow" : ""}
+                class:glow={index === selected}
             >
                 {#if card.revealed}
                     <img src={card.img} alt="card" />
@@ -45,7 +47,7 @@
             </button>
         {/each}
     </div>
-    <button type="button" disabled={!allRevealed} onclick={submitBest}>
+    <button type="button" disabled={selected === -1} onclick={submitBest}>
         Submit best
     </button>
 </div>

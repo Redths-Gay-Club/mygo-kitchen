@@ -6,7 +6,7 @@
 
     function choose(card: string) {
         sendPacket({
-            type: "choose_card",
+            action: "choose_card",
             card,
         });
     }

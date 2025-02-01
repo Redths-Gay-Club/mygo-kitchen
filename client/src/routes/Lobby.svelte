@@ -31,7 +31,15 @@
 
     button {
         background-color: var(--accent);
-        font-size: 4rem;
+        font-size: 2rem;
+        padding: 1rem;
+        border: none;
+        border-radius: 0.5rem;
+        cursor: pointer;
+    }
+    
+    input {
+        font-size: 2rem;
         padding: 1rem;
         border: none;
         border-radius: 0.5rem;

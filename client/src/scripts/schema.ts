@@ -40,6 +40,17 @@ const RevealingCardStageSchema = z.object({
 });
 export type RevealingCardStage = z.infer<typeof RevealingCardStageSchema>
 
+const WaitingForBestCardStageSchema = z.object({
+    name: z.literal("waiting_for_best_card"),
+    sentence: z.string(),
+    cards: z.array(z.object({
+        revealed: z.boolean(),
+        img: z.string(),
+    })),
+    selected: z.number(),
+});
+export type WaitingForBestCardStage = z.infer<typeof WaitingForBestCardStageSchema>
+
 const EndStageSchema = z.object({
     name: z.literal("end"),
     sentence: z.string(),
@@ -57,6 +68,7 @@ const StageDataSchema = z.union([
     ChoosingCardStageSchema,
     WaitingForCardStageSchema,
     RevealingCardStageSchema,
+    WaitingForBestCardStageSchema,
     EndStageSchema
 ]);
 export type StageData = z.infer<typeof StageDataSchema>
@@ -89,7 +101,7 @@ export type GameData = {
 // packet
 
 const S2CRoomInfoSchema = z.object({
-    type: z.literal("room_info"),
+    action: z.literal("room_info"),
     id: z.string(),
     judge: z.string(),
     username: z.string(),
@@ -98,25 +110,25 @@ const S2CRoomInfoSchema = z.object({
 export type S2CRoomInfo = z.infer<typeof S2CRoomInfoSchema>;
 
 const S2CChangeStageSchema = z.object({
-    type: z.literal("change_stage"),
+    action: z.literal("change_stage"),
     stageData: StageDataSchema,
 });
 export type S2CChangeStage = z.infer<typeof S2CChangeStageSchema>;
 
 const S2CAddPlayerSchema = z.object({
-    type: z.literal("add_player"),
+    action: z.literal("add_player"),
     player: PlayerProfileSchema,
 });
 export type S2CAddPlayer = z.infer<typeof S2CAddPlayerSchema>;
 
 const S2CRemovePlayerSchema = z.object({
-    type: z.literal("remove_player"),
+    action: z.literal("remove_player"),
     player: z.string(),
 });
 export type S2CRemovePlayer = z.infer<typeof S2CRemovePlayerSchema>;
 
 const S2CChangeJudgeSchema = z.object({
-    type: z.literal("change_judge"),
+    action: z.literal("change_judge"),
     judge: z.string(),
 });
 export type S2CChangeJudge = z.infer<typeof S2CChangeJudgeSchema>;
@@ -127,34 +139,40 @@ export type S2CPacket = z.infer<typeof S2CPacketSchema>;
 
 
 const C2SStartSchema = z.object({
-    type: z.literal("start")
+    action: z.literal("start")
 });
 export type C2SStart = z.infer<typeof C2SStartSchema>;
 
 const C2SChooseSentenceSchema = z.object({
-    type: z.literal("choose_sentence"),
+    action: z.literal("choose_sentence"),
     sentence: z.string(),
 });
 export type C2SChooseSentence = z.infer<typeof C2SChooseSentenceSchema>;
 
 const C2SChooseCardSchema = z.object({
-    type: z.literal("choose_card"),
+    action: z.literal("choose_card"),
     card: z.string(),
 });
 export type C2SChooseCard = z.infer<typeof C2SChooseCardSchema>;
 
 const C2SRevealCardSchema = z.object({
-    type: z.literal("reveal_card"),
+    action: z.literal("reveal_card"),
     index: z.number(),
 });
 export type C2SRevealCard = z.infer<typeof C2SRevealCardSchema>;
 
+const C2SSelectCardSchema = z.object({
+    action: z.literal("select_card"),
+    index: z.number(),
+});
+export type C2SSelectCard = z.infer<typeof C2SSelectCardSchema>;
+
 const C2SChooseBestCardSchema = z.object({
-    type: z.literal("choose_best_card"),
+    action: z.literal("choose_best_card"),
     index: z.number(),
 });
 export type C2SChooseBestCard = z.infer<typeof C2SChooseBestCardSchema>;
 
-export const C2SPacketSchema = z.union([C2SStartSchema, C2SChooseSentenceSchema, C2SChooseCardSchema, C2SRevealCardSchema, C2SChooseBestCardSchema]);
+export const C2SPacketSchema = z.union([C2SStartSchema, C2SChooseSentenceSchema, C2SChooseCardSchema, C2SRevealCardSchema, C2SSelectCardSchema, C2SChooseBestCardSchema]);
 export type C2SPacket = z.infer<typeof C2SPacketSchema>;
 

@@ -6,7 +6,7 @@
 
     function choose(sentence: string) {
         sendPacket({
-            type: "choose_sentence",
+            action: "choose_sentence",
             sentence,
         });
     }

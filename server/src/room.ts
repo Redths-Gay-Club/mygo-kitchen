@@ -1,5 +1,6 @@
 import { sendPacket, type Player } from ".";
-import type { C2SChooseBestCard, C2SChooseCard, C2SChooseSentence, C2SPacket, C2SRevealCard } from "./schema";
+import { generateCards, generateSentences } from "./data";
+import type { C2SChooseBestCard, C2SChooseCard, C2SChooseSentence, C2SPacket, C2SRevealCard, C2SSelectCard, S2CPacket } from "./schema";
 
 export const rooms = new Map<string, Room>();
 
@@ -9,20 +10,50 @@ type Card = {
     owner: string,
 }
 
-type GameData = {
+type StageReady = {
+    name: "ready",
+};
+type StageWaitingForSentence = {
+    name: "waiting_for_sentence",
+};
+type StageWaitingForCards = {
+    name: "waiting_for_cards",
     sentence: string,
-    cards: Card[]
-}
+    cards: Card[],
+};
+type StageRevealingCards = {
+    name: "revealing_card",
+    sentence: string,
+    cards: Card[],
+};
+type StageWaitingForBestCard = {
+    name: "waiting_for_best_card",
+    sentence: string,
+    cards: Card[],
+};
+type StageEnd = {
+    name: "end",
+    sentence: string,
+    bestCard: Card,
+};
+
+type ServerStage =
+    | StageReady
+    | StageWaitingForSentence
+    | StageWaitingForCards
+    | StageRevealingCards
+    | StageWaitingForBestCard
+    | StageEnd;
 
 export type Room = {
     id: string,
     judge: string,
     players: Player[],
-    gameData?: GameData,
+    stage: ServerStage,
 }
 
 function generate4RandomChar(): string {
-    const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz123456790";
+    const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     let result = "";
     for (let i = 0; i < 4; i++) {
         result += chars.charAt(Math.floor(Math.random() * chars.length));
@@ -36,28 +67,26 @@ function generateNewRoomId(): string {
     }
 }
 
-export function createRoom(host: string): Room {
+export function createRoom(judge: string): Room {
     const id = generateNewRoomId();
-    const room = {
+    const room: Room = {
         id,
-        host,
-        judge: host,
-        players: []
+        judge,
+        players: [],
+        stage: { name: "ready" },
     };
     rooms.set(id, room);
     return room;
 }
 
 export function joinRoom(player: Player, room: Room) {
-    for (const p of room.players) {
-        sendPacket(p, {
-            type: "add_player",
-            player: player.data.profile,
-        });
-    }
+    broadcastPacket({
+        action: "add_player",
+        player: player.data.profile,
+    }, room);
     room.players.push(player);
     sendPacket(player, {
-        type: "room_info",
+        action: "room_info",
         id: room.id,
         judge: room.judge,
         username: player.data.profile.name,
@@ -69,39 +98,73 @@ export function joinRoom(player: Player, room: Room) {
 
 export function leaveRoom(player: Player, room: Room) {
     room.players.filter(p => p.data.profile.name !== player.data.profile.name);
-    for (const p of room.players) {
-        sendPacket(p, {
-            type: "remove_player",
-            player: player.data.profile.name,
-        });
-    }
+    broadcastPacket({
+        action: "remove_player",
+        player: player.data.profile.name,
+    }, room);
     // TODO! when judge quit / remove chosen card
+}
+
+
+type PacketHanlderObjectTypeMap<A> = {
+    [S in ServerStage["name"]]: {
+        stage: S,
+        forJudge: boolean,
+        handler(player: Player, room: Room, packet: Extract<C2SPacket, { action: A }>, stage: Extract<ServerStage, { name: S }>): void
+    }
+}
+type PacketHanlderObject<A> = PacketHanlderObjectTypeMap<A>[ServerStage["name"]];
+
+type PacketHandlerMap = {
+    [A in C2SPacket["action"]]: PacketHanlderObject<A>;
+};
+
+const packetHanlderMap: PacketHandlerMap = {
+    start: {
+        stage: "ready",
+        forJudge: true,
+        handler: letJudgeChooseSentence,
+    },
+    choose_sentence: {
+        stage: "waiting_for_sentence",
+        forJudge: true,
+        handler: judgeChoseSentence,
+    },
+    choose_card: {
+        stage: "waiting_for_cards",
+        forJudge: false,
+        handler: playerChoseCard,
+    },
+    reveal_card: {
+        stage: "revealing_card",
+        forJudge: true,
+        handler: judgeRevealCard,
+    },
+    select_card: {
+        stage: "waiting_for_best_card",
+        forJudge: true,
+        handler: judgeSelectedCard,
+    },
+    choose_best_card: {
+        stage: "waiting_for_best_card",
+        forJudge: true,
+        handler: judgeChoseBestCard
+    }
 }
 
 export function processPacket(player: Player, packet: C2SPacket) {
     const room = player.data.room;
-    switch (packet.type) {
-        case "start":
-            if (!isJudge(player, room)) return;
-            if (room.players.length < 2) return;
-            letJudgeChooseSentence(player, room);
-            break;
-        case "choose_sentence":
-            if (!isJudge(player, room)) return;
-            judgeChoseSentence(player, room, packet);
-            break;
-        case "choose_card":
-            if (isJudge(player, room)) return;
-            playerChoseCard(player, room, packet);
-            break;
-        case "reveal_card":
-            if (!isJudge(player, room)) return;
-            judgeRevealCard(player, room, packet);
-            break;
-        case "choose_best_card":
-            if (!isJudge(player, room)) return;
-            judgeChoseBestCard(player, room, packet);
-            break;
+    const hanlderAndChecks = packetHanlderMap[packet.action];
+    if (room.stage.name !== hanlderAndChecks.stage) return;
+    if (isJudge(player, room) !== hanlderAndChecks.forJudge) return;
+    // @ts-ignore
+    hanlderAndChecks.handler(player, room, packet, room.stage);
+}
+
+function broadcastPacket(packet: S2CPacket, room: Room, skip?: (p: Player) => boolean) {
+    for (const p of room.players) {
+        if (skip && skip(p)) continue;
+        sendPacket(p, packet);
     }
 }
 
@@ -110,124 +173,142 @@ function isJudge(player: Player, room: Room) {
 }
 
 function letJudgeChooseSentence(judge: Player, room: Room) {
+    if (room.players.length < 2) return;
     sendPacket(judge, {
-        type: "change_stage",
+        action: "change_stage",
         stageData: {
             name: "choosing_sentence",
-            sentences: ["i dont know", "what to say", "about this"]
+            sentences: generateSentences(3),
         }
     });
-    for (const p of room.players) {
-        if (p === judge) continue;
-        sendPacket(p, {
-            type: "change_stage",
-            stageData: {
-                name: "waiting_for_sentence"
-            }
-        });
-    }
+    room.stage = { name: "waiting_for_sentence" };
+    broadcastPacket({
+        action: "change_stage",
+        stageData: room.stage,
+    }, room, p => p === judge);
 }
 
 function judgeChoseSentence(judge: Player, room: Room, packet: C2SChooseSentence) {
     const sentence = packet.sentence;
-    room.gameData = {
+    room.stage = {
+        name: "waiting_for_cards",
         sentence,
-        cards: []
+        cards: [],
     };
-    updateProgress(room);
+    updateProgress(room, room.stage);
+    const generatedCards = generateCards(room.players.length - 1, 6);
+    console.log(generatedCards);
     for (const p of room.players) {
         if (p === judge) continue;
         sendPacket(p, {
-            type: "change_stage",
+            action: "change_stage",
             stageData: {
                 name: "choosing_card",
                 sentence,
-                cards: [
-                    "https://drive.miyago9267.com/d/file/img/mygo/%E5%A6%B3%E6%98%AF%E4%BE%86%E6%89%BE%E6%88%91%E5%90%B5%E6%9E%B6%E7%9A%84%E5%97%8E.jpg",
-                    "https://drive.miyago9267.com/d/file/img/mygo/%E5%B7%AE%E5%8B%81.jpg",
-                    "https://drive.miyago9267.com/d/file/img/mygo/%E6%88%91%E6%83%B3%E6%87%89%E8%A9%B2%E4%B8%8D%E6%98%AF.jpg",
-                ]
+                cards: generatedCards.pop() || [], // TODO! no cards
             }
         });
     }
 }
 
-function updateProgress(room: Room) {
-    const finishedPlayers = room.gameData?.cards?.map(c => c.owner) || [];
+function updateProgress(room: Room, stage: StageWaitingForCards) {
+    const finishedPlayers = stage.cards.map(c => c.owner);
     finishedPlayers.push(room.judge);
     console.log("update progress", finishedPlayers)
-    for (const p of room.players) {
-        if (finishedPlayers.includes(p.data.profile.name)) {
-            sendPacket(p, {
-                type: "change_stage",
-                stageData: {
-                    name: "waiting_for_card",
-                    progress: `${finishedPlayers.length - 1}/${room.players.length - 1}`
-                }
-            });
+
+    broadcastPacket({
+        action: "change_stage",
+        stageData: {
+            name: "waiting_for_card",
+            progress: `${finishedPlayers.length - 1}/${room.players.length - 1}`
         }
-    }
+    }, room, p => !finishedPlayers.includes(p.data.profile.name))
 }
 
-
-function playerChoseCard(player: Player, room: Room, packet: C2SChooseCard) {
+function playerChoseCard(player: Player, room: Room, packet: C2SChooseCard, stage: StageWaitingForCards) {
     const card = packet.card;
-    if (!room.gameData) return; // bro sent choose card before sentence
-    room.gameData.cards.push({
+    stage.cards.push({
         img: card,
         owner: player.data.profile.name,
         revealed: false,
     });
-    if (room.gameData.cards.length < room.players.length - 1) {
-        updateProgress(room);
+    if (stage.cards.length < room.players.length - 1) {
+        updateProgress(room, stage);
         return;
     }
 
     // reveal time
-    updateRevealedCard(room);
+    room.stage = {
+        name: "revealing_card",
+        sentence: stage.sentence,
+        cards: stage.cards,
+    }
+    updateRevealedCard(room, room.stage);
 }
 
-function updateRevealedCard(room: Room) {
-    if (!room.gameData) return;
+function updateRevealedCard(room: Room, stage: StageRevealingCards) {
+    const judge = room.players.find(p => isJudge(p, room));
+    if (!judge) return; // TODO: handle judge
+    sendPacket(judge, {
+        action: "change_stage",
+        stageData: stage
+    });
+    broadcastPacket({
+        action: "change_stage",
+        stageData: {
+            name: "waiting_for_best_card",
+            sentence: stage.sentence,
+            cards: stage.cards,
+            selected: -1,
+        }
+    }, room, p => p === judge);
 
-    for (const p of room.players) {
-        sendPacket(p, {
-            type: "change_stage",
-            stageData: {
-                name: "revealing_card",
-                sentence: room.gameData.sentence,
-                cards: room.gameData.cards
-            }
-        });
+    if (stage.cards.every(c => c.revealed)) {
+        room.stage = {
+            name: "waiting_for_best_card",
+            sentence: stage.sentence,
+            cards: stage.cards,
+        };
     }
 }
 
-function judgeRevealCard(judge: Player, room: Room, packet: C2SRevealCard) {
+function judgeRevealCard(judge: Player, room: Room, packet: C2SRevealCard, stage: StageRevealingCards) {
     const index = packet.index;
-    if (!room.gameData) return; // bro sent reveal card before chosen
-
-    const card = room.gameData.cards.at(index)
+    const card = stage.cards.at(index)
     if (!card) return;
-    card.revealed = true;
+    if (card.revealed) return;
 
-    updateRevealedCard(room);
+    card.revealed = true;
+    updateRevealedCard(room, stage);
 }
 
-function judgeChoseBestCard(judge: Player, room: Room, packet: C2SChooseBestCard) {
-    const index = packet.index;
-    if (!room.gameData) return; // bro sent best card before chosen
+function judgeSelectedCard(judge: Player, room: Room, packet: C2SSelectCard, stage: StageWaitingForBestCard) {
+    broadcastPacket({
+        action: "change_stage",
+        stageData: {
+            name: "waiting_for_best_card",
+            sentence: stage.sentence,
+            cards: stage.cards,
+            selected: packet.index,
+        }
+    }, room, p => p === judge);
+}
 
-    const card = room.gameData.cards.at(index)
+function judgeChoseBestCard(judge: Player, room: Room, packet: C2SChooseBestCard, stage: StageWaitingForBestCard) {
+    const index = packet.index;
+    const card = stage.cards.at(index)
     if (!card) return;
+
+    room.stage = {
+        name: "end",
+        sentence: stage.sentence,
+        bestCard: card,
+    };
 
     for (const p of room.players) {
         sendPacket(p, {
-            type: "change_stage",
-            stageData: {
-                name: "end",
-                sentence: room.gameData.sentence,
-                bestCard: card
-            }
+            action: "change_stage",
+            stageData: room.stage,
         });
     }
 
@@ -239,16 +320,13 @@ function startAgain(room: Room) {
     const nextJudgeIndex = (lastJudgeIndex + 1) % room.players.length
     const nextJudge = room.players[nextJudgeIndex].data.profile.name;
     room.judge = nextJudge;
-    for (const p of room.players.values()) {
-        sendPacket(p, {
-            type: "change_judge",
-            judge: nextJudge
-        });
-        sendPacket(p, {
-            type: "change_stage",
-            stageData: {
-                name: "start"
-            }
-        });
-    }
+    broadcastPacket({
+        action: "change_judge",
+        judge: nextJudge
+    }, room);
+    broadcastPacket({
+        action: "change_stage",
+        stageData: { name: "start" }
+    }, room);
+    room.stage = { name: "ready" };
 }
