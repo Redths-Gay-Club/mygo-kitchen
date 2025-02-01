@@ -15,12 +15,11 @@
         font-size: 175%;
         --text: #0f0b19;
         --background: #faf9fd;
-        --primary: #81f295;
-        --secondary: #70d663;
-        --secondary30: #70d66350;
-        --accent: #4acc57;
+        --primary: #a2d2e9;
+        --secondary: #609bd5;
+        --accent: #0b4072;
 
-        font-family: Verdana, sans-serif;
+        font-family: Unifont, sans-serif;
         color: var(--text);
     }
 </style>

@@ -1,7 +1,7 @@
 import z from "zod";
 import { type Room, createRoom, joinRoom, leaveRoom, processPacket, rooms } from "./room";
 import type { ServerWebSocket } from "bun";
-import { C2SPacketSchema, type C2SPacket, type PlayerProfile, type S2CPacket as S2CPacket } from "./schema"
+import { C2SPacketSchema, type PlayerProfile, type S2CPacket as S2CPacket } from "./schema"
 
 type PlayerData = {
     profile: PlayerProfile,

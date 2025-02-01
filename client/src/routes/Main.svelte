@@ -7,12 +7,14 @@
     import WaitingForCard from "./stages/WaitingForCard.svelte";
     import RevealingCard from "./stages/RevealingCard.svelte";
     import End from "./stages/End.svelte";
+    import WaitingForBestCard from "./stages/WaitingForBestCard.svelte";
 
-    let { stage }: GameData = $props();
+    let gameData: GameData = $props();
+    let stage = $derived(gameData.stage);
 </script>
 
 {#if stage.name === "start"}
-    <Start />
+    <Start {...gameData} />
 {:else if stage.name === "choosing_sentence"}
     <ChoosingSentence {...stage} />
 {:else if stage.name === "waiting_for_sentence"}
@@ -23,6 +25,8 @@
     <WaitingForCard {...stage} />
 {:else if stage.name === "revealing_card"}
     <RevealingCard {...stage} />
+{:else if stage.name === "waiting_for_best_card"}
+    <WaitingForBestCard {...stage} />
 {:else if stage.name === "end"}
     <End {...stage} />
 {/if}

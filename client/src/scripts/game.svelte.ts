@@ -33,24 +33,38 @@ export function connectToWebsocket(username: string, roomId?: string) {
     }
 }
 
-export function processPacket(ws: WebSocket, packet: S2CPacket) {
-    switch (packet.type) {
-        case "room_info":
-            handleRoomInfo(ws, packet);
-            break;
-        case "change_stage":
-            handleChangeStage(packet);
-            break;
-        case "add_player":
-            handleAddPlayer(packet);
-            break;
-        case "remove_player":
-            handleRemovePlayer(packet);
-            break;
-        case "change_judge":
-            handleChangeJudge(packet);
-            break;
+type PacketHandlerMap = {
+    [A in S2CPacket["action"]]?: (game: GameData, packet: Extract<S2CPacket, { action: A }>) => void;
+};
+
+const packetHandlerMap: PacketHandlerMap = {
+    change_stage(game, packet) {
+        game.stage = packet.stageData;
+    },
+    add_player(game, packet) {
+        game.players.push(packet.player);
+        game.players = game.players; // trigger $state
+    },
+    remove_player(game, packet) {
+        game.players.filter(p => p.name !== packet.player);
+        game.players = game.players; // trigger $state
+    },
+    change_judge(game, packet) {
+        game.judge = packet.judge;
     }
+}
+
+function processPacket(ws: WebSocket, packet: S2CPacket) {
+    if (packet.action === "room_info") {
+        handleRoomInfo(ws, packet);
+        return;
+    }
+
+    if (!storage.gameData) return;
+    const handler = packetHandlerMap[packet.action];
+    if (!handler) return;
+    // @ts-ignore
+    handler(storage.gameData, packet);
 }
 
 export function sendPacket(packet: C2SPacket) {
@@ -65,24 +79,4 @@ function handleRoomInfo(ws: WebSocket, packet: S2CRoomInfo) {
         ws,
         ...packet,
     }
-}
-
-function handleChangeStage(packet: S2CChangeStage) {
-    if (!storage.gameData) return;
-    storage.gameData.stage = packet.stageData;
-}
-
-function handleAddPlayer(packet: S2CAddPlayer) {
-    if (!storage.gameData) return;
-    storage.gameData.players.push(packet.player);
-}
-
-function handleRemovePlayer(packet: S2CRemovePlayer) {
-    if (!storage.gameData) return;
-    storage.gameData.players.filter(p => p.name !== packet.player);
-}
-
-function handleChangeJudge(packet: S2CChangeJudge) {
-    if (!storage.gameData) return;
-    storage.gameData.judge = packet.judge;
 }

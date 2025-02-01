@@ -1,22 +1,21 @@
 <script lang="ts">
-    import { sendPacket, storage } from "../../scripts/game.svelte";
+    import { sendPacket } from "../../scripts/game.svelte";
+    import type { GameData } from "../../scripts/schema";
 
+    const gameData: GameData = $props();
     const disabled = $derived(
-        !(
-            storage.gameData &&
-            storage.gameData.judge === storage.gameData.username &&
-            storage.gameData.players.length >= 2
-        ),
+        !(gameData.judge === gameData.username &&gameData.players.length >= 2)
     );
 
     function onclick() {
-        sendPacket({ type: "start" });
+        sendPacket({ action: "start" });
     }
 </script>
 
 <div>
     <h1>MyGo Kitchen</h1>
     <button type="button" {disabled} {onclick}>START</button>
+    <h1>Room {gameData.id}</h1>
 </div>
 
 <style>
