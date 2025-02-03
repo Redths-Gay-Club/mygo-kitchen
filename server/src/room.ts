@@ -52,17 +52,14 @@ export type Room = {
     stage: ServerStage,
 }
 
-function generate4RandomChar(): string {
-    const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    let result = "";
-    for (let i = 0; i < 4; i++) {
-        result += chars.charAt(Math.floor(Math.random() * chars.length));
-    }
-    return result;
+
+
+function random(min: number, max: number): number {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 function generateNewRoomId(): string {
     while (true) {
-        const roomId = generate4RandomChar();
+        const roomId = random(100, 999).toString();
         if (!rooms.has(roomId)) return roomId;
     }
 }

@@ -176,3 +176,14 @@ export type C2SChooseBestCard = z.infer<typeof C2SChooseBestCardSchema>;
 export const C2SPacketSchema = z.union([C2SStartSchema, C2SChooseSentenceSchema, C2SChooseCardSchema, C2SRevealCardSchema, C2SSelectCardSchema, C2SChooseBestCardSchema]);
 export type C2SPacket = z.infer<typeof C2SPacketSchema>;
 
+
+// api
+export const S2CResponseSchema = z.object({
+    type: z.union([
+        z.literal("bad_request"),
+        z.literal("room_not_found"),
+        z.literal("name_taken"),
+        z.literal("valid")
+    ]),
+});
+export type S2CResponse = z.infer<typeof S2CResponseSchema>;
