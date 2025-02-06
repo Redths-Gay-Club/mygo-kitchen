@@ -1,0 +1,8 @@
+name = "mygo-kitchen"
+compatibility_date = "2025-01-29"
+
+main = "./.cloudflare/worker.js"
+site.bucket = "./.cloudflare/public"
+
+[observability]
+enabled = true

@@ -1,0 +1,9962 @@
+[
+    {
+        "sentence": "{}加十分。",
+        "word_class": 6
+    },
+    {
+        "sentence": "{}我拜託你了",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}你為何要躲著我呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不分藍黑",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}在說話",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，幫我開直播！！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "SUPER IDOL的笑容，都沒{}的甜～",
+        "word_class": 16
+    },
+    {
+        "sentence": "向著{}全速的前進！好漢被捕那算個屁！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是說不要去{}嗎！！聽不懂人話阿！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "先生不知何許人也，亦不詳其姓字，{}，因以爲號焉。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，29歲。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，一起，強大。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，你今晚的惡夢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，但是我拒絕。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，你要確定欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，你就是我要追的新番。",
+        "word_class": 5
+    },
+    {
+        "sentence": "聊天室都是{}。",
+        "word_class": 16
+    },
+    {
+        "sentence": "早上好中國，現在我有{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}要掰了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "還敢把{}拿出來說嘴啊，騷年。",
+        "word_class": 1
+    },
+    {
+        "sentence": "僅僅一個{}出事，就可以造成全台大停電，這政府確定沒問題？",
+        "word_class": 4
+    },
+    {
+        "sentence": "烏俄戰爭結束的最大功臣：{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "希望我明天一大早起床時，不要在地上看到一堆{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "快訊：{}發動地鳴，造成花東地區發生顯著有感地震。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}會讓你在十秒鐘內大報社。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為複雜的經濟及社會需求，這些{}的兒女很難在成人時就在社會上有立足點。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}為西方文明打下了基礎。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}與牛頓、高斯並列為有史以來最偉大的三位數學家。",
+        "word_class": 1
+    },
+    {
+        "sentence": "看著一堆甚麼都不懂的{}上台報告好痛苦。",
+        "word_class": 1
+    },
+    {
+        "sentence": "爛的{}不少，但嘴臉那麼難看的真的不常見。",
+        "word_class": 1
+    },
+    {
+        "sentence": "翻譯西班牙文最痛苦的事：{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近在八卦版看到很正常的標題，點進去都是{}，嚇死。",
+        "word_class": 1
+    },
+    {
+        "sentence": "對面一群{}在叫春，讓我每晚徹夜未眠。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我前幾天不小心看到{}，還好我在水槽前一直洗眼睛，不然真的會出事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "北京當局在這天，罕見用高規格紀念{}，外人看起來有種「搶奪歷史定位」之感。",
+        "word_class": 4
+    },
+    {
+        "sentence": "最新{}現折6折起，趕快來搶購！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}很好，真的，我試過。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}怎麼跟得上台灣啊！",
+        "word_class": 4
+    },
+    {
+        "sentence": "我最討厭像你這種{}的小鬼了。",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}是一門必修課。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我的信仰。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡趁室友不在時，在宿舍裡面{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "五月報稅我都不繳錢，我都繳{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只是跟著{}進來看熱鬧的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我上課都坐在最後一排吃{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我請假單上的請假事由都寫{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是一個不好的習慣。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是一個堅忍不拔的紀錄片。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是一個黑洞！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是人生中的必修科目。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是下一季全明星運動會的參賽者。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這家健身房竟然有{}可以用。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天學妹私訊我，說她可以幫我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "學長跟我說想要{}的時候可以找他。",
+        "word_class": 1
+    },
+    {
+        "sentence": "早上一起床，發現{}裸體躺在我床上。",
+        "word_class": 2
+    },
+    {
+        "sentence": "從明年開始，中國將進口{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "台北捷運將推出有{}圖案的悠遊卡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次想叫外送，我都用{}點餐。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}都是為你～",
+        "word_class": 17
+    },
+    {
+        "sentence": "發出了{}的聲音。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要用心，人人都是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}都會拿斧頭追著我砍欸！",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}都騙人！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}最大的秘密是多的贏，少的輸。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}就是你家～",
+        "word_class": 16
+    },
+    {
+        "sentence": "吾人左手所封{}，尊我號令就在此刻！！！",
+        "word_class": 5
+    },
+    {
+        "sentence": "他的手可以穿過我的{}～～",
+        "word_class": 6
+    },
+    {
+        "sentence": "啊我就怕被{}啊！",
+        "word_class": 16
+    },
+    {
+        "sentence": "{}就是要交配啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}就是美味！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}敢不敢啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}發酸，感覺好痛苦。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}給我好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "幫幫忙，我又沒有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你有聽過素{}就會飽嗎?",
+        "word_class": 1
+    },
+    {
+        "sentence": "住…住手！你的{}刺到我了！！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}給爺爬！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}超讚的啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}會拿香菸去燙其他的Vtuber。",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}道，堂堂連載！",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}讓我遇見這樣的你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "阿你又有什麼問題啦！{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "‘’{}Mommy long legs 的腿”",
+        "word_class": 17
+    },
+    {
+        "sentence": "（在洗澡的時候）：「嗨寶貝，可以幫我把{}拿過來嗎，我把他忘記在房間裡了！」",
+        "word_class": 1
+    },
+    {
+        "sentence": "「{}」是需要鼓起勇氣才說得出口的啊。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你將不再是{}，而是成為人如其名的人。",
+        "word_class": 5
+    },
+    {
+        "sentence": "「{}的有在做吧？」「這個可以有！」",
+        "word_class": 1
+    },
+    {
+        "sentence": "【問卦】哪裡有{}的掛？",
+        "word_class": 16
+    },
+    {
+        "sentence": "#關於我可能讓你很意外的Point：{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "1950年代至1960年代間，中華人民共和國針對美國對中國的領空侵犯發向其發出了多達900多次的{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "20XX開始，我們要推動新{}運動來促進社會！！",
+        "word_class": 4
+    },
+    {
+        "sentence": "3+11={}",
+        "word_class": 4
+    },
+    {
+        "sentence": "我要回家囉٩(ˊᗜˋ*)و，{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "一切都是{}的陰謀！",
+        "word_class": 1
+    },
+    {
+        "sentence": "一天一{}，醫生遠離我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我本來是想大聲斥責的，但實在是{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "先休息一下，我已經沒有{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一天不{}，我的小頭就肌癢難耐。",
+        "word_class": 2
+    },
+    {
+        "sentence": "一日之計在於{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一生中有幸能結交一個{}就完美了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果早餐沒有{}，一整天都提不起幹勁。",
+        "word_class": 1
+    },
+    {
+        "sentence": "魯肉飯就是要配{}啊不然要幹嘛？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我睡前沒有{}的話就睡不著。",
+        "word_class": 1
+    },
+    {
+        "sentence": "成為{}是我人生志願！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是不會承認我會{}的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你們都是我的{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "中國外交部嚴正譴責{}，這是極度辱華的行為。",
+        "word_class": 4
+    },
+    {
+        "sentence": "洗頭後用{}修護，讓你秀髮擁有綢緞般的質感！",
+        "word_class": 1
+    },
+    {
+        "sentence": "中國的底線就是{}，絕不退讓！",
+        "word_class": 14
+    },
+    {
+        "sentence": "一名軍官拿照片給他同袍看，然後說：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "一夜情對象，就應該是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "一定打你，一定把你{}打歪。",
+        "word_class": 6
+    },
+    {
+        "sentence": "一定把你{}打斷。",
+        "word_class": 16
+    },
+    {
+        "sentence": "一修逆，{}！！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "一個{}吃不夠，你可以吃兩個啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}本身就是個笑話！",
+        "word_class": 1
+    },
+    {
+        "sentence": "湊齊七顆龍珠我就能擁有{}了啊！",
+        "word_class": 5
+    },
+    {
+        "sentence": "這個{}只值30塊。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不知從何時開始，{}變成了遙不可及的願望。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}這是不可能的，一輩子都不可能的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "但是{}，我們已經回不去了",
+        "word_class": 1
+    },
+    {
+        "sentence": "一個{}的題目。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一個男人在孤單的時候總會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一個便當吃不飽，你可以{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "市長對最近睡到中午一事表示{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "左轉樓下買消夜，老闆都會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一起墮入{}之淵吧！",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}說要有光，就有光",
+        "word_class": 14
+    },
+    {
+        "sentence": "一頓完美的早餐只需要有{}當配料。",
+        "word_class": 1
+    },
+    {
+        "sentence": "從前從前，王子吻了沉睡中的公主，然後她就{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "小明摟著小美的腰，在這浪漫的氣氛底下，小明輕聲在她耳邊說道：「{}」",
+        "word_class": 1
+    },
+    {
+        "sentence": "讚美是一種美德，所以我常以{}來稱讚他人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "到底是誰說英國的食物很難吃？我就覺得{}相當不錯啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "二戰起因是希特勒進攻{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "女兒紅的必備材料是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "下一位值日生昨晚用{}DIY。",
+        "word_class": 2
+    },
+    {
+        "sentence": "這裡的妓女，{}，十分便宜！",
+        "word_class": 2
+    },
+    {
+        "sentence": "人，如果沒有了夢想，那和{}有什麼區別。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人不{}枉少年。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生三大錯覺，我行、我可以、我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "ㄟ幹，是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}的出現改變了第三次世界大戰的局勢。",
+        "word_class": 14
+    },
+    {
+        "sentence": "人生只是一場{}所構成的遊戲而已。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生自古誰無死，不如{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生的盡頭，只有{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "雖然是{}，但可不是鬧著玩的。",
+        "word_class": 15
+    },
+    {
+        "sentence": "人生最後一秒，{}將成為我的人生跑馬燈。",
+        "word_class": 1
+    },
+    {
+        "sentence": "值日生本人長得很像{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}就在我們這群玩遊戲的人裡面！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我對你的愛就像{}一樣！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一出生媽媽嫌我太過{}，把我拋棄了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為我{}，所以我沒男／女朋友……",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生無常，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生短短起個秋，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人在江湖飄，哪有不{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "時間跟{}一樣，擠一擠就會出來了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "老子直接在你的聊天室{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "最後，最後{}降臨☆",
+        "word_class": 4
+    },
+    {
+        "sentence": "老子{}的外號十歲就有啦！",
+        "word_class": 16
+    },
+    {
+        "sentence": "這到底什麼{}？！",
+        "word_class": 16
+    },
+    {
+        "sentence": "人活著沒有目的，而且每個人都會{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "當你知道一切都不重要後，整個{}都會是你的。",
+        "word_class": 15
+    },
+    {
+        "sentence": "人們都說，那是個{}的時代。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人們就像{}一樣。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們可是{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "人家真的好想要{}……♡",
+        "word_class": 1
+    },
+    {
+        "sentence": "人被{}，就會死。",
+        "word_class": 15
+    },
+    {
+        "sentence": "十次車禍九次快，還有一次是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "又舔！又舔！又、又舔{}！",
+        "word_class": 16
+    },
+    {
+        "sentence": "三人行，必有{}焉。",
+        "word_class": 1
+    },
+    {
+        "sentence": "三十歲之後，我得到了{}的力量。",
+        "word_class": 1
+    },
+    {
+        "sentence": "三天不拉屎只為了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天都用{}刷牙。",
+        "word_class": 1
+    },
+    {
+        "sentence": "承太郎先生，你在幹什麼呀，快用你那無敵的{}想想辦法啊！",
+        "word_class": 5
+    },
+    {
+        "sentence": "上班就是要{}才能殺時間。",
+        "word_class": 1
+    },
+    {
+        "sentence": "上學前要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "下雨的天氣，貓咪都會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "下個禮拜，有空來我家嚐嚐{}嗎？猜你一定很喜歡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "下舖室友每晚{}好可怕……",
+        "word_class": 1
+    },
+    {
+        "sentence": "習维尼背後的故事，是{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "大家好，我是阿扣，{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "大家好，這裡是台灣，我是台灣人{}。",
+        "word_class": 46
+    },
+    {
+        "sentence": "大家都是文明人不要{}阿操你媽的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大家都說我媽媽是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "大雄：哆啦A夢幫幫我！　哆啦A夢：真拿你沒辦法，噹噹噹噹——{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "被我發現你真的在偷偷{}，好色喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "當年我離鄉背井穿越四大洲，身上帶的家當就只有{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大聲喊出自己的能力！{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "女友：「我和你媽同時掉進水裡，你會選擇救誰？」　答：「我會救{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "女友：「你到底喜歡我哪一點？」　答：「我喜歡你的{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "女友：「你愛我嗎？」　答：「我愛{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "女友：「你覺得我今天有什麼不一樣嗎？」　答：「有，你長得越來越像{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "子不學，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經也是名勇者，直到我的{}中了一箭。",
+        "word_class": 15
+    },
+    {
+        "sentence": "我變{}了，也變強了。",
+        "word_class": 15
+    },
+    {
+        "sentence": "小明忘記他自己不在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "小朋友在家沒有注意，一個不小心{}而釀成悲劇。",
+        "word_class": 1
+    },
+    {
+        "sentence": "小狗{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "小孩子才{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "小時候我媽說我是因為{}才出生的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "工商是我們幫你{}的！",
+        "word_class": 16
+    },
+    {
+        "sentence": "已經沒有別的辦法了。你必須{}才行！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不可能，我{}天下無敵！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不用擔心，因為我{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "不吃{}是一件很嘻哈的事。",
+        "word_class": 16
+    },
+    {
+        "sentence": "魯迅說過：待我{}時，你將見我的微笑。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不行，你，{}不夠。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不行了、停不下來……{}太棒了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我已經不是三歲小孩了，我是個成年人，{}我能做到的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是{}，我可是不吃的呦！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我愛你，但{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是{}，是桂。",
+        "word_class": 5
+    },
+    {
+        "sentence": "白天是{}，晚上是GAY Member♂",
+        "word_class": 2
+    },
+    {
+        "sentence": "不是你的{}我就不要！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這就是……{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是我不接受你，是我媽說你沒有{}，所以我不能跟你在一起。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是核食，是{}！",
+        "word_class": 14
+    },
+    {
+        "sentence": "不要{}，大家都是一家人。",
+        "word_class": 14
+    },
+    {
+        "sentence": "不要{}！那是犯法的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要太{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要再{}了！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要在公共場合點開這個群組，因為大家很常傳一些{}的內容。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要再說了！！我已經下定決心要成為最強的{}人！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要相信你自己，相信我，相信{}的我！",
+        "word_class": 15
+    },
+    {
+        "sentence": "今天的{}真是喧囂。",
+        "word_class": 15
+    },
+    {
+        "sentence": "我們之中出現了一個{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "快看！這東西比{}還要好用呀！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要浪費食物，小心跟{}一樣沒飯吃！",
+        "word_class": 1
+    },
+    {
+        "sentence": "收{}，意者私。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我選擇{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "信耶穌得五倍{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "不要啊！至少在我{}之後十年吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要瞎掰好嗎，明明是{}的錯。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}既是正義，也是犯罪的開端。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看起來像{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要罵我的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不喝水只喝{}比較健康啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不過沒有關係阿，沒有關係，{} ！！",
+        "word_class": 6
+    },
+    {
+        "sentence": "中二病也想{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "中國人：要不是我們{}，你們早就完蛋了！",
+        "word_class": 4
+    },
+    {
+        "sentence": "中國大陸最好笑的發言是：{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "你以為政府會{}嗎？",
+        "word_class": 4
+    },
+    {
+        "sentence": "所以我說什麼時候{}才會兌現？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我預感下次大選會出現大型{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "我怎麼會沒有想到，{}竟然跟這次的陰謀有關！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是心中最軟的一塊。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}什麼時候才要下架？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}最擅長輸出假新聞了。",
+        "word_class": 4
+    },
+    {
+        "sentence": "為什麼要禁止{}？他明明就很優質！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你以為{}真的很好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在鍵盤上新增了{}的快捷鍵。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的滑鼠巨集上有{}欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}真的是台灣的笑話！",
+        "word_class": 4
+    },
+    {
+        "sentence": "{}超厲害的欸！你居然沒有聽說過嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "中國大陸GDP占比最大宗的項目為{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "中國是世界上最{}的國家。",
+        "word_class": 4
+    },
+    {
+        "sentence": "五歲能{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天{}好大，快要把我曬黑了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天，{}又飛走了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天不小心摔車了，因為{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天不開台，明天就{}",
+        "word_class": 156
+    },
+    {
+        "sentence": "今天出門我遇到了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃飯時我想要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天會和家人一起{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天因為沒有加倍，所以{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "今天在路上撿到100塊，超{}的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天早上我{}，然後睡回籠覺。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天早上我出門的時候，發現我家前面有{}，於是我默默地退回去關上了門。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是在看什麼看啊！沒看過{}是不是？",
+        "word_class": 1
+    },
+    {
+        "sentence": "這個{}就是埋藏著世界真理的關鍵啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "別怪我沒事先警告你，我可是{}的大師呢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "眾卿退下，朕要單獨跟他{}，這可是攸關國家存亡的大事！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這本{}的秘笈，可是蘊藏了古人的智慧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "要成為，{}！不認輸！",
+        "word_class": 15
+    },
+    {
+        "sentence": "今天你想讓我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天我走在路上，看到{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天我要去{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我心中尚未崩壞的地方。",
+        "word_class": 16
+    },
+    {
+        "sentence": "今天我想來點{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天的我，沒有{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天的配菜就決定是{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "再給我兩分鐘，讓我把{}結成冰。",
+        "word_class": 16
+    },
+    {
+        "sentence": "忽有{}，拔山倒樹而來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果可以，我想和你{}。",
+        "word_class": 16
+    },
+    {
+        "sentence": "只要你一個眼神肯定，我的{}就有意義。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們都需要勇氣，去相信會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "男性從可爾必思到草莓牛奶，只需要{}就可以了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這是一首簡單的小情歌，唱著人們{}的曲折。",
+        "word_class": 1
+    },
+    {
+        "sentence": "親愛的，謝謝你愛我，雖然我真的很{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "很多人說我像{}，真的不意外。",
+        "word_class": 1
+    },
+    {
+        "sentence": "盯著手裡龐勃的{}，突然感覺嘴唇乾燥，舌尖舔過自己的唇邊。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我小時候以為，晚上關了燈{}是正常的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天起床下床一個不小心{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天被教官約談，因為我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天想我嗎？我她媽想跟你一起{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今日午餐你們全都{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今年不是{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "今晚，我想來點{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的發展使人與人之間的交流變得更加便利。",
+        "word_class": 1
+    },
+    {
+        "sentence": "「是嗎？我看著倒像是{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "空peko空peko空{}～",
+        "word_class": 15
+    },
+    {
+        "sentence": "跨啥小，跨哩{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你今天晚上想要吃{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "國際法庭宣判{}犯下了種族滅絕的罪行",
+        "word_class": 14
+    },
+    {
+        "sentence": "那真是太諷刺了{}，你離開你師傅繞了一大圈，最後到達的境界，竟然是你不想學的，你師傅的料理。",
+        "word_class": 15
+    },
+    {
+        "sentence": "這個4000里長江的盡頭，{}或許正是你的極限也說不定。",
+        "word_class": 15
+    },
+    {
+        "sentence": "大家好，打ㄍㄟˇㄏㄜˋ，ㄊㄞˉㄍㄚˊ後，我是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的好想贏{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "哇！那邊有隻可愛的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不可以{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}～迎著風～",
+        "word_class": 16
+    },
+    {
+        "sentence": "我要挑戰{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "永不言敗，是{}的最佳品格。",
+        "word_class": 1
+    },
+    {
+        "sentence": "螳螂捕蟬，{}在後。",
+        "word_class": 1
+    },
+    {
+        "sentence": "是時候該展現{}的技術了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "對不起啦，這次我會遲到是因為{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "讓我們先{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "主播，有沒有要抽{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是不是在{} 啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今晚，我想被{}play！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}歸位！",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨晚我輾轉難眠，今天早上才發現原來{}受傷了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你已經不是{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我跟你、{}對決！",
+        "word_class": 1
+    },
+    {
+        "sentence": "當總統不是{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "離開我的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "高雄只要經濟，不要{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "用{}打選戰。",
+        "word_class": 4
+    },
+    {
+        "sentence": "{}的問題，智者無法回答。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}賣得出去，錢進得來，高雄發大財！",
+        "word_class": 4
+    },
+    {
+        "sentence": "元首說要邀請人玩密室逃脫，所以我們找來一些{}放進了一間密室。",
+        "word_class": 4
+    },
+    {
+        "sentence": "內褲上的{}圖案永遠會讓我更加性飢渴。",
+        "word_class": 2
+    },
+    {
+        "sentence": "午夜一到，{}在這時候都會跳起祈雨舞。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}你家裡失火了，快去超市買烤肉要用的食材！",
+        "word_class": 1
+    },
+    {
+        "sentence": "反正{}永遠是對的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天下只有{}好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天下武功，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "天下無{}的父母！",
+        "word_class": 1
+    },
+    {
+        "sentence": "自經區就是{}！",
+        "word_class": 4
+    },
+    {
+        "sentence": "根據天氣預報，明天有70%的機率會下{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一哭，二鬧，三{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天安門廣場上沒有發生過{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "天底下沒有白吃的午餐，但在我們公司裡，人人都可以享受到頂級的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}控制了我手機的自動選字！",
+        "word_class": 1
+    },
+    {
+        "sentence": "害你家破人亡不是我的錯，這些全都是{}害的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "報告連長！我們已經在前線部署了大量的{}。這些足以讓我們的敵人吃足苦頭！",
+        "word_class": 14
+    },
+    {
+        "sentence": "當拿出{}來威脅的時候依然沒用，就知道現代社會的困境迫使價值觀徹底改變了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要興趣是畫畫的人都一定喜歡{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽著外面的雨聲，我想起了母親的梳妝台，每當下起濛濛細雨時，她總是會把{}放在那老舊的梳妝台上。",
+        "word_class": 1
+    },
+    {
+        "sentence": "搞一個這麼大的烏龍，你活該被{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要成功？那就加入{}吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大什麼哥啊！你有沒有公德心啊！又吵又鬧的！街坊們不用睡覺了？人家明天還要{}呢，滾開！",
+        "word_class": 16
+    },
+    {
+        "sentence": "我看到你放在你床鋪下面的{}了，沒想到你有這種癖好啊……",
+        "word_class": 1
+    },
+    {
+        "sentence": "他們真應該學學如何妥善保存這些{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "咦？他們終於學會{}了？真是出乎我們意料啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在聖誕交換禮物時收到我摯友的{}，我會永遠珍惜他的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天青色等煙雨，而我在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天青色等煙雨，而我在等{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天啊！是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "天殺的{}！別再對著病患打手槍了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "太可怕了！是漂浮的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "那到底是甚麼{}啊？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "太好聽了吧！你簡直就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "太棒了！我逐漸{}這一切。",
+        "word_class": 15
+    },
+    {
+        "sentence": "太無情了{}！你實在太無情了！無情單殺！無情雙殺！哭阿！",
+        "word_class": 6
+    },
+    {
+        "sentence": "太魯閣號是因為{}才出軌。",
+        "word_class": 3
+    },
+    {
+        "sentence": "孔子：三人行，必有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "少一個{}也沒差。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的女朋友是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "別人的{}總是最好的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "日本製{}，非常稀少。",
+        "word_class": 16
+    },
+    {
+        "sentence": "月黑風高，看著{}突然寒毛豎起。",
+        "word_class": 1
+    },
+    {
+        "sentence": "毛主席晚年最后一搏，{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "水啦！{}，出現了",
+        "word_class": 1
+    },
+    {
+        "sentence": "牛肉麵湯{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "牛排就是要配{}哇！",
+        "word_class": 1
+    },
+    {
+        "sentence": "世界又不是只有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "世界上最恐怖的男孩，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他一拳就打到那個，ㄜ……我的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他可是人稱——望古里第一{}高手！",
+        "word_class": 1
+    },
+    {
+        "sentence": "他洗澡的時候都會拿著{}進浴室。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他們都說停電是因為{}不夠。",
+        "word_class": 1
+    },
+    {
+        "sentence": "樓上這麼嗨該不會是吃了{}吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "以你的{}呼喊我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "兄弟，再幫我撐10秒，我就可以{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "出事就要找{}坦啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}真的很可悲。",
+        "word_class": 1
+    },
+    {
+        "sentence": "出道即{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "北部空屋，都是{}造成的！",
+        "word_class": 4
+    },
+    {
+        "sentence": "半夜三點，我想要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "還敢下來啊！{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "半夜睡不著，只好{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "快遲到了，就{}吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "卡洛斯聯盟賽傳說中的鎖血怪，吃下巨大水手裏劍還挺住的傳奇，艾嵐的{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "去布魯樂谷飄飄河玩，我邊飄邊對著我前面的{}打手槍，打進飄飄河裡然後離開。",
+        "word_class": 2
+    },
+    {
+        "sentence": "去年{}至今。",
+        "word_class": 1
+    },
+    {
+        "sentence": "去吧{}！就決定是你了！",
+        "word_class": 15
+    },
+    {
+        "sentence": "經過了十年的努力，我們終於{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "哇！原來這就是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在的{}真的很棒！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}每一個都來一份。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這裡是{}請多指教！",
+        "word_class": 1
+    },
+    {
+        "sentence": "只有{}沒有距離。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只有{}才能拯救世界！",
+        "word_class": 1
+    },
+    {
+        "sentence": "成功人士每天都要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天起床第一件事就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他把最後的希望寄託在了{}身上。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是大家的救世主。",
+        "word_class": 1
+    },
+    {
+        "sentence": "唯有{}，才能讓風波平息。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要七天！就能消滅{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要上課ㄧ打瞌睡，老師就會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你也想要{}嗎？我們可以一起。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要心情不好，就想{}舒壓。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要去{}，不熟的人也熟了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要有了{}，我就可以炒房了 ！",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要我一起床，我就會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要我和伴侶出門，我們都會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要擁有健康的{}，一輩子不愁多子多孫。",
+        "word_class": 1
+    },
+    {
+        "sentence": "叫我一聲{}，不然就別想見你媽！",
+        "word_class": 1
+    },
+    {
+        "sentence": "召喚，{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "一切照著{}進行。",
+        "word_class": 1
+    },
+    {
+        "sentence": "可是，又有誰可以永遠隱藏{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "可喜可賀，我進化成了{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}可不只有表面而已。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}像是和空間固定在了一起，紋絲不動。",
+        "word_class": 15
+    },
+    {
+        "sentence": "ㄟ{}，你在上面摘芭樂喔？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}恐迫退出政壇。",
+        "word_class": 4
+    },
+    {
+        "sentence": "真有你們的啊！{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是只有{}才是處男嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經把你當做過{}對象。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，你一定不懂吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就將我剛剛{}的事直接說出來吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "區區{}送給你了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果你是{}，也好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為神聖的{}連結著我們每一個人。",
+        "word_class": 15
+    },
+    {
+        "sentence": "台灣人不是笨，是缺乏{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "台灣不缺電，只是{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "不惜為中華民國{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "台灣南北交界的河川是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "台灣現在的總統是{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "史上最有道德的遊戲是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "史丹利的台最近好像多了很多{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "外、外賣，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "外賣！額……怎麼吃呢？我們今天來吃這個……外賣！今天吃甚麼外賣呢？這個……{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "奶油餐包大人{}",
+        "word_class": 67
+    },
+    {
+        "sentence": "孕婦確診，{}臉書發母親節快樂。",
+        "word_class": 4
+    },
+    {
+        "sentence": "左一拳，右一拳，大家一起{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "左邊一個{} ，右邊一個。",
+        "word_class": 1
+    },
+    {
+        "sentence": "巧克力一定要配{}才好吃！",
+        "word_class": 1
+    },
+    {
+        "sentence": "市場開盤，我打開證券帳戶一看，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽信投顧買進股票，結果{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "槓桿開好開滿，隔天的我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "女友邀我到她家過夜，我們整晚{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "打敗恐懼最好的辦法就是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "颱風天就是要{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "打開{}，我想到那一年，我都這樣過。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我睜開眼的時候，我發現{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要去{}，這是個很難的路線。",
+        "word_class": 1
+    },
+    {
+        "sentence": "進擊的{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}不可能是女的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的靈壓，消失了！？",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}的時刻到了，蓋提亞。",
+        "word_class": 5
+    },
+    {
+        "sentence": "你的{}儲備還夠嗎？！英雄王！",
+        "word_class": 5
+    },
+    {
+        "sentence": "盡情地{}才是我的野心。",
+        "word_class": 1
+    },
+    {
+        "sentence": "末日時在做什麼？有沒有空？可以來{}嗎？",
+        "word_class": 5
+    },
+    {
+        "sentence": "居然用{}來給人們帶來痛苦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "它說，可以{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "用{}帶來笑容……",
+        "word_class": 1
+    },
+    {
+        "sentence": "四月是你的{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "在地下城尋找{}是否搞錯了什麼",
+        "word_class": 5
+    },
+    {
+        "sentence": "我原本是不想用這招的，看我的{}！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "燃燒吧，我的{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "根據歷史記載，當初哥倫布能夠發現新大陸，全靠他{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "友情，努力，勝利以及{}一直是我們所秉持的原則。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們是二人一體的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我終於明白了，我心中一直在追求的，原來就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "根據美國的研究顯示，人類一生中平均看到最多次的東西是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "真是失禮，我們可是{}呢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "本里規定，不准{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "解夢結果：今日忌{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是一定要剿的，不剿不行！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你們根本不用想動手，因為在你們動手之前，你就會{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "正因為{}，所以我們必須拋棄你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "民進黨都{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "玉碎！粉碎！大{}！在別人的遊戲實況上大喊！",
+        "word_class": 56
+    },
+    {
+        "sentence": "這裡不是{}俱樂部！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大型{}星期二收！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}賜予我重傷倒地",
+        "word_class": 15
+    },
+    {
+        "sentence": "眾神之父賜予我{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "我不做{}了！",
+        "word_class": 15
+    },
+    {
+        "sentence": "這個味道是{}的味道！",
+        "word_class": 15
+    },
+    {
+        "sentence": "生而為人，會用{}也是常識吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "生活在中國，你就偷著{}吧！",
+        "word_class": 4
+    },
+    {
+        "sentence": "用{}開始現場演唱！",
+        "word_class": 1
+    },
+    {
+        "sentence": "由於犯人在法庭上{}，法官將其改判無罪。",
+        "word_class": 1
+    },
+    {
+        "sentence": "即使敵軍入侵了我也不好走，我還要留下來{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "起初什麼都沒有，{}後，世界就此開始！",
+        "word_class": 1
+    },
+    {
+        "sentence": "主管莫名其妙，他要我在簡報的時候{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，我們才能每天看見太陽。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天在家苦練{}，終於到展現給世界看的時候了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "皮卡丘！使出{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "皮諾可，這個直接{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "莫忘世上{}多。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他{}的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了中華民國，不惜{}！",
+        "word_class": 4
+    },
+    {
+        "sentence": "我是誰？{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}沒有輸！",
+        "word_class": 15
+    },
+    {
+        "sentence": "光榮特庫摩最新動作遊戲大作：{}無雙！",
+        "word_class": 15
+    },
+    {
+        "sentence": "光榮特庫摩最新動作遊戲大作：{}之野望！",
+        "word_class": 15
+    },
+    {
+        "sentence": "快跑啊！{}要來了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "美國空投給阿富汗小孩{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "白人都喜歡{}。",
+        "word_class": 3
+    },
+    {
+        "sentence": "科學始終無法證明{}的原因。",
+        "word_class": 1
+    },
+    {
+        "sentence": "面對示威民眾激烈的遊行，政府做出的回應是{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "{}，非常好玩！",
+        "word_class": 1
+    },
+    {
+        "sentence": "全國同胞們，台灣就要{}了！",
+        "word_class": 4
+    },
+    {
+        "sentence": "台獨想要成功只有一個方法，就是2300萬人在一個夜晚集體去海邊，{}，台獨就會成功。",
+        "word_class": 4
+    },
+    {
+        "sentence": "再這樣下去……我會{}而死。",
+        "word_class": 1
+    },
+    {
+        "sentence": "再靠近一點點，我就{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "列車即將到達終點站{}，謝謝您的搭乘。",
+        "word_class": 1
+    },
+    {
+        "sentence": "印度神童最新預言：台灣將有{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "吃{}最有活力！",
+        "word_class": 1
+    },
+    {
+        "sentence": "從熱氣球上{}的點大喊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃吧！我的雞雞是{}口味的。",
+        "word_class": 2
+    },
+    {
+        "sentence": "你再這樣鬧，那{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡的電視節目是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果能跟一個人做愛，那一定是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡{}的大便了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃屎！{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃著火鍋唱著歌，突然就被{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃飯要配{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃藥前，先補充{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "各位{}，我們辦到了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "各位觀眾們！我們可以看到！最後一名的8號選手{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，那真是我見過最噁心的死法了！",
+        "word_class": 3
+    },
+    {
+        "sentence": "是朋友就應該幫忙{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "小時候的我都喜歡看{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現今的社會是建立在{}之上的，而我們終將成為他們的一部分。",
+        "word_class": 1
+    },
+    {
+        "sentence": "同情{}是對大自然的不敬。",
+        "word_class": 1
+    },
+    {
+        "sentence": "同學血糖太低，給他吃點{}應該會好很多。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，我都不洗澡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，所以走路很奇怪。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，無所不在。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你有沒有見識過{}的厲害。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，所以我開始拯救世界。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為台獨，所以習近平決定入侵{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "因為各個國民的{}下，疫情已經受到管制。",
+        "word_class": 4
+    },
+    {
+        "sentence": "因為有你們才有我，{}超人！",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為我們是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為我國拒絕提供{}，因此又一個邦交國與我國斷交。",
+        "word_class": 4
+    },
+    {
+        "sentence": "在{}的領導下，中國強大啦！",
+        "word_class": 4
+    },
+    {
+        "sentence": "在{}看到一個人在謀巴啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "在一個夜晚，一位女鬼出現在你耳邊說{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "前天，我因為{}住院開刀。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在工地做工時只要看看口袋裏掏出來的{}就有動力繼續下去了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在台灣，平均100個人裡面，有99個都有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在考試的時候，他在想著{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在我們的星球{}不超過3秒？",
+        "word_class": 1
+    },
+    {
+        "sentence": "在每個孤單寂寞的夜晚，我都會去西門町路上{}直到天亮。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在俄烏戰爭中，我唯一能做的就是{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "你看看你，滿腦子都是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為看了{}，害我要用一生來治愈。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的眼裡根本沒有我，你眼裡只有{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "在南投草屯幫助田聖傑{}",
+        "word_class": 3
+    },
+    {
+        "sentence": "在討論方塊酥好不好吃時，隔壁女同學突然說：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "在馬桶上拉出{}後，我屁股流血了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在假消息的煽動之下，大眾瘋狂搶購{}，導致供不應求。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在健美比賽場上，選手們一個個忍不住{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "出版社推出最新的現代詩詩集，名稱叫做：「{}」。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今年學測國文科的作文題目是：「我看{}」。",
+        "word_class": 1
+    },
+    {
+        "sentence": "傳說中只要看到有三顆頭的蛇，就會在近幾年被{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在深夜的酒吧，如果你抬頭往上看，你會看到{}，美極了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在逛街的路上，我一直在找{}來吃。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在電梯裡聽到有人放響屁，這時要說{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "地方媽媽需要{}來證明。",
+        "word_class": 1
+    },
+    {
+        "sentence": "好了啦，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "好色哦～被我發現你真的在{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "好棒！{}了！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "如何把程式做好，讓別人可以玩{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "如何活著有勇氣，要相信{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果{}不存在，那我活不下去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那些年我們一起追的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果可以，我想和你一起{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我想要養{}當寵物。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天新聞頭條是——{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果可以，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果可以，我好想{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我也為{}而來！",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果可以，我想和{}，回到那天相遇。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果有一個全裸蘿莉，我會{}",
+        "word_class": 2
+    },
+    {
+        "sentence": "如果你很高興你就{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這一定都{}在搞！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}綽了嗎？",
+        "word_class": 4
+    },
+    {
+        "sentence": "如果你突然打了個{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "那一定就是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果我沒有{}，就會高潮。",
+        "word_class": 2
+    },
+    {
+        "sentence": "如果我會飛在天上，就是{}的時候了",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果我說，愛我沒有{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "如果昨天不是看見我老婆在床上{}我還以為被綠了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果是大的{}，那更是無藥可救。",
+        "word_class": 16
+    },
+    {
+        "sentence": "這就是{}的不合理之處。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這就是我的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你好{}， 請暫時不要跟我說話。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的時候要是不能在一起，那還叫夥伴嗎！",
+        "word_class": 1
+    },
+    {
+        "sentence": "看著她寂寞的眼神，心中第一次有了{}的感覺。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為你，我愛上了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果是大的關的，那更是{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "如果穿越到異世界，我希望擁有{}的能力。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果要天天開心過，就必須{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果要我{}，我寧願再參加一次我父親的葬禮。",
+        "word_class": 3
+    },
+    {
+        "sentence": "你看，{}的世界完成了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的沒辦法{}，就真的沒辦法。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果喜歡的{}分成了兩個，兩個都喜歡不是理所當然嗎?",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果想要結束戰爭，普丁應該嘗試{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "安妮亞想要吃{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "安妮雅喜歡{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "安柏赫德都用{}來經營婚姻",
+        "word_class": 1
+    },
+    {
+        "sentence": "年度總結由{}得第一，讓我們為他鼓掌。",
+        "word_class": 1
+    },
+    {
+        "sentence": "成為獸控的必要條件是{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "早上，我的ㄐㄐ{}。",
+        "word_class": 2
+    },
+    {
+        "sentence": "早上好，現在我有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "早上好臺灣，現在我有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "眾裡尋他千百度，驀然回首，那人卻在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有事情是{}解決不了的，如果有，那就再來一次。",
+        "word_class": 1
+    },
+    {
+        "sentence": "學校的狗都會跑到我家{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我對她的喜歡，就如同{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我從小時候就很喜歡{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "長大後，才知道{}的美好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為我是{}嘛！",
+        "word_class": 1
+    },
+    {
+        "sentence": "教練，我想{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "如果每個人都學會{}，這個世界會變得更好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要代替{}懲罰你！",
+        "word_class": 15
+    },
+    {
+        "sentence": "早上起來{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "早安，您好，祝您{}、平安喜樂",
+        "word_class": 1
+    },
+    {
+        "sentence": "早起的鳥兒有{}吃。",
+        "word_class": 1
+    },
+    {
+        "sentence": "早晨，我想來點{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "有{}，終止交易。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你舅舅知道你會在半夜的時候{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "有一天我想去{}快樂一下。",
+        "word_class": 1
+    },
+    {
+        "sentence": "有一個500萬觀看數的影片，影片名叫{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經想過希望{}從世界上消失。",
+        "word_class": 1
+    },
+    {
+        "sentence": "有好多好吃的早餐在這裡，在我們{}裡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "有沒有人可以幫我{}，他快不行了！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "有朋自遠方來，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你知道他都會在太空總署偷偷{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "有時候有，有時候沒有，就像{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "有時候我們儘可能{}是種溫柔。",
+        "word_class": 1
+    },
+    {
+        "sentence": "朱門酒肉臭，路有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "百鬼不開台，有什麼問題嗎，{}好嗎？",
+        "word_class": 5
+    },
+    {
+        "sentence": "百鬼不開台時都在{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "老子直接在你留言區{}。",
+        "word_class": 16
+    },
+    {
+        "sentence": "我用內碼查到了，這起案件的兇手是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你當我們台灣人是{}做的喔。",
+        "word_class": 16
+    },
+    {
+        "sentence": "早餐店阿姨都叫我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "老子都不老子了，你還{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "老師常常說，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我的人生哲學。",
+        "word_class": 1
+    },
+    {
+        "sentence": "明天的午餐是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天我{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "老師教的真{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}要另外買呦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}到你無法抗拒！",
+        "word_class": 1
+    },
+    {
+        "sentence": "嘿，你看什麼阿，是我{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是每個小朋友最喜歡的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們今天來吃{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的{}侵犯到我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那你是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "他是{}，怎麼能不愛？",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要把{}放在心上。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他們倆個又不是真的要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我不是跟你說過我{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要闖進人家的{}裡面來！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這麼快就找到{}的東西啦？",
+        "word_class": 1
+    },
+    {
+        "sentence": "老師對不起，我不應該在上課{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}好香。",
+        "word_class": 1
+    },
+    {
+        "sentence": "老闆我要一杯{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "考試前，我都是看{}複習的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "自從我使用{}後，妻子都說晚上的表現又更好。推薦給我自己的，當然也要推薦給你！",
+        "word_class": 1
+    },
+    {
+        "sentence": "自從媽媽用了{}，我每個晚上都很開心！",
+        "word_class": 1
+    },
+    {
+        "sentence": "西元2050年，{}是件違法的事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "曾經{}的人，平均壽命不超過30歲。",
+        "word_class": 1
+    },
+    {
+        "sentence": "住手！!不要再為我{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "何不吃{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "佛菩薩才不想聽你這些{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "作為一個精神正常的人，我認為{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你{}啦！三小？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "歡迎光臨{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈密瓜有股{}！",
+        "word_class": 16
+    },
+    {
+        "sentence": "早安，您好，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你一定要用我的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "不是啊，{}這張卡根本就是SSR，太強了吧!",
+        "word_class": 15
+    },
+    {
+        "sentence": "你一個臉{}的，只剩牙齒是白的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你又不是第一天認識{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}早已是家常便飯。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你也是{}，所以我們是老鄉。",
+        "word_class": 1
+    },
+    {
+        "sentence": "⚠你已被管理員{}永久禁言⚠",
+        "word_class": 16
+    },
+    {
+        "sentence": "你不是說好要{}的嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "罷脫跨點幫幫窩，窩要{}惹。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你不要整天只會{}好不好？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你不能這樣給我{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "在這光滑的地上，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "敢問{}何方神聖？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的夢想是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "看著這{}，就問你暈船不？",
+        "word_class": 1
+    },
+    {
+        "sentence": "所以我說{}，都會變成禿頭！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就問你吃飯可不可以{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你什麼時後才要離開你的{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我現在就想要{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你現在知道沒有讀{}有什麼下場了吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們要拿著人民意志的{}！",
+        "word_class": 146
+    },
+    {
+        "sentence": "你今天{}了嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}關心你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我好像{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你太{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "他{}，我不",
+        "word_class": 1
+    },
+    {
+        "sentence": "你太過分了！你怎麼可以對他{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "他是我的好朋友，所以我送了他{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你能記得你一生吃過幾個{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為生命有限，所以才{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們會死很久，所以{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "時間再拉長一點，讓我有時間{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我不會後悔！我說了！我為了{}而戰！",
+        "word_class": 1
+    },
+    {
+        "sentence": "重要的人越多，越是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你他媽是{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你以為我是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你以為修 bug 很容易嗎？你當我是{}阿？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你叫誰{}啊？。",
+        "word_class": 1
+    },
+    {
+        "sentence": "可是……我叫你{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不准說{}的壞話。",
+        "word_class": 1
+    },
+    {
+        "sentence": "讓我來猜，你一定叫做{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你為什麼不問問{}呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天很{}是吧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}欸",
+        "word_class": 1
+    },
+    {
+        "sentence": "我想到比24還要好笑的笑話。說來聽聽。{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "無聊，我要看到{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "請問這裡還有沒有第五個{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "今天是{}日。",
+        "word_class": 1
+    },
+    {
+        "sentence": "好可憐喔，讓我用世上最小的{}為你演奏一場哀歌吧！",
+        "word_class": 15
+    },
+    {
+        "sentence": "這代表你不會{}，你是個輸家。",
+        "word_class": 15
+    },
+    {
+        "sentence": "你有多壞？{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "你先想想，你真的該{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你再不回我電話，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你在{}對吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你在此地不要動，我去給你{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你在路上走路時，突然遇到{}從一旁衝出來對你說搶劫。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你好我叫{}是個",
+        "word_class": 15
+    },
+    {
+        "sentence": "你好啊，沒想到你可以到這裡呢！不過就到此為止了，接下來就由我{}來做你的對手！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我打炮的時候只有一個原則，就是{}。",
+        "word_class": 2
+    },
+    {
+        "sentence": "吃皮蛋豆腐的時候一定要加{}才有味道。",
+        "word_class": 1
+    },
+    {
+        "sentence": "老闆在下班前對我說了：「{}」",
+        "word_class": 1
+    },
+    {
+        "sentence": "某知名主持人：「會憂鬱症是因為你{}。」",
+        "word_class": 3
+    },
+    {
+        "sentence": "唯一看透真相的是一個外表看似小孩，智慧卻過於常人的{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "爺爺從小就告訴我，對待女孩子要用{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我大喊著安全詞{}，但對方的皮鞭沒有停下來，反而更用力。",
+        "word_class": 2
+    },
+    {
+        "sentence": "人究竟什麼時候會死？是心臟被槍打中的時候？當然不是，而是{}的時候。",
+        "word_class": 15
+    },
+    {
+        "sentence": "現在放棄的話，比賽就{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "你好啊大哥哥，沒想到你可以到四樓來呢！不過就到這裡為止了。接下來就由我{}來做你的對手！",
+        "word_class": 15
+    },
+    {
+        "sentence": "只要{}一出現就掉幀了是要怎樣打！！！",
+        "word_class": 5
+    },
+    {
+        "sentence": "SHUT UP AND TAKE MY{}!",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}是能成為我母親的女性！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你有種就{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你到底在{}?！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你爸{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的{}怎麼那麼圓？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的{}裂開了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}流出來了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的下一句是「{}」對吧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的心有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的身體怎麼長出了{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你給我翻譯翻譯，什麼叫他媽的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在是{}時間！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這週末我要去{}度假。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的廟會這麼大聲{}啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的DNA包含了百萬年份的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你知道我是誰嗎？我是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不管你怎麼想，我就是要{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "還敢{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "他講話句尾總是會加「{}」。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當非洲過了一分鐘，台灣就會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽君一席話，如{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽{}的聲音。",
+        "word_class": 1
+    },
+    {
+        "sentence": "登錄就送{}！",
+        "word_class": 6
+    },
+    {
+        "sentence": "你知道最近的{}事件嗎，真的超瞎的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你知道嗎，我是你的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這是我特別爲你準備的{}，你喜歡嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你信不信{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你怎摸辣麼醜啊？{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "人說LUCY時常{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要再打了！要打，去{}打！",
+        "word_class": 1
+    },
+    {
+        "sentence": "愛情來得太快就像{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是{}嗎？好醜喔。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是不是還沒嘗過我{}的厲害！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是吃了{}長大的嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是我的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是我看過最{}，笑死。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你{}爆掉了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生只會在緊急狀況下停止，{}並不是一種緊急狀況。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你看，出來了，是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你看！{}回家啦！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你看看那個{}, 長的一副婊子臉。",
+        "word_class": 2
+    },
+    {
+        "sentence": "你看著隊友在會戰中衝出去後喊出：超硬{}登場！",
+        "word_class": 6
+    },
+    {
+        "sentence": "漫威來臺灣演出新電影，全新英雄角色要叫{}超人。",
+        "word_class": 15
+    },
+    {
+        "sentence": "船上大砲沒砲彈，情急之下你塞入{}，成功擊中敵艦彈藥庫殉爆了。",
+        "word_class": 34
+    },
+    {
+        "sentence": "你要不要吃{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要不要問我幾歲之前還是{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要我{}，我現在就去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要和我締結契約成為{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要甚麼？講出來 / 麻煩給我{}。",
+        "word_class": 16
+    },
+    {
+        "sentence": "你們不要逼我拿{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你們以為{}很簡單嗎？你來一個試試啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你家墳頭來{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你記不記得有一招從天而降的{}？",
+        "word_class": 16
+    },
+    {
+        "sentence": "你記得你至今吃了多少{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你現在要跟我們{}過不去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那我就讓你{}也過不去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你這個人很{}欸",
+        "word_class": 1
+    },
+    {
+        "sentence": "你這個症狀，要吃五天{}才會好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "魯迅曾經說過：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}豚，滾！",
+        "word_class": 5
+    },
+    {
+        "sentence": "要舔{}那邊才會爽。",
+        "word_class": 1
+    },
+    {
+        "sentence": "非洲人因為{}而飢荒。",
+        "word_class": 3
+    },
+    {
+        "sentence": "你這個就是沒有{}嘛！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}哪有幹飯重要？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你嚇到我的{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們這個三不五時就會{}，歹勢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸幹，{}欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你竟敢趁我那個來的時候{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你竟敢這樣對我，你以為你是{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你竟然用我的{}對付我！",
+        "word_class": 1
+    },
+    {
+        "sentence": "快訊：以色列政府宣布傾全國之力援助{}！",
+        "word_class": 4
+    },
+    {
+        "sentence": "呃……兄弟啊，我們的{}全沒了啊，被你用到一點都不剩了啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "投資{}，包你荷包賺滿滿。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一位充滿智慧的詩人曾經說過：{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我國宣布不再保持中立，並且{}來制裁侵略者。",
+        "word_class": 4
+    },
+    {
+        "sentence": "本網站專門蒐集台灣各地的{}即時影像。",
+        "word_class": 1
+    },
+    {
+        "sentence": "日本殖民台灣之初，因採{}統治，引發各地武裝抗日不斷。",
+        "word_class": 4
+    },
+    {
+        "sentence": "你罵誰{}啦？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你覺得{}好看嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天是個{}的好日子！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都用{}度過一個美好的夜晚",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒想到，你也是{}教的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "此路是我開，如果要通過留下{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "天上的星星變成{}陪伴著我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "小朋友們老師今天要講——{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有{}的人都應該battle！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大家好我是新的Vtuber{}請多指教",
+        "word_class": 5
+    },
+    {
+        "sentence": "啊！手指吃蘿蔔，要是有{}就好了……",
+        "word_class": 1
+    },
+    {
+        "sentence": "你覺得我{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "初音未來的{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "別問，問就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一出事{}就急著切割。",
+        "word_class": 1
+    },
+    {
+        "sentence": "努力，是可以{}的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "即使我們曾經同一國，你也不能{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "吼，我1miss都是{}害的！",
+        "word_class": 5
+    },
+    {
+        "sentence": "屁啦聽你在{}！最好是啦！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "希望死後地球上的所有{}通通都可以帶上天堂。",
+        "word_class": 3
+    },
+    {
+        "sentence": "床前明月光，疑似{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "床前明月光，疑似地上霜，舉頭望明月，低頭{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "忍者都愛學火影使出{}，結果都是豪火球",
+        "word_class": 5
+    },
+    {
+        "sentence": "快，{}，不然就燙在你頭上，煙灰缸。",
+        "word_class": 3
+    },
+    {
+        "sentence": "我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我{}的時候，眼淚總是啪搭啪搭的掉。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我家很大，玩累了直接{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們家吃飯一定要配{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我{}的歐豆豆唷！",
+        "word_class": 5
+    },
+    {
+        "sentence": "我{}啦哈哈！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我，伊隆馬斯克，決定把{}買下！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一天是睡{}個小時。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一生中最大的夢魘，是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一定要用{}我才會硬！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一定要殺掉所有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "爸爸每晚都會摟著我，要我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一看到{}就開始興奮了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我上台領獎都帶著{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我下定決心如果沒有做到{}的話我就不會這麼輕易死去！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我女朋友最喜歡看我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我已經申請{}的專利了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我不演了！我其實是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我中了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我之所以能上台大都是因為{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "試著放鬆你的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們樂團名字的靈感發想是源自於{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我身邊的朋友都勸我不要再{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這道菜的秘密食材就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "可惡，要不是{}，我們早就成功了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我今天起床看到{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我支持{}，你們可以打我了。",
+        "word_class": 4
+    },
+    {
+        "sentence": "我他媽{}的稱號，三歲就有了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我他媽在家給你{}！！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我以為他不會打人 結果他一拳就打到我的這個{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只是看到{}就進來了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在這裡示範如何攻略{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "所以我說那個{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "我只是想要{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只是，需要{}讓我的人生更完整。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只要{}就會心跳不已……",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只要撐過10秒，我就會{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "我叫一車{}人打你！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我左看右看上看下看，原來每個女孩都{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我平常都靠{}來維持生計",
+        "word_class": 1
+    },
+    {
+        "sentence": "我必須依靠{}來生存。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我本可以忍受黑暗，直到我遇到{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我本想大聲喝斥，但{}真的是太棒了。",
+        "word_class": 15
+    },
+    {
+        "sentence": "我生而為{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就是{}本身。",
+        "word_class": 1
+    },
+    {
+        "sentence": "願他的{}滿足你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我用{}在天空飛！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我全科都被當卻照樣畢業是因為我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在{}, 晚點再聊 。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在{}上炸屎然後在上面打滾。",
+        "word_class": 3
+    },
+    {
+        "sentence": "我在此宣示，我相信{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在宿舍只{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在夢中遇到{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我好{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我好想要跟你{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我年輕時，都是挑著200斤的{}不換肩",
+        "word_class": 4
+    },
+    {
+        "sentence": "我有件事一直想跟你說，其實......我{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我有個特殊性癖，那就是{}",
+        "word_class": 2
+    },
+    {
+        "sentence": "我有超能力，用{}打飯菜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我把你媽放進來{}裏。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我抓著{}，用力的吸了起來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天的早餐都是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天晚上都吃{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我愛{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天都在{}睡覺。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天都是先{}才入睡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每天都是被{}叫醒的",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每次都去{}大便。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我每次都用{}上我。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我來到一個島，它叫{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我和你{}，在熱鬧的街。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我抽卡的玄學是{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "我朋友今年的薪水有{}，太爽了吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天的{}餘韻猶存。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我爸爸都靠{}賺錢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}，沒有解藥！",
+        "word_class": 16
+    },
+    {
+        "sentence": "我的{}又出問題了，都是政府無能的錯！",
+        "word_class": 4
+    },
+    {
+        "sentence": "我的{}很快就壞掉了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}都比你好了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}都是被你們惹的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的內心正在{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的生活不能沒有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的同事都把我當成是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的名字是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的回合！抖肉！{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "我的家庭在成長過程中帶給我最多的是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的能力是去{}看",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的媽啊，是{}耶！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的寶貝都要{}才能進化。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我知道{}的原因，可是這水有點深，牽扯到瞎灰輸，懂的人都懂，記得加入會員看瞎灰生存法則，裡面都有說。",
+        "word_class": 6
+    },
+    {
+        "sentence": "我知道你喜歡{}，所以我帶了一整車來給你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我長大以後要成為一個{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我長大的地方很少下雨，然後有一天{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，聆聽少女的祈願吧！",
+        "word_class": 15
+    },
+    {
+        "sentence": "學學吉娃娃，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我長生不老的秘訣將是：每天{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我信賴著{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我很後悔，我不應該邊{}邊玩這個遊戲。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我很討厭{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我昨天在街上遇到{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我昨天夢到我跟{}上床。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我昨晚{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是五天王之一的{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我是古阿莫，我今天要介紹的是——{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "我是死神，我來自世界的盡頭，我希望{}可以死光。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是要成為{}的男人啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "來吧！顫抖吧！驚嘆吧！絕望吧！放聲大哭吧！我的藝術就是{}！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不{}就不會死，為什麼你就是不明白！",
+        "word_class": 1
+    },
+    {
+        "sentence": "雖然有時{}會往下修正，可是絕對不會往上調整。",
+        "word_class": 1
+    },
+    {
+        "sentence": "錯的不是我，而是這個{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "來不及道聲感謝，{}已結尾。",
+        "word_class": 1
+    },
+    {
+        "sentence": "都已經等了{}十年，無所謂再等上十年。",
+        "word_class": 1
+    },
+    {
+        "sentence": "有思念你的人在的地方，就是你的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我相信{}能讓這個世界變得更美好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "世界上最不該存在的是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的受夠{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看你是不懂{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看到你就想{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看到了像是{}的東西啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看錯你了，沒想到你是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我突然好想要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要{}加大。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要召喚{}採攻擊表側表示。",
+        "word_class": 5
+    },
+    {
+        "sentence": "我要用{}證明我喜歡你！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要成為新世界的{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "我要直播{}°",
+        "word_class": 16
+    },
+    {
+        "sentence": "我要怎麼{}不關你的事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，我要進來了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大哥沒有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們上海餓得連{}都吃。",
+        "word_class": 4
+    },
+    {
+        "sentence": "咱們中國的{}實在是太厲害啦！",
+        "word_class": 4
+    },
+    {
+        "sentence": "每當我閉上眼睛，{}又讓我跳起來無法睡覺！",
+        "word_class": 1
+    },
+    {
+        "sentence": "跟我一起{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}讓我好想再看一次。",
+        "word_class": 1
+    },
+    {
+        "sentence": "可不可以再讓我{}一次？",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天我和{}的你約會",
+        "word_class": 1
+    },
+    {
+        "sentence": "要不要來點{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的人生願望就是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "在沒看到{}之前我是不會停手的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}出現在我的夢裏。",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊他每次都{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "心一跳，{}開始煎熬。",
+        "word_class": 16
+    },
+    {
+        "sentence": "{}一跳，愛就開始煎熬。",
+        "word_class": 16
+    },
+    {
+        "sentence": "你們的情人節怎麼過{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我躲過、錯過、借過、略過、難過{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "閉門思過、得過且過、一笑而過、擦肩而過、我都{}過",
+        "word_class": 1
+    },
+    {
+        "sentence": "地、火、風、水、心，因為有你們的力量，才有我{}！！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹！{}又死了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "尼采：「那些不能殺死我的，都使我更{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "胡適曾說過：「{}」",
+        "word_class": 1
+    },
+    {
+        "sentence": "關於我轉生到{}的故事",
+        "word_class": 5
+    },
+    {
+        "sentence": "轉生成{}又怎樣？",
+        "word_class": 5
+    },
+    {
+        "sentence": "敲敲門！ 「是誰？」「{}啦！」",
+        "word_class": 1
+    },
+    {
+        "sentence": "清明君子志在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只是{}，沒必要罵成這樣吧？",
+        "word_class": 6
+    },
+    {
+        "sentence": "2055年，我考上了台大{}系，讓全家驕傲。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一天不{}，我全身不對勁。",
+        "word_class": 1
+    },
+    {
+        "sentence": "清新自信，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在出門都要帶上{}，這樣才安全。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在的{}可怕到極點！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今年五月我要去參加一場大型的{}，大概要兩年後才會回來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看你，完全是{}喔？",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在的顯示卡這麼貴都是因為那些{}害的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在都20XX年了，沒有人還在{}的好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "畢業製作，我做的是關於{}的題目。",
+        "word_class": 1
+    },
+    {
+        "sentence": "眾所周知，{}是很常見的單位。",
+        "word_class": 1
+    },
+    {
+        "sentence": "第74層有{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "粗暴言論，{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "被羊羊看到會{}？",
+        "word_class": 6
+    },
+    {
+        "sentence": "被殘疾少女用輪椅壓到算{}？",
+        "word_class": 3
+    },
+    {
+        "sentence": "這{}就是天意！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不能達成最終目的，但能實現你最深層的欲望。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這一關的Boss好難！他每一次都用{}把我殺死。",
+        "word_class": 15
+    },
+    {
+        "sentence": "這十連下去，一定要出{}啊！",
+        "word_class": 5
+    },
+    {
+        "sentence": "超爽der{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "傳說30歲以前沒有{}，就會成為魔法師。",
+        "word_class": 1
+    },
+    {
+        "sentence": "衛生紙沒了，只好用{}擦屁股。",
+        "word_class": 1
+    },
+    {
+        "sentence": "古埃及人會拿{}來陪葬。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在爸爸的後車廂裡發現{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "全明星運動會的最新比賽項目是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我爸媽送我{}作為18歲的生日禮物。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今年跨年晚會不放煙火，改用{}代替。",
+        "word_class": 1
+    },
+    {
+        "sentence": "美國送給烏克蘭{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "你的{}，讓我走得好緩慢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我Tinder上的照片是我{}的照片。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這不應該是你對行政院長{}的態度！",
+        "word_class": 4
+    },
+    {
+        "sentence": "衛福部長罕見{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "這就是{}的力量。",
+        "word_class": 1
+    },
+    {
+        "sentence": "太無情了{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "炒飯就是要過{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "麥當勞{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}歡樂送！",
+        "word_class": 1
+    },
+    {
+        "sentence": "口交惡徒{}。",
+        "word_class": 2
+    },
+    {
+        "sentence": "台灣人民應該站起來，對著對岸的同胞們{}！",
+        "word_class": 4
+    },
+    {
+        "sentence": "我不是一定要你回來，只是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "讓{}再次偉大！",
+        "word_class": 1
+    },
+    {
+        "sentence": "洞六洞洞，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這次我{}，都是多虧了你啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這次的研究主題主要圍繞著{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這次的總統大選，被當凱子的是{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "我一向是{}的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不知道，我從來沒有想過{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}憤怒了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "請支援{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "令人害怕的，是我自己的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看起來像個賣{}的嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "跟你打的話，用{}比較好吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "那麼，{}就只有一個了。",
+        "word_class": 15
+    },
+    {
+        "sentence": "我要對你宣誓{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "當場抓獲了二十幾歲還在看{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這間咖啡廳推出了{}，所有人都讚不絕口。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這裡是群聊，不是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這道菜名為《{}，》，只有聰明人才看的到這道菜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這台聊天室刷的好慢，是不是都是{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "這麼簡單的{}，該不會有人不知道吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "這樣的根本不是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "忍術{}術！",
+        "word_class": 5
+    },
+    {
+        "sentence": "我就是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不是用來傷人的東西",
+        "word_class": 1
+    },
+    {
+        "sentence": "這輩子我只在乎{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這操作爛的可以，就像是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這顯然是{}的疏失！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這讓我想起以前在學校{}的時候。",
+        "word_class": 1
+    },
+    {
+        "sentence": "連{}都沒打過我！",
+        "word_class": 1
+    },
+    {
+        "sentence": "都{}了這種事沒辦法自己處理嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "都是{}執政的結果！",
+        "word_class": 4
+    },
+    {
+        "sentence": "是{}把你變成這樣的？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "緊急情況！！出來{}！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}同路人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你再{}試試看啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "都幾點了你竟然還在給我看{}？？",
+        "word_class": 1
+    },
+    {
+        "sentence": "陳時中，幫我撐10秒，{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "章魚燒，一共會有{}個章魚燒。",
+        "word_class": 1
+    },
+    {
+        "sentence": "鳥會飛、馬會跑、魚會游、人會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "麻雀雖小，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近只要想到{}我就好興奮！",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近好容易突然{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近有點提不起勁，可能是需要{}多多放鬆。",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近幾天的社會版上都是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "最喜歡你頭上的{}，真的很可愛！",
+        "word_class": 1
+    },
+    {
+        "sentence": "喂，注意一下！前方可是{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國研究證實，{}的人有高機率在100年內死去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "喔不，我的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}現在才開始！",
+        "word_class": 1
+    },
+    {
+        "sentence": "喔喔喔喔，你是我的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "喜歡打電動嗎？{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "喜歡動物嗎？{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你們這些死{}！！",
+        "word_class": 67
+    },
+    {
+        "sentence": "{}。我好興奮啊！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "校慶就是要{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "聖誕老人：「你聖誕節想要什麼禮物啊？」我：「我只要{}就可以了！」",
+        "word_class": 1
+    },
+    {
+        "sentence": "「你可不可以不要再{}了？」「抱歉，肌肉記憶。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "少年！你的下面……現在……是不是有{}的感覺？",
+        "word_class": 1
+    },
+    {
+        "sentence": "老子直接在你留言區{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "又到了{}開始出現的季節。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這個{}太大了，放不進去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "全家就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你敢講出來，我就{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我又想{}了，你要一起嗎？",
+        "word_class": 2
+    },
+    {
+        "sentence": "這個{}的ASMR可以助於睡眠。",
+        "word_class": 56
+    },
+    {
+        "sentence": "但是……我{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "上帝說你是{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "因為{}導致平均男性生殖器官長度減少3cm。",
+        "word_class": 2
+    },
+    {
+        "sentence": "情況從糟糕變成{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "好有{}的一句話。",
+        "word_class": 1
+    },
+    {
+        "sentence": "隔壁老王：「我早就知道{}了。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "就算是{}，也不能每天不睡覺。",
+        "word_class": 1
+    },
+    {
+        "sentence": "掌握時間，掌握自由，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "揮揮衣袖不帶走一片雲彩，卻{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "期中考我只服{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "無聊時我最喜歡{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我從來不{}的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "無論何時，無論在哪，我都會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "焦兒喜歡吃{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "煮老湯鍋，給{}吃。",
+        "word_class": 1
+    },
+    {
+        "sentence": "煮飯的時候都會把{}也加進去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有{}的話會整天都茶不思飯不想。",
+        "word_class": 1
+    },
+    {
+        "sentence": "本月最佳{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "刮掉鬍子的我與撿到的{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}動畫瘋。",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}not found.",
+        "word_class": 1
+    },
+    {
+        "sentence": "研究指出，{}的人更能避免感染新冠肺炎。",
+        "word_class": 1
+    },
+    {
+        "sentence": "本斥但{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "節錄自{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想念是會{}的痛。",
+        "word_class": 16
+    },
+    {
+        "sentence": "{}can help.",
+        "word_class": 4
+    },
+    {
+        "sentence": "霍爾的移動{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "想見你，只想見你，未來過去，我只想{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}想讓人告白。",
+        "word_class": 15
+    },
+    {
+        "sentence": "等這場戰爭結束後，我就準備要回故鄉{}了",
+        "word_class": 1
+    },
+    {
+        "sentence": "結果出來了！死因是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "給{}一個機會。",
+        "word_class": 1
+    },
+    {
+        "sentence": "給我沒有BUG的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "菊花殘，滿地傷，{}已泛黃。",
+        "word_class": 1
+    },
+    {
+        "sentence": "蛤三小啦！{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "超級注意，今天晚上{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我跨你洗ㄒㄧㄨˇㄇㄟˉ素挖ㄝ{}啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我又不是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸你怎麼這麼雞掰欺負{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊幾累{}洗咧供啥挖擱小？",
+        "word_class": 1
+    },
+    {
+        "sentence": "好人你幫幫{}的啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是誰啊？",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸你跨欸啥？洗{}欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊我們現在把{}伸出來，然後喊出自己的能力。",
+        "word_class": 1
+    },
+    {
+        "sentence": "超硬{}登場！！！啊————！！！",
+        "word_class": 6
+    },
+    {
+        "sentence": "我{}有一個夢想！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要{}好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "黑白猜，男生女生{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "傷心的人{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "傷心的時候，阿明都拿{}當配菜，效果拔尖。",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈嘍各位觀眾朋友大家好，我是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "嗚嗚嗚嗚，拉近{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "嗨！{}過得好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "媽的老子今天晚上先{}啦！臭豆腐。",
+        "word_class": 6
+    },
+    {
+        "sentence": "我知道誰能救我們，{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "信不信我用{}綁架你？",
+        "word_class": 1
+    },
+    {
+        "sentence": "台北市一名蒙面搶匪竟持{}搶劫超商，引發民眾及店員恐慌！",
+        "word_class": 1
+    },
+    {
+        "sentence": "媽媽，我覺得我的床下面有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "時光旅人意外地在衣櫃裡發現了{}，而開始了他的時空之旅。",
+        "word_class": 1
+    },
+    {
+        "sentence": "對不起一直沒有回應你的訊息，我最近都在忙著{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "來，嚐嚐看，這是我們這裡最道地的料理，是用{}做成的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在這個充滿溫馨氣息的聖誕夜，媽媽突然{}嚇到了我們。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了營救被恐怖份子挾持的人質，警察們只好{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "山頂洞人們的生活總是煩悶無趣，直到他們發現了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "JK羅琳最新力作：哈利波特之{}的密室。",
+        "word_class": 6
+    },
+    {
+        "sentence": "媽媽不在家時，我都在電腦前{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "媽媽的房間裡發出了{}的聲音。",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹，這裡越來越{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為我{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹！！今天是最後一天欸，整天只會{}到底是有甚麼幫助啦？",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹你{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹你娘不要再玩{}好不好？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹嘛啊，啊我的能力本來就是{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "想一個{}， 然後自拍。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想吐時，只要{}就可。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要{}，先通過我這關。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要{}就要自己去爭取啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要成為人生勝利組，每天睡前你都該{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要找到大秘寶的話，就必須使用{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "想開車，必須得先把{}拿到手！",
+        "word_class": 1
+    },
+    {
+        "sentence": "想當年，你老爸的{}可是很強的喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "想當年，你爸可是靠{}才活下來！",
+        "word_class": 1
+    },
+    {
+        "sentence": "想當初，如果我有需要，我都{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的時光總是過得特別快。",
+        "word_class": 1
+    },
+    {
+        "sentence": "使用{}吧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的{}看起來很重，讓我幫你拿。",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹你娘我要看到{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "愛我別走，如果你說，你不{}～",
+        "word_class": 1
+    },
+    {
+        "sentence": "多的是，你{}的事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我反芻著你留下的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你太節省了，只有一點點{}根本吃不飽！",
+        "word_class": 1
+    },
+    {
+        "sentence": "愛情{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天天氣晴，我想要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "愛的{}轉團團。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你當我{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要{}我！",
+        "word_class": 1
+    },
+    {
+        "sentence": "愛就愛，錯就錯，面對{}的自我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "年輕人都不講{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "感受痛苦吧、思考痛苦吧、接受痛苦吧、理解痛苦吧！ 現在開始，讓世界感受痛苦！{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "新世紀{}戰士",
+        "word_class": 1
+    },
+    {
+        "sentence": "當上帝關了一扇門，{}",
+        "word_class": 14
+    },
+    {
+        "sentence": "當女友跟{}掉進水裡，我一定選擇救後者。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當今疫情肆虐，{}成為對抗病毒的最佳辦法。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}就是我的夢想。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當心了兄弟，傳聞這座廢棄的建築裡有{}出沒，這裡正在發生一些很危險的事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是引發第三次世界大戰的導火線。",
+        "word_class": 14
+    },
+    {
+        "sentence": "你簡直比{}還要沒腦袋，清醒一點！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我無所畏懼，但是……那個，{}……他嚇到我了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了緬懷我逝去的父親，我要把{}放在我的回憶錄裡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們的新世代發明——{}，將會促進低度開發國家的農業發展。",
+        "word_class": 1
+    },
+    {
+        "sentence": "已經11點了，該是{}的時候了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}算遲到的正當理由嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天吃了{}，現在我屁眼要燒起來了。",
+        "word_class": 2
+    },
+    {
+        "sentence": "這兩個禮拜我完成了關於{}的ppt，老師的評語都是做的非常好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當水電工來你家時，他會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "當你在床上{}，你會怎麼辦？",
+        "word_class": 1
+    },
+    {
+        "sentence": "當你難過的時候，想想{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "當你覺得自己很沒用時，想想艾斯，他幫{}擋岩漿拳！",
+        "word_class": 5
+    },
+    {
+        "sentence": "當我把{}放進嘴裡，我會感到通體舒暢",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我達到100萬訂閱數，我準備{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "每當我孤單寂寞時，我總是會想起{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我拔出{}，所有人都將倒下。",
+        "word_class": 1
+    },
+    {
+        "sentence": "很感謝您分享您那寶貴的意見，但很遺憾您是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我玩TRPG時，我會叫GM{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "當我空虛寂寞時，我一定去找{}聊心事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我看到{}，我高潮了。",
+        "word_class": 2
+    },
+    {
+        "sentence": "當我情緒低落時，是{}拯救了我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我第一次知道要{}的時候，其實我是拒絕的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我被Rick roll時，我總是{}的不得了！",
+        "word_class": 16
+    },
+    {
+        "sentence": "當災難來臨時，你卻想著{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "當夜晚來臨，{}將橫行於世。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當捷運門開時就該{}，爽啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "當諸事不順的時候，我會對天空大喊：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "睡不著的夜晚，有{}就安心了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當與男友調情時我都會{}作為開頭。",
+        "word_class": 1
+    },
+    {
+        "sentence": "誰是真正的{}？是台北暴徒！",
+        "word_class": 16
+    },
+    {
+        "sentence": "肥宅的基本要素是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "睡前不看一下{}我睡不著",
+        "word_class": 1
+    },
+    {
+        "sentence": "睡醒後，我發現{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "萬萬想不到，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "請君聽我一言：{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "又，又，又，又{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我經常懷疑我兒子，不是{}，但是他自己沒發覺，我也不好提醒他。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生這個巨大的荒漠，哪裡還沒有駱駝，壓死一個換一個。結婚，就是要找到那一隻，最{}的駱駝。",
+        "word_class": 1
+    },
+    {
+        "sentence": "爸爸說，如果我不好好學習，我長大就會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的伴侶能給你最大的幸福，也許就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "要不是家裡在{}，誰還會出門呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "相親時，我對我的相親對象說：{}，不得不說，真令人耳目一新。",
+        "word_class": 1
+    },
+    {
+        "sentence": "打針防疫就是要打高端，人生就會{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "我的{}啊！誰來幫幫我！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天我沒有{}，我覺得自己棒棒噠！",
+        "word_class": 1
+    },
+    {
+        "sentence": "買不到快篩的我只好{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "離交作業的時間只剩15分鐘了，我只好{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "女人，你引起了我的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "經由農場主人的介紹，美味的牛奶由{}產生！",
+        "word_class": 1
+    },
+    {
+        "sentence": "經過很多人的幫助，我成功的將{}實現了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "夏天了，{}該洗一下了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "經過這麼多年終於抓到跟蹤狂{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "落葉捎來，{}成為了新任艾爾登之王",
+        "word_class": 5
+    },
+    {
+        "sentence": "跟阿貓吵架我就會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "路上遇到尷尬的同事，我都會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "遊戲王卡牌{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "遊戲可以輸，{}一定要臭！",
+        "word_class": 16
+    },
+    {
+        "sentence": "遊戲有《逃離塔科夫》，現實有《逃離{}》",
+        "word_class": 15
+    },
+    {
+        "sentence": "道歉時露出{}是常識吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "隔壁家的老王總是想{}，導致他每晚都睡不好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "隔離就是要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "嘟嘟嘟嘟～火車上面有{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "團長！你在{}啊，團長！",
+        "word_class": 5
+    },
+    {
+        "sentence": "對不起，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "對他，使用{}吧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "算了，我不知道能選三小，我選{}好了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "網上資料顯示，只要使用{}，就能更加持久。",
+        "word_class": 1
+    },
+    {
+        "sentence": "臺灣在2022創造最多GDP的產業是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "臺灣是{}國家",
+        "word_class": 4
+    },
+    {
+        "sentence": "坐在我對面的女孩好奇怪，他一直盯著我的{}看。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不行！！！那裡是{}的地方！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天實在是太{}，於是我決定過來「桑幾類」。",
+        "word_class": 1
+    },
+    {
+        "sentence": "根據英國研究指出，每天只要{}，就可以減少30%的人口。",
+        "word_class": 1
+    },
+    {
+        "sentence": "說好的{}呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "說來有點不好意思，其實下一位值日生最喜歡{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "說到台中的名產當然是{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "說到當兵，就讓人聯想到{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "電子競技，{}說話。",
+        "word_class": 5
+    },
+    {
+        "sentence": "說個笑話，中國的{}是世界第一。",
+        "word_class": 4
+    },
+    {
+        "sentence": "說得好，我認同你說的{}方案。",
+        "word_class": 1
+    },
+    {
+        "sentence": "趕快用你那無敵的{}想想辦法啊！",
+        "word_class": 15
+    },
+    {
+        "sentence": "遠距上課時，只要{}就不會被抓包。",
+        "word_class": 1
+    },
+    {
+        "sentence": "遠距教學就應該{}，不然要幹嘛？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}竟是我自己？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "銅鑼灣只能有一個{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "歡迎來到{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "統神：「糖尿病確診。」 聊天室：「{}」",
+        "word_class": 6
+    },
+    {
+        "sentence": "你的{}都不會感到痛的嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}補完計畫",
+        "word_class": 15
+    },
+    {
+        "sentence": "一定是{}的陰謀",
+        "word_class": 4
+    },
+    {
+        "sentence": "這些小鎮的年輕人都有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "一之型，{}呼吸。",
+        "word_class": 5
+    },
+    {
+        "sentence": "用兵之道在一個{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "死、戰爭、{}，這世上有太多東西只要能夠消失，就會讓所有人更幸福。",
+        "word_class": 3
+    },
+    {
+        "sentence": "才多久沒見到你，你就有{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是{}的耶！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我根本無法想像{}會輸的可能！",
+        "word_class": 1
+    },
+    {
+        "sentence": "噓！安靜。他可是{}，他有重大的事情要向我們宣布！",
+        "word_class": 1
+    },
+    {
+        "sentence": "嘿！我又進來了！我又出去啦！來{}我啊！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "摩擦摩擦，是{}的步伐。",
+        "word_class": 16
+    },
+    {
+        "sentence": "聽，海哭的聲音，嘆息著誰又被傷了心，{}到天明。",
+        "word_class": 1
+    },
+    {
+        "sentence": "熱愛一百零五度的{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "線上教學時，我都在{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "線上教學課時，我鏡頭外都在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經對我的同學有{}的想法。",
+        "word_class": 1
+    },
+    {
+        "sentence": "緣分到了，自然就會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "成功的唯一秘訣，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "蔡英文最愛的就是{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "蔣公直接從墳墓爬起來{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "誰的大腿沒有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "誰會在被黃雀的時候{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "誰會想在凌晨三點{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "請叫我{}博士加先生。",
+        "word_class": 1
+    },
+    {
+        "sentence": "請問，你在{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "請問，這是{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我一天不{}就會渾身不舒服。",
+        "word_class": 1
+    },
+    {
+        "sentence": "媽媽，為什麼那個人在{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "諸君，我喜歡{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "豬排三明治{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃了變{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "賣個東西還被{}坑，真是倒楣。",
+        "word_class": 1
+    },
+    {
+        "sentence": "醃過的{}最下飯。",
+        "word_class": 1
+    },
+    {
+        "sentence": "教練吩咐我每天都要練習{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我希望老師不要體罰，改用{}懲罰學生。",
+        "word_class": 1
+    },
+    {
+        "sentence": "唱歌前我都{}來開嗓。",
+        "word_class": 1
+    },
+    {
+        "sentence": "夜路走多了，總會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "餓到要吃{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "魯夫的果實是{}，所以艾斯白死了。",
+        "word_class": 5
+    },
+    {
+        "sentence": "魯路修‧Vi‧不列顛尼亞在此下令，{}吧！",
+        "word_class": 5
+    },
+    {
+        "sentence": "噢！我美麗的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "學生的本分就是做好{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "學姐我真的很喜歡{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "學校說明天要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "操你媽，{}殺了你，看到沒有小逼崽子，泥馬勒個抽碧草泥馬，把你把你骨灰都給你揚嘍！",
+        "word_class": 3
+    },
+    {
+        "sentence": "據英國研究顯示{}有助於打倒共匪。",
+        "word_class": 4
+    },
+    {
+        "sentence": "獨自一人吃{}是我的愛好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "褪色者，遺忘你{}的野心吧！",
+        "word_class": 5
+    },
+    {
+        "sentence": "貓咪大戰爭六周年，大大大大{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "選舉最大的秘密，就是{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "醒醒吧，肥宅！你沒有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "懂得讓我{}的人，再沒有誰比你有天份。",
+        "word_class": 16
+    },
+    {
+        "sentence": "總有地面上的生靈，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "謝謝你{}，我的超人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "謝謝你，{}人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "還是你要{}啊？",
+        "word_class": 6
+    },
+    {
+        "sentence": "我這個人習慣吃飯的時候{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我不是甲甲，但我真的很想要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}他。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我來幫你念會變好吃的咒語，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "還敢gank{}啊！",
+        "word_class": 5
+    },
+    {
+        "sentence": "雖然{}滿天下，卻全是水中花。",
+        "word_class": 15
+    },
+    {
+        "sentence": "被弄髒的{}慢慢地被褪下。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我永遠不會忘記，我人生中收到的第一個禮物{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要和我玩{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要和我{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "醫生，請你救救我，我的屁眼裡有{}。",
+        "word_class": 2
+    },
+    {
+        "sentence": "在遙遠的未來，歷史學家們都會同意{}造成了台灣的衰敗。",
+        "word_class": 1
+    },
+    {
+        "sentence": "先別管他了，你聽過{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "當她在夜晚安然入睡時，我一整個晚上都在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的很喜歡{}的感覺。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們家新年時都不會發紅包給小孩，我們都給{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "生命的意義是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "新聞快報！{}引發的意外導致至少四十八人死亡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "中國研發的新型武器——{}，已被證實具有極高的殺傷力。",
+        "word_class": 4
+    },
+    {
+        "sentence": "是時候向你坦白了，我對{}重度成癮。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我弟在看了一部有關{}的電影後哭了十五分鐘。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我回宿舍打開門時，發現我的室友在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "醫生都說我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "鯊魚的叫聲是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}竟然一星期都不洗澡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "茶是一種{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "藝術總是被某些人壟斷。貴族、富翁、{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "鏘鏘阿七ㄎㄧ七ㄎㄧ{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "關公面前{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "關於我轉生異世界卻{}那件事",
+        "word_class": 15
+    },
+    {
+        "sentence": "關於這次事件的結果，很遺憾，是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "難道{}比我更重要嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "既然下定決心就只有{}，對吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "感覺讓{}來演野獸也不錯呢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只能{}的話選不出來呀！",
+        "word_class": 1
+    },
+    {
+        "sentence": "難道只有我覺得{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "難道你覺得{}就能逃出正義的魔掌了嗎？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "寶貝，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "麵{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "霸主在饗食天堂{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "魔術師準備了{}作為他的表演道具。",
+        "word_class": 1
+    },
+    {
+        "sentence": "「歡迎光臨猛男俱樂部，你有多猛？」「我{}。」",
+        "word_class": 15
+    },
+    {
+        "sentence": "聽{}一席話，如聽一席話。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你沒{}啊，你沒",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽，春天到了，又是{}在求偶的季節。",
+        "word_class": 1
+    },
+    {
+        "sentence": "好噁，欲求不滿的{}又在敲窗戶了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "求租屋，只要不是{}的房子我都可以。",
+        "word_class": 1
+    },
+    {
+        "sentence": "真沒想過{}的標準已經放低了這麼多。",
+        "word_class": 1
+    },
+    {
+        "sentence": "線上{}培訓班，熱情招生中！",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽了數不清的音樂後，我還是覺得我最喜歡的是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天上太阳红呀红彤彤诶！心中的太阳是{}诶！",
+        "word_class": 4
+    },
+    {
+        "sentence": "{}是人類文明最真實的體現。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天搭公車時被癡漢{}，有夠噁心。",
+        "word_class": 1
+    },
+    {
+        "sentence": "正如我們所常見到的一樣，他的短處是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我前幾天因為{}就被街上的人打成重傷，這個世界到底是怎麼了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我畢生的夢想。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我因為{}而被同僚尊稱為大師。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們暑假打算全家去{}，超期待的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "兄弟你真棒！我們花了三天才做好這些{}，全被你給毀了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}非常危險，沒有人可以在使用它的同時還能不玩死自己。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我見過很多怪人，但{}的我還是第一次見到。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽力測驗，請依接下來 \"Jake和Jennifer\" 的對話選出最{}的答案。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽你說，聽你說，我們同時擁有一個{}的朋友。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽說～身體健康精神好，{}不可少！",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽說你很{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽說流量密碼就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "驚傳，馬斯克將收購{}公司，未來將發展該領域事業。",
+        "word_class": 1
+    },
+    {
+        "sentence": "讓{}飛一會。",
+        "word_class": 1
+    },
+    {
+        "sentence": "讓我擁抱著你的夢，讓我擁有你真心{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "飛向宇宙，{}。",
+        "word_class": 15
+    },
+    {
+        "sentence": "不好意思，這是你的{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "觀眾哪愛看{}啊？",
+        "word_class": 1
+    },
+    {
+        "sentence": "裁判不要再{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這只是一個平凡的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們……我想一下，我們走一個{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "ㄏㄚˋ！我是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "Google Play十大遊戲排行，第一名：{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "給我一個{}，我能撐起全世界",
+        "word_class": 1
+    },
+    {
+        "sentence": "肥料摻了{}，一袋能頂兩袋撒！",
+        "word_class": 1
+    },
+    {
+        "sentence": "一拳打歪你{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "當幸福來{}時。",
+        "word_class": 1
+    },
+    {
+        "sentence": "How哥到底找到{}沒？",
+        "word_class": 6
+    },
+    {
+        "sentence": "IKEA裡怎麼沒有{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "KEEP{}MY WIFE'S MOUTH！",
+        "word_class": 1
+    },
+    {
+        "sentence": "考試不會寫的時候，我都{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我孤單寂寞覺得冷的時候，我都{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你一定要用我的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "Never gonna{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "OMG！{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "Q寶，一個真正{}的智能語音。",
+        "word_class": 1
+    },
+    {
+        "sentence": "re從零開始的{}生活",
+        "word_class": 5
+    },
+    {
+        "sentence": "RRRRRRRRRRRR！{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "SUPER IDOL的{}，都沒你的甜～",
+        "word_class": 1
+    },
+    {
+        "sentence": "VTuber炎上的理由有很多，{}是我看過最誇張的。",
+        "word_class": 5
+    },
+    {
+        "sentence": "我最喜歡吃{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "很遺憾的，你可能有了{}症候群。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最討厭的東西是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "說到畫畫，每次只要我在{}的時候，靈感就會跑出來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，我一天只能睡3個小時。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}其實是我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "you got{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我整天都在陽臺{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我願赴湯蹈火只為了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我願變成童話裡妳愛的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "告訴我小林，你喜歡{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要追上我，我就讓你{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我覺得他很漂亮，但我沒有因此{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不需要裝乖。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}只有我能摸。",
+        "word_class": 1
+    },
+    {
+        "sentence": "可以幫我{}嗎？求妳了",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果{}是一門課，跟我學絕對不會被死當。",
+        "word_class": 1
+    },
+    {
+        "sentence": "好想跟他狠狠地{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你應該慶幸有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我覺得你的{}出了問題，你還是去醫院檢查一下吧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果{}是上天的旨意，我願意接受。",
+        "word_class": 1
+    },
+    {
+        "sentence": "命中注定，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生就像一場遊戲，{}你就輸了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "把{}還來！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每一次看到小妹妹我都{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每一個寂寞的夜晚，我都是靠著{}度過的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天{}是我的例行公事",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天下班後我最喜歡去{}看看今天的晚餐有哪些！",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天約了人跟我一起去{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡和人分享{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽說{}最近人氣很高！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}因為我的關係最近人流非常的多。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天加班，都是{}陪我一起蹲在工地旁邊。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天早上，要有{}才完美！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天早上我一定{}，才會出門。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天我都是一個人{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天我都是配{}一起讀書。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天走在路上，我的{}都會不舒服。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天看直播時我都{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天看著{}，我都忍不住想跟你媽姓。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天凌晨，阿瑋吃{}當消夜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這裡的小姐十分{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天晚上，我都{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天晚上，我都在床上{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "根據某研究顯示，當人們開始{}之後，他們的腦功能便會呈現指數下降。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天晚上我都和{}睡覺。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天睡前我都會讀一本關於{}的書我才睡得著。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天輪流進我房間的都是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天醒來，我第一眼看到的總是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每日一事：{}（1/1）",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次上課，後面同學都在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次回到家，我的銀幕上都是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次看到學妹，我都會把她{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次起床，我會看到{}再去吃早餐。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次做夢，我都在{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "下班之後我要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "想對老闆做{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每次唱歌，我都是拉著{}進去廁所叫一整晚。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每到放假我最喜歡在房間裡{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個人只要擁有三百萬美金就可以{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個人都有願望，而我的願望是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個夜晚，我總是想跟妳在公園裡{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天出門，{}襲擊了我！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個便秘晚上，我都去{}拿黑暗神書去吳家豆花付錢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個晚上，我都是做{}當運動。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個晚上，我都是靠{}陪伴我度過漫漫長夜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個週一，我都是靠{}才能起床",
+        "word_class": 1
+    },
+    {
+        "sentence": "每晚我都想念著{}來撫慰我的心靈。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每條大街小巷，每個人的嘴裡，見面第一句話，就是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每逢拉不出屎，都必須讓{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每間房間都會有一個{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "要是我有個{}，絕對要你好看！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，愛上你，從那天起。",
+        "word_class": 1
+    },
+    {
+        "sentence": "都是因為{}，我才讓她懷孕了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當有人說{}的時候，我都會十分生氣。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當有人說{}的時候，我都會十分開心。",
+        "word_class": 1
+    },
+    {
+        "sentence": "抱歉一直隱瞞你們，其實我就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "就在昨天，警方終於抓到了犯人，並且{}了，目前警方正在審訊當中。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你們已經被我和{}包圍了！放棄吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要控住不了我的{}了！快走！",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈！哈！哈！就在我{}的恐懼下繼續逃亡吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "藝術是等不及的，尤其是{}的時候。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你說你是{}？！這不可能！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當老公偷吃時，我都會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當我{}我老婆就會不開心。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當夜深人靜的時候，我都在想{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當班上有人確診，我都會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當要快篩，我都會希望{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每當爺爺走到我面前，我就{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "決定了！我今天一定要{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "為什麼不{}呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}萬歲！",
+        "word_class": 1
+    },
+    {
+        "sentence": "打倒{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "和平、奮鬥、救{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒什麼比{}更能令人食指大動了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "男人，你給我{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "真糟糕，停電了，我們只能靠{}來發電了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "加上小的東西都會變得很可愛，像是：小笨蛋、小貓咪、小寶貝、小{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有{}，我要怎麼度過這漫漫長夜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有{}不行的人可以去睡覺了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "到底為什麼會{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的{}很久了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有{}我活不下去。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有人知道{}為什麼這麼重要，但我知道，因為那個東西將改變世界。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有做過{}的人，很容易就會討厭公關災難",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸幹是{}，這可以養嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒事，相信{}，不怕。",
+        "word_class": 1
+    },
+    {
+        "sentence": "得意的一天，從{}開始。",
+        "word_class": 1
+    },
+    {
+        "sentence": "24歲，是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒事我就是{}， 有需要我再找你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒想到他居然喜歡{}，真是讓人不敢相信！",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒關係，阿罵，我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "沖脫泡蓋送，是發生{}的應對方法。",
+        "word_class": 1
+    },
+    {
+        "sentence": "災難公關？我看是災難{}吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "災難公關的{}簡直令人髮指！",
+        "word_class": 1
+    },
+    {
+        "sentence": "男生生活中最容易缺少{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "男生要求女生{}是天經地義的事吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "見面第一句話就是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "走在路上看到有{}要過馬路。",
+        "word_class": 1
+    },
+    {
+        "sentence": "身而為{}我很抱歉。",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸不是，你要{}你要先講。",
+        "word_class": 1
+    },
+    {
+        "sentence": "捨棄了{}的我，現在是無敵的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}可是我的獨門絕活！",
+        "word_class": 1
+    },
+    {
+        "sentence": "請好好注視著，我的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "做好{}的覺悟了嗎？我早就準備好了",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}非得是我來做不可",
+        "word_class": 1
+    },
+    {
+        "sentence": "喝咖啡，吃甜食，讓你{}了嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "身為一個乞丐超人，我都會在{}的時候變身。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，適合所有人使用！",
+        "word_class": 1
+    },
+    {
+        "sentence": "車主——暴力團員谷岡所提出的和解條件是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "後來，女孩才想到男孩當年是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "求求不要貼疑似{}的新聞了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "此生不悔{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "兄弟齊心，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "他帥氣地拉起了她的手，走進台大。後來，女孩才想起男孩當年是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你這騙子你絕對{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我有什麼{}的必要嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "背後的原因令人{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}一定是在下一盤大棋。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那一天，大家想起了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那一天，我是拿{}當配菜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你連愛人的{}都不敢吃，還敢說愛他！",
+        "word_class": 1
+    },
+    {
+        "sentence": "莫忘世上{}多。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你們要{}，不要跟我說啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有想到吧！這就是我的{}啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "那一天是個月黑風高的夜晚，我的{}再也按耐不住了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那天晨跑，我看見河邊{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那些年錯過的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "那是一個{}的夜晚，直到現在我依然無法忘記。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那是什麼味道？{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}永遠能嗨翻全場。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那個，說起來有點下流……我{}了……",
+        "word_class": 1
+    },
+    {
+        "sentence": "那個……請問……{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "閉嘴啦！{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就是笨，才會{}你那麼久！",
+        "word_class": 1
+    },
+    {
+        "sentence": "奶奶曾說{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你到別的地方去{}好不好？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}何在。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我這一輩子……只在乎能不能{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "有的時候我就是好想{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這時{}發生了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你知道你在{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在，我的手中抓住了{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "對哦，我就是傳說中的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "閉嘴，讓我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "為什麼呢？現在我也在{}呢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我可是想{}，想得快控制不住了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}啊，真是個好故事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "知識就是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "乳不{}聚人心。",
+        "word_class": 1
+    },
+    {
+        "sentence": "本設施只會在緊急狀況時停下，{}不是一種緊急狀況。",
+        "word_class": 1
+    },
+    {
+        "sentence": "抱歉，您的信用卡無法刷過，除非你{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "從現在開始，瘋狂{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "來去{}鶴七逃～",
+        "word_class": 1
+    },
+    {
+        "sentence": "來試一下免費的{}吧～",
+        "word_class": 1
+    },
+    {
+        "sentence": "侍奉{}吧～",
+        "word_class": 1
+    },
+    {
+        "sentence": "原來，你也玩{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "兩岸猿聲啼不住，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "兩個禮拜以後，請你拿出最嚴肅的態度，我要{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "兩個禮拜以後～{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "其實我是一個{}的人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "其實我都是看{}長大的",
+        "word_class": 1
+    },
+    {
+        "sentence": "你都多大了還在看{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "其實哄女生很簡單，只要{}就好了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在的年輕人真沒用。想當年，我可以一天{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "考試時遇到不會的題目只要{}就絕對沒問題！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我做這道菜的秘訣就是{}加爆！",
+        "word_class": 1
+    },
+    {
+        "sentence": "科學家找到了鐵達尼號沉船的真正原因了，竟然是因為{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我參選總統的第一個政見就是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國研究，{}看太多會導致大腦萎縮。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了防止被偷，我在皮夾裡放了{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我昨天趁我媽不注意時偷偷{}，真是太刺激了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我決定辭掉工作，去完成我{}的夢想！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最討厭的就是會在半夜{}的人！",
+        "word_class": 1
+    },
+    {
+        "sentence": "任何人有{}就可以參加慈善撲克王大賽。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我不是針對你，我是說在座的各位都是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你這哪是神鳥鳳凰圖，分明就是{}圖！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我決定將{}作為我畢業論文的主題！",
+        "word_class": 1
+    },
+    {
+        "sentence": "到了30歲還是處男，似乎會{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "到底{}在哪裡？",
+        "word_class": 1
+    },
+    {
+        "sentence": "命理老師說，我的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "和你{}的時候肯定不能穿褲子啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "垃圾不分{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "妹妹來～哥哥請你吃{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "妹妹貼文最愛有{}的橋段。",
+        "word_class": 1
+    },
+    {
+        "sentence": "孤身一人上路太危險了，帶上{}吧，一定能幫上你的忙的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "就跟你說{}了，你怎麼就是不聽？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "忽有龐然大物，拔山倒樹而來，蓋一{}也。",
+        "word_class": 1
+    },
+    {
+        "sentence": "忽有龐然大物{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "性癖會不會隨著{}而改變哇？",
+        "word_class": 1
+    },
+    {
+        "sentence": "所以，我說那個{}呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "所以說你昨天在公司{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "所謂{}，就是在漆黑的荒野上開闢出一條理當前進的光明大道。",
+        "word_class": 1
+    },
+    {
+        "sentence": "所謂的強大，不是只用在肉體上的形容詞，因為{}是生為強者的使命。",
+        "word_class": 1
+    },
+    {
+        "sentence": "抱歉，我剛剛把你認成{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "抱歉了{}，我真的需要那個酷東西！",
+        "word_class": 1
+    },
+    {
+        "sentence": "人無{}天下無敵。",
+        "word_class": 1
+    },
+    {
+        "sentence": "朗讀比賽我選了{}當題目。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你{}的令人想吃掉！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我從1400萬個結果中，看到了你被{}的結果。",
+        "word_class": 1
+    },
+    {
+        "sentence": "孔子曰：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "出來吧我的好夥伴{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個人的心中都會有一隻{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "《三國志{}版》",
+        "word_class": 1
+    },
+    {
+        "sentence": "不願被當{}，還不如被當。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要{}了好嗎？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "睡前務必{}，保你一夜好眠。",
+        "word_class": 1
+    },
+    {
+        "sentence": "明明說好今天晚上要用{}一起嗨的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "本來就不想{}的，現在我不得不做了，真感謝你的貢獻啊你這大白癡！",
+        "word_class": 1
+    },
+    {
+        "sentence": "自從他被勒令退學之後就開始{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我前幾天知道了{}的存在，這個世界比我想像的還糟糕啊。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽說新的{}很猛但我還沒空去看。",
+        "word_class": 1
+    },
+    {
+        "sentence": "月底這篇文破萬我就{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是新一代的潮流尖端。",
+        "word_class": 1
+    },
+    {
+        "sentence": "剛剛看到了{}，這是我人生最有意義的時光。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在的{}到底是怎樣！娘希匹地！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}跟海上的燈塔一樣光芒四射。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是很複雜的，比試著去理解宇宙的真理還要複雜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "對於新一代的人類而言，{}是合法的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一旦夢到怪怪的夢我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "善哉善哉，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當你住在台中時，一定要記得{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們學校都把預算用在{}上了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "起來！{}的人們！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都要{}，才不會過度緊張而烙賽。",
+        "word_class": 1
+    },
+    {
+        "sentence": "雖然大小事我都記不太起來，但{}方面我有天生的記憶力。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要有{}在我旁邊，一定都會干擾我的睡眠。",
+        "word_class": 1
+    },
+    {
+        "sentence": "他因為{}導致失戀，可憐哪！",
+        "word_class": 1
+    },
+    {
+        "sentence": "期中報告草稿：存在。我：{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "果然到頭來說還是有{}比較好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "物競天擇，適者{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "玩遊戲的時候，一定要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "玩線上遊戲我一向都用{}作為角色外觀。",
+        "word_class": 1
+    },
+    {
+        "sentence": "股市崩盤都是{}害的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近新出現了一種電腦病毒，會讓你的螢幕充滿{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "子曰：「吾十有五而志於{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "樂事出了{}的新口味！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "肯德基不賣{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "阿北！{}了阿北！",
+        "word_class": 1
+    },
+    {
+        "sentence": "豆漿也算是一種{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "阿嘶，都是因為{}讓我超爽！",
+        "word_class": 1
+    },
+    {
+        "sentence": "阿爺無大兒，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "阿嬤：「我是睡著啦！」孫女：「那你怎麼沒{}？」",
+        "word_class": 1
+    },
+    {
+        "sentence": "醫師預估，今年會考將會有超過一萬名國三生{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只有{}不會騙人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你不要整天都在{}，做點有意義的事好不好？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}沒有錯對吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我這輩子只在乎{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我天不怕地不怕，但那個{}，快嚇死我了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "前晚，我才剛做過{}這件事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "勇者喜歡{}有什麼錯！",
+        "word_class": 1
+    },
+    {
+        "sentence": "咬人惡徒{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "哇，{}欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈比的口頭禪是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈哈，{}派對！",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈哈！我都是用{}當早餐的啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "哈囉！{}我要回來囉！",
+        "word_class": 1
+    },
+    {
+        "sentence": "孩子，你要從有經驗的人身上學習，除了{}沒有什麼能讓她更開心的了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "封鎖別人{}說不小心按到。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，然後說不小心按到。",
+        "word_class": 1
+    },
+    {
+        "sentence": "帥哥，帥哥你不是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "很有可能是{}搞的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聽說他曾經是{}奧運選手。",
+        "word_class": 1
+    },
+    {
+        "sentence": "新聞快報：威爾史密斯因為{}而毆打奧斯卡主持人！",
+        "word_class": 1
+    },
+    {
+        "sentence": "偷偷跟你說，我當年是靠{}才成功越獄的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "怎麼了，你在這裡{}是發生了什麼事？",
+        "word_class": 1
+    },
+    {
+        "sentence": "拜託了，幫我{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "拜託，不要再{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "拜託你了，要是再不{}的話會出事的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "春眠不覺曉，處處聞{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都用{}教育我的小孩。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我深信：{}可以改變台灣教育體制。",
+        "word_class": 1
+    },
+    {
+        "sentence": "春暖花開，又到了{}的季節。",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天，我在浴室{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天我在三樓往下丟了{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天的我比今天的我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "是你{}，我一生的摯愛。",
+        "word_class": 1
+    },
+    {
+        "sentence": "是從何時起有著如此巨大得令人想不起來的{}呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "洗手的時候，常常發現{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "洗澡的時候，我會先搓{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了不被教授當，他居然{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了世界，{}應該主動消失。",
+        "word_class": 1
+    },
+    {
+        "sentence": "責任全在{}方。",
+        "word_class": 1
+    },
+    {
+        "sentence": "聖誕節的夜晚，老婆送我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "魯蛇就是不懂{}才會是魯蛇！",
+        "word_class": 1
+    },
+    {
+        "sentence": "失去{}將是人類的一大損失。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這就是{}的味道嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "只有我覺得{}過譽嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "為什麼不幫我發{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "為什麼只是看著！{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只是路過的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "整個城市都是我的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "為什麼我會{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "為甚麼不正眼看我？我又不會偷走你的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "看見{}，我就感到婉惜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "看見{}讓我的人有了更多意義",
+        "word_class": 1
+    },
+    {
+        "sentence": "看來是和我同樣的{}呢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "看到{}的時候，下面都會硬硬的",
+        "word_class": 1
+    },
+    {
+        "sentence": "看到我{}都不會怕的欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "看啊！{}就像垃圾一樣！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我以前也跟你一樣，直到我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}說，再買更多卡！",
+        "word_class": 1
+    },
+    {
+        "sentence": "突然間一聲雷擊，他跳進{}就消失了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "突然想要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "美好的一天，就從{}開始。",
+        "word_class": 1
+    },
+    {
+        "sentence": "美國鬼才導演{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是什麼梗？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我的老婆",
+        "word_class": 1
+    },
+    {
+        "sentence": "兩個字，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "若不是你闖進{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "若是無法接受{}，世界就無法和平。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}始終來自於人性。",
+        "word_class": 1
+    },
+    {
+        "sentence": "什麼都別做，只要{}就好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "下一站，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "驚！外星人竟拿{}作疫苗實驗！",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天我家被{}搶了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "若非要對{}設個期限，我希望是一萬年。",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊！我的{}還有30年的貸款沒繳完啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}才是力量。",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國研究指出，只要每天{}就可以成為人生勝利組。",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國研究顯示，目前青少年最喜歡看{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國最新研究發現，吸毒會導致{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每個成功的男人的背後，都有一個{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "臺灣本土最受歡迎小吃竟然是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是現在恐龍家長最大的藉口。",
+        "word_class": 1
+    },
+    {
+        "sentence": "看我不用{}，就一命通關給你看。",
+        "word_class": 1
+    },
+    {
+        "sentence": "要不是{}我就能投胎了",
+        "word_class": 1
+    },
+    {
+        "sentence": "要是能重來，我要選{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "用過{}，你就是成熟的大人了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "重點就是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "總目標就是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "借錢要還，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "剛剛手機被{}壓到不小心發了個文，抱歉抱歉。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不怕假新聞。",
+        "word_class": 1
+    },
+    {
+        "sentence": "覆蓋一張{}，結束這回合！",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果有一天我變得很有錢，我會買下所有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在我轉身之後，你卻又{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "別人都說沉默是金，但我認為{}才是精。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我才不說我曾經和{}做過一件不能說的事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "剛剛那個讓我吃到沒有先過好油，還炒得亂七八糟的{}就是你吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "原來媽媽那麼晚回來是因為{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "哥哥，其實我有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "哭啊，又{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "唧唧復唧唧，木蘭當{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這還是少爺第一次帶{}回家呢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "（台）島～輝～～{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "差一點，就差那麼一點就可以{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "別傻了，你沒有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你就{}，不要廢話那麼多！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你怎麼長的一臉{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都重複使用{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "想{}啊你，我教你呀！",
+        "word_class": 1
+    },
+    {
+        "sentence": "抱歉，讓您{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "弱者沒有玩{}的資格。",
+        "word_class": 1
+    },
+    {
+        "sentence": "徐志摩說：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "恐怕就連{}也不會採用這麼誇張的設定。",
+        "word_class": 1
+    },
+    {
+        "sentence": "拿破崙慘遭滑鐵盧竟然是因為——{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天好開心！路上遇到{}給我1000塊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "桌遊社的榮譽會員：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "海裡有很多{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "真可憐呢、給你{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "一天又平安的過去了，感謝{}的努力！",
+        "word_class": 1
+    },
+    {
+        "sentence": "心情不好，只好{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "一想到{}就掉眼淚。",
+        "word_class": 1
+    },
+    {
+        "sentence": "主管說，我們這個月的考績不佳是因為{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "真是的，一定又是{}搞的鬼",
+        "word_class": 1
+    },
+    {
+        "sentence": "祝你全家{}一整年。",
+        "word_class": 1
+    },
+    {
+        "sentence": "站起來啊{}！剛剛的氣勢到哪去了呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "能收拾{}的，只有我。",
+        "word_class": 1
+    },
+    {
+        "sentence": "就這點程度，還不足以折斷我的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國的某大學研究指出全球暖化的最大成因是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "要是喜歡一個人，就要連那個人的{}一起喜歡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生就像{}一樣在運行。",
+        "word_class": 1
+    },
+    {
+        "sentence": "難道你把夢想和希望都塞進{}裡嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "在那{}什麼？",
+        "word_class": 1
+    },
+    {
+        "sentence": "記得按讚訂閱加{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "起床看到下大雨就{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "除非你老爸變成{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "馬斯克的下一步是，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "假如我{}不自卑，懂得什麼是珍貴。",
+        "word_class": 1
+    },
+    {
+        "sentence": "停電了，一定又是{}再搞！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你知道我爸是誰嗎？我爸可是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "偽裝真差，一看就知道是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}哪有這麼可愛！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的嘴，騙人的鬼。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}在你後面，他非常火。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你肚子餓不餓，我{}給你吃吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}什麼的最討厭了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最討厭別人在我背後{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "雖說{}沒有惡意，但還是燒掉比較好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "又到了{}的季節",
+        "word_class": 1
+    },
+    {
+        "sentence": "只有{}知道的世界",
+        "word_class": 1
+    },
+    {
+        "sentence": "出事了{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，水啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "感冒用{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊我就{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊呦，{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨天，我拿到了{}的金氏世界紀錄。",
+        "word_class": 1
+    },
+    {
+        "sentence": "劉姥姥{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "孔乙己還欠{}呢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊哈……我的{}……",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊啊啊啊啊Ｒ～{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "啊嘶～{}讓我全身痠痛。",
+        "word_class": 1
+    },
+    {
+        "sentence": "單憑你{}就夠治你罪啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "國小就{}，害我不知道要怎麼辦……",
+        "word_class": 1
+    },
+    {
+        "sentence": "國立{}大學，一手交錢，一手",
+        "word_class": 1
+    },
+    {
+        "sentence": "國產遊戲最新大作{}獲得相當大的迴響。",
+        "word_class": 1
+    },
+    {
+        "sentence": "國際運費上漲，進口產品價格翻倍，民眾瘋搶{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現代問題，必須用{}解決。",
+        "word_class": 1
+    },
+    {
+        "sentence": "先停一下，我已經沒有{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "專家：睡夢中夢到{}會長壽，網友都驚呆了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "專家：長年使用{}能促進28.5%的代謝作用！",
+        "word_class": 1
+    },
+    {
+        "sentence": "後宮{}，鐵杵磨成繡花針。",
+        "word_class": 1
+    },
+    {
+        "sentence": "崩潰！麥當勞{}缺貨，從今起陸續暫停供應。",
+        "word_class": 1
+    },
+    {
+        "sentence": "帶{}去摳死摳哭，哭！哭她媽一個小時！",
+        "word_class": 1
+    },
+    {
+        "sentence": "得用{}來遮住。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不{}就無法生存下去",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，為什麼只是看著！",
+        "word_class": 1
+    },
+    {
+        "sentence": "奶奶曾經說過：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，你坐呀！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你不是還有{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要吵架，{}好處都有啥？誰說對了就給他！",
+        "word_class": 1
+    },
+    {
+        "sentence": "但是，{}，代價是什麼呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "所以我說那個{}呢？",
+        "word_class": 1
+    },
+    {
+        "sentence": "從{}到新竹。",
+        "word_class": 1
+    },
+    {
+        "sentence": "從現在開始，每個人都要在句尾加上{}，不加上的話就是輸家喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "採菊東籬下，悠然見{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "黑貓白貓，會{}的就是好貓。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了讓孩子有更健全的發展，我推薦每位父母都應該多多陪孩子{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "就算上刀山下火海，我也要陪你一起{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "幹得好，大哥。這些{}會成為他們永生難忘的噩夢的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "告訴你一個小秘密，彩虹糖的原料其實是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "那傢伙真是個不折不扣的人渣，他居然{}並以此為樂！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}為新世代的藝術界奠定了一座里程碑，受到世界各地藝術巨擎們的嘉許。",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要有問題，{}都可以搞定。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}在我的信任清單裡排最後一位。",
+        "word_class": 1
+    },
+    {
+        "sentence": "接下來要表演的是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "控制{}就能控制世界。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的{}最沒用了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}確診了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這裡的{}，十分便宜！",
+        "word_class": 1
+    },
+    {
+        "sentence": "冰箱裡有很多{}，所以我找了朋友陪我一起清理。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果手中沒有{}，我就無法守護你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果手中握著{}，我就無法擁抱你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這到底是甚麼{}，喔吼吼吼吼吼吼！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這到底哪來的{}，怎麼這麼低能阿！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這是{}你知道的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這是一首{}的小情歌。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這是我{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這個{}是哪一個人發明的？",
+        "word_class": 1
+    },
+    {
+        "sentence": "這個{}就是遜啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}只是工作。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你渴望{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "夜晚的{}總是令人格外的興奮。",
+        "word_class": 1
+    },
+    {
+        "sentence": "出、現、了，{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你要不要{}？",
+        "word_class": 1
+    },
+    {
+        "sentence": "這就是{}的美學。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}已經成為傳說了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "誰再跟我說{}我就打誰。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這個人好醜，跟{}一樣醜。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這就是你{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這就是所謂的，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "因為{}，被原諒也是可以的吧。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在{}尋求邂逅的我是不是搞錯了什麼？",
+        "word_class": 1
+    },
+    {
+        "sentence": "抱歉，我正趕著要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "醫生：「抱歉，我們無法為你看診。」你：「為什麼？」醫生：「因為你{}。」",
+        "word_class": 1
+    },
+    {
+        "sentence": "別人：可以不要用{}指著我嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨晚的{}真是美味極了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "別過來！這裡有{}在等你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}即是正義。",
+        "word_class": 1
+    },
+    {
+        "sentence": "研究指出，{}可以減緩焦慮。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你該好好考慮{}，不然你會後悔一輩子。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡在下班前{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "想約異性出門，我會先去{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡在高速公路上{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "這個世界需要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "世界第八大奇蹟就、是——{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡{}的你。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡{}配爆米花。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的超能力是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡在內心空虛的時候{}樂。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡在出門上班前{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡在睡前{}三次。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我吃飯從來不配{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "(上一位玩家的名字)從來都{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我喜歡對我的貓{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "可惡！你這個卑鄙的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "猶豫，就會{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}就會敗北。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我單身的原因是因為：{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "雖然是單身，但我有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是一個很虔誠的信徒，我每天會對窗戶大喊{}三次。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就是{}噠！",
+        "word_class": 1
+    },
+    {
+        "sentence": "大哥你是{}我的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就想看看你{}的表情。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經也是{}，直到我膝蓋中了一箭",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經有{}，直至死亡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我媽媽巄公：欸！旦ㄟ{}來啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我想睡覺，但也需要{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我愛上了{}，讓我無法自拔。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我愛你，所以我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我感覺不到我的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你拉低了整條街的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我會履行我的職責，不會讓在場的任何一個人{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我睡前必須要做的是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每天起床必須要做的是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "考試前我都是用{}來避免緊張。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，參上！",
+        "word_class": 1
+    },
+    {
+        "sentence": "吾乃{}也，誰敢與我決一死戰？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}又給我漲30塊，幹你娘咧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "人生三階段：出生、{}、死亡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我叫韓國瑜，號稱百年難得一見的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "各位旅客您好，{}要到了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "歡迎光臨，請出示{}，可以享有八折優惠。",
+        "word_class": 1
+    },
+    {
+        "sentence": "請勿將{}伸出車外。",
+        "word_class": 1
+    },
+    {
+        "sentence": "天將降大任於斯人也，必先{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我曾經在某公家機關的廁所裡{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "人在{}，天在看。",
+        "word_class": 1
+    },
+    {
+        "sentence": "還是會～害怕，{}的時候～害怕～",
+        "word_class": 1
+    },
+    {
+        "sentence": "哪一個女生被這樣{}會開心的阿！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}比踩到樂高還痛苦。",
+        "word_class": 1
+    },
+    {
+        "sentence": "最近，那個最火紅的實況主經常直播{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我在百貨公司的福袋抽到了{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "科學家發現{}可以作為新型能源。",
+        "word_class": 1
+    },
+    {
+        "sentence": "考古學家發現{}是來自於非洲的一個小部落。",
+        "word_class": 1
+    },
+    {
+        "sentence": "美國學校允許學生在校園裡{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是不是啊？！真的很可憐。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我常跟計程車司機聊{}的話題。",
+        "word_class": 1
+    },
+    {
+        "sentence": "計程車司機說如果我幫他{}，就不收車錢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "美國太空總署要在明年發射{}到太空。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是台灣最美的風景。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是有原則的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是你生活中最好的幫手。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我心中最軟的一塊",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我的精神糧食。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我這輩子跨不過去的檻。",
+        "word_class": 1
+    },
+    {
+        "sentence": "您訂購的{}已經出貨囉！",
+        "word_class": 1
+    },
+    {
+        "sentence": "請丟出你手上最糟糕的卡：{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "由於警方在嫌犯身上搜出{}，導致案發現場緊急疏散。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我最喜歡的童話故事。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}讓睡美人從沉睡中醒來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "當我坐在桌子前，{}就會在我的桌子底下。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我最愛的絕技！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是能成為我母親的女性。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你的{}便是治療一切苦痛的萬靈丹。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是曾經的主流。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這時只要{}就可以了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}技術是世界第一。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}看起來很可疑。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}我給100分！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是在{}什麼啦！",
+        "word_class": 1
+    },
+    {
+        "sentence": "是誰讓{}拿槍的啦！？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}應該被人道毀滅。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要{}好嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}飛起來啦！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}真有趣。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的夢想是用{}拯救世界。",
+        "word_class": 1
+    },
+    {
+        "sentence": "請打電話給勞動局，因為沒有任何人能忍受在有{}的環境下工作。",
+        "word_class": 1
+    },
+    {
+        "sentence": "電視上出了全新的真人秀節目，6位過氣的明星與{}一同生活。",
+        "word_class": 1
+    },
+    {
+        "sentence": "王老先生有{}，咿呀咿呀優。",
+        "word_class": 1
+    },
+    {
+        "sentence": "殭屍末日到來了，我靠著使用{}對付殭屍而活了下來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "但是我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你就是我的{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "讓我{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "只要有{}，就是暢銷的輕小說。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}起來囉，寶貝！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，我的最愛。",
+        "word_class": 1
+    },
+    {
+        "sentence": "寶貝對不起，不是不{}你！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}將會是發展新一代永動機的關鍵。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}就像幻夢世界一樣，是不存在的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要變強？那就把{}放進褲子裡吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "成天只想要{}的人是社會的悲哀。",
+        "word_class": 1
+    },
+    {
+        "sentence": "想要入住這間飯店的人必須先{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了拯救我的家園，我願意{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "歡迎收看{}尋奇。",
+        "word_class": 1
+    },
+    {
+        "sentence": "一路上有{}的支持，才能完成我今天的成就。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}現在在監獄裡面！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}臉都不要了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "一加一等於{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}那麼可愛怎麼可以吃？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要送你~九十九朵{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們{}了一個叛徒。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們{}他。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們是全世界最{}的朋友。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我早餐都吃{}，營養又健康。",
+        "word_class": 1
+    },
+    {
+        "sentence": "對不起我騙了你，捲菸的煙草不是來自{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們現在把手伸出來，然後喊出自己的能力！！{}！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了生活，這點程度的{}根本不算什麼！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們就是比較爛的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們鄉下人都是{}長大的",
+        "word_class": 1
+    },
+    {
+        "sentence": "首先{}；再來，你沒資格。",
+        "word_class": 1
+    },
+    {
+        "sentence": "叫你的{}給我出來！",
+        "word_class": 1
+    },
+    {
+        "sentence": "每一個轉角，都有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我也覺得我的人生，就在這裡寫下了{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們對待這些{}也要有禮。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我剛剛摸了你的{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我家巷口的{}屌打。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的好{}喔！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我真的沒有{}，妳怎麼不相信我呢！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最喜歡吃媽媽做的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "老師上課的時候都會{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "一個人要擁有高尚的品格，就必須{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我站在雲林，{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我叫的Uber eat 裡面有{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我晚上都看{}幫助睡眠。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我現在真是High到不行啊，心情好到我都想{}了",
+        "word_class": 1
+    },
+    {
+        "sentence": "如果你願意一起{}，我會讓你見識從未見過的景色。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我這輩子問過最臭的味道就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都在頂樓{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都在學校{}，老師都說好！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽看到{}之後，就去吐了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都是吃{}當晚餐。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有人是不重要的，除非他是個{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "向晚意{}，驅車登古原。",
+        "word_class": 1
+    },
+    {
+        "sentence": "夕陽無限好，只是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是無敵的！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你最希望能在夾娃娃機夾到的是{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你最喜歡講{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "哩洗咧{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽晚上都在{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽有說過你是個{}的人嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽死了{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽的{}，讚！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這不是很{}的發展嘛。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽知道你{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你媽知道你整天在這裡{}會怎麼想？",
+        "word_class": 1
+    },
+    {
+        "sentence": "閉嘴啦，{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "為何有些台女{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你說，你想要跟我{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "你想懂，我房裡……有些好康的，可以幫你{}喔～",
+        "word_class": 1
+    },
+    {
+        "sentence": "你感覺一臉就是寫著{}的馬斯克！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你會成為一個很棒的{}的",
+        "word_class": 1
+    },
+    {
+        "sentence": "你會騙{}嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你當我{}是假的啊？蛤？？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你說你愛上了{}？你腦袋進水了是嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "你小子可以啊！這麼快就{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "當人們發現自己的意見與主流意見不同時，因為害怕被孤立或迫害，便會選擇{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "公眾的行為會受到{}的影響。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們幫會中的每個成員都要{}，因為這是整個幫派的共識。",
+        "word_class": 1
+    },
+    {
+        "sentence": "快訊：某男子因{}，被其家人發現於自家客廳倒臥昏迷！",
+        "word_class": 1
+    },
+    {
+        "sentence": "快訊：因原物料上漲，導致{}供不應求！",
+        "word_class": 1
+    },
+    {
+        "sentence": "快訊：某轎車司機因在車上{}而造成國道五號發生長達54.3公里的連環車禍！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都是靠{}來滿足我深夜的需求。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都搭{}去上學。",
+        "word_class": 1
+    },
+    {
+        "sentence": "馬斯克都在{}搞人！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我都會{}當消遣。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天{}讓我好爽！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我最推的是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "真的很不想{}，我覺得好累。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我經常和我的男室友進行{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我跟我的女友說，當我看到你的第一眼時，我就{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我與父親不相見已三年有餘，我最想念的是他的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我與神明畫押，一拳打死{}",
+        "word_class": 1
+    },
+    {
+        "sentence": "根據新聞報導：這次全台大停電的理由是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "透過寵物攝影機，我竟然發現我家的狗狗會在我出門時{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "翻譯出來給我聽，什麼他媽的叫他媽的{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "驚喜就是三天之後，我出一百八十萬給你們{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "照你這麼說，{}還真就是跪著要飯的！",
+        "word_class": 1
+    },
+    {
+        "sentence": "關於{}，之後會專門做一集視頻跟大家講解。",
+        "word_class": 1
+    },
+    {
+        "sentence": "卑鄙？{}，你說我卑鄙？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "全台最大的{}上線了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸～欸，你的背後好像有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸你昨天{}的影片流出了你知道嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "欸走啊，打{}啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你說什麼？{}可以送我嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "這真的很{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我被{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，這有被刊到新聞上嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "超爽der~~撿到{}勒！",
+        "word_class": 1
+    },
+    {
+        "sentence": "完蛋了，我{}了",
+        "word_class": 1
+    },
+    {
+        "sentence": "我懷疑有人在臭{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，你們就繼續偷著樂吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，我不想努力了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，我來！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，抽離身體放開自己。",
+        "word_class": 1
+    },
+    {
+        "sentence": "注意，您的{}含量不足10%。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，是成功者的最佳品格。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，深度保養女人心。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，這都是些什麼啊......",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，發生什麼事了？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，滿地傷，你的笑容已泛黃。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}！30塊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}！永遠滴神！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}？兄弟，你沒吃錯藥吧？",
+        "word_class": 1
+    },
+    {
+        "sentence": "歡迎光臨我們新開的酒店。我們有溫水游泳池，無限暢飲的吧檯，以及{}，祝你們玩得愉快。",
+        "word_class": 1
+    },
+    {
+        "sentence": "告訴你一個殺死地精的秘訣，那就是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "面對那些叛徒，我們必須{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "面對如此困境，只有{}是我們唯一的希望！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們社會上有很多默默守護社會的無名英雄。例如做回收的志工阿姨，關懷流浪動物的救援人員們，還有{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}一響，父母白養。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，我的英雄",
+        "word_class": 1
+    },
+    {
+        "sentence": "封鎖別人的限動，然後{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}大姊姊，可以。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}才做選擇，我全都要！",
+        "word_class": 1
+    },
+    {
+        "sentence": "請停止你的{}行為。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了{}的偉大復興。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不只是狀態，更是一種做人該有的心態！",
+        "word_class": 1
+    },
+    {
+        "sentence": "並非每個人都具備了{}的勇氣，而這種勇氣卻足以改變整個社會。",
+        "word_class": 1
+    },
+    {
+        "sentence": "實驗證明，{}容易讓人胡思亂想。",
+        "word_class": 1
+    },
+    {
+        "sentence": "買下{}，讓你的人生重新發光發亮吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "自從我變成了{}之後，就沒人敢和我面對面互嗆了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "令人不能自拔的，除了愛情、思念，還有{}，令人無法自拔……",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要和我比{}，你只是在自尋死路而已。",
+        "word_class": 1
+    },
+    {
+        "sentence": "出門旅行就要把錢花在{}上面，它豐富了一段旅程的精彩。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是我們對付外星人的終極武器！是全人類的救星！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只不過是要你幫忙{}，你就想做掉我啊？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "上課無聊時我都{}來打發時間。",
+        "word_class": 1
+    },
+    {
+        "sentence": "由於維護這些{}的成本過於高昂，我們不得不傾家蕩產來進行維護。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}是絕對神聖的，這一點甚至可以從它的外表上看出來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要在這幅畫上多加一個{}，畫面會變得更平衡更有美感。",
+        "word_class": 1
+    },
+    {
+        "sentence": "浴室有對外窗比較好。通風良好，濕氣也不會積留，最重要的是可以{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我昨晚夢到{}，我想我需要去看個心理醫生。",
+        "word_class": 1
+    },
+    {
+        "sentence": "自從我有了{}之後，我的人生就從彩色變成黑白的了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}對我們而言是極大的威脅，它能夠造成呼吸困難，損傷內外部器官。",
+        "word_class": 1
+    },
+    {
+        "sentence": "做為一個醫生最可怕的夢魘是{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}擁有極強的致命能力，光是它的凝視就足以致命。",
+        "word_class": 1
+    },
+    {
+        "sentence": "時間不等人，所以我們得盡快{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}一直盜用人家肖像，很誇張欸！",
+        "word_class": 1
+    },
+    {
+        "sentence": "不好意思，剛剛{}動了我手機，如果看到怪怪的東西請忽略。",
+        "word_class": 1
+    },
+    {
+        "sentence": "來了來了，你家的{}又亂跑出來了，這個月第6次了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我這幾天無聊時就研究一些{}，還蠻有趣的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "根據德國之聲的報導，{}開創了新世代室內設計的先河。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不是真的我就是假的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}不要！",
+        "word_class": 1
+    },
+    {
+        "sentence": "跪求{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}介入後，事情就被壓了下來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}太好玩了我要玩爆！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}只是裝飾，上面的大人物是不會懂的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "為了健康與美容，飯後要來一杯{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}可不是虛有其表！！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}可以養嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}可是我的寶！你怎麼可以這樣說他！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}可恥，但是有用。",
+        "word_class": 1
+    },
+    {
+        "sentence": "這{}我能玩一年，實在不錯！",
+        "word_class": 1
+    },
+    {
+        "sentence": "全他媽都是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我沒有被{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "現在的你很{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}你好強大！",
+        "word_class": 1
+    },
+    {
+        "sentence": "做我的{}吧！",
+        "word_class": 1
+    },
+    {
+        "sentence": "像你這樣的{}氣量怎麼這麼狹小！",
+        "word_class": 1
+    },
+    {
+        "sentence": "只是喜歡的剛好是{}罷了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}！你算計我！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這都是因為{}所犯下的錯啊！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}都是怪物嗎！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}總是在重複相同的錯誤。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我就是{}！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我{}願稱你為最強！",
+        "word_class": 1
+    },
+    {
+        "sentence": "你也想{}嗎？！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我只是個路過的{}，給我好好記住！",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的身體已經{}了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}你就輸了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "你是{}的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}吃人從來就不挑食。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我的{}還蠻大的，歡迎你們來玩，玩累了就直接睡覺，沒問題的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}因為人生變化，所以變得更珍惜每分每秒。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}成為下屆奧運的比賽項目。",
+        "word_class": 1
+    },
+    {
+        "sentence": "昨晚媽祖來託夢，叫我去{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}有賺有賠，申購前應詳閱公開說明書",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}至上！",
+        "word_class": 1
+    },
+    {
+        "sentence": "漢堡王應該要推出{}才對！",
+        "word_class": 1
+    },
+    {
+        "sentence": "世界上不可能沒有人不會{}吧，笑死。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}你他媽……！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}你老媽。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}！你害我好丟臉！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}即是力量所在之處。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}完整了我的生命。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}，我最~喜歡！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}每晚都看著，愛人在偷吃。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}治百病。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我吃{}長大的。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的命也是命！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的時候，我總是特別想拍照。",
+        "word_class": 1
+    },
+    {
+        "sentence": "小心！{}已經正在運行了！",
+        "word_class": 1
+    },
+    {
+        "sentence": "這是我的{}，香嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的時間為三年零八個月。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的圈子都一堆猴子。",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的感覺讓我欲罷不能！",
+        "word_class": 1
+    },
+    {
+        "sentence": "{}的運作讓世界更美好。",
+        "word_class": 1
+    },
+    {
+        "sentence": "在蝦皮上購買{}可以省很多錢。",
+        "word_class": 1
+    },
+    {
+        "sentence": "英國科研院在最新研究中指出：擁有{}的人比較幸福。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我國中時下課都拿{}去煩老師。",
+        "word_class": 1
+    },
+    {
+        "sentence": "沒有什麼是比一出門就遇見{}還要來的悲哀的了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "超音波可以幫助我們檢驗出{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "不要在下班時間騎車，不然你會遇上{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我常被懷疑是不是{}的主人。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我懷疑這房間是少了{}，每次進來頭都在痛。",
+        "word_class": 1
+    },
+    {
+        "sentence": "坐我旁邊的同學上課直接拿{}來修圖。",
+        "word_class": 1
+    },
+    {
+        "sentence": "警察如果會{}就不配當警察。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我看見蒙娜麗莎的{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "隔天起床，我發現棉被裡出現{}，讓我很害怕。",
+        "word_class": 1
+    },
+    {
+        "sentence": "睡吧，{}裡什麼都有。",
+        "word_class": 1
+    },
+    {
+        "sentence": "有什麼比{}還更觸動人心的嗎？",
+        "word_class": 1
+    },
+    {
+        "sentence": "吃咖哩一定要{}才行。",
+        "word_class": 1
+    },
+    {
+        "sentence": "每一次打炮，我都用{}",
+        "word_class": 2
+    },
+    {
+        "sentence": "每天晚上10點，我都會準時跟{}打炮。",
+        "word_class": 2
+    },
+    {
+        "sentence": "每次看到{}我就忍不住去尻。",
+        "word_class": 2
+    },
+    {
+        "sentence": "每次看到{}的時候，我就想要肏翻我朋友。",
+        "word_class": 2
+    },
+    {
+        "sentence": "每個夜晚，我都想{}操我。",
+        "word_class": 2
+    },
+    {
+        "sentence": "先等一等，你確定{}塞得進我的屁眼嗎？",
+        "word_class": 2
+    },
+    {
+        "sentence": "我朋友昨晚參加{}的免費線上視訊色色。",
+        "word_class": 2
+    },
+    {
+        "sentence": "破處的那一夜我{}。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我晚上都是看{}尻尻的。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我現在就要看著{}打手槍，而且你還不能拿我怎麼樣。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我都用{}尻到出血。",
+        "word_class": 2
+    },
+    {
+        "sentence": "你媽吸我{}",
+        "word_class": 2
+    },
+    {
+        "sentence": "你媽的內內，{}！",
+        "word_class": 2
+    },
+    {
+        "sentence": "我都看{}來自我發電。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我都拿{}塞屁眼。",
+        "word_class": 2
+    },
+    {
+        "sentence": "我都會用{}打手槍。",
+        "word_class": 2
+    },
+    {
+        "sentence": "{}♂GO。",
+        "word_class": 2
+    },
+    {
+        "sentence": "{}拍華根初上。",
+        "word_class": 2
+    },
+    {
+        "sentence": "每個人都知道{}是臭鉀。",
+        "word_class": 3
+    },
+    {
+        "sentence": "如果我有{}，妹妹就不會死掉了……",
+        "word_class": 3
+    },
+    {
+        "sentence": "會得憂鬱症的人都是因為{}！",
+        "word_class": 3
+    },
+    {
+        "sentence": "烏克蘭女孩需要{}的幫助。",
+        "word_class": 3
+    },
+    {
+        "sentence": "原住民應該享有{}的權利。",
+        "word_class": 3
+    },
+    {
+        "sentence": "客家人應該享有{}的權利。",
+        "word_class": 3
+    },
+    {
+        "sentence": "我們原住民都是{}上學的啦！",
+        "word_class": 3
+    },
+    {
+        "sentence": "吳宗憲說憂鬱症都是因為{}。",
+        "word_class": 3
+    },
+    {
+        "sentence": "我們這些臭宅讀理組的原因只有一個，那就是{}",
+        "word_class": 3
+    },
+    {
+        "sentence": "你媽死了被{}幹。",
+        "word_class": 3
+    },
+    {
+        "sentence": "每到九合一大選，總是會讓我想{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "其實俄羅斯入侵烏克蘭的真正原因是{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "{}自古就是中國神聖而不可分割的一部分！",
+        "word_class": 4
+    },
+    {
+        "sentence": "金正恩四歲會騎馬不希罕，{}﹐一歲時就會了。",
+        "word_class": 4
+    },
+    {
+        "sentence": "俄羅斯的兵器{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "俄羅斯都用{}進攻烏克蘭。",
+        "word_class": 4
+    },
+    {
+        "sentence": "信{}得永生。",
+        "word_class": 4
+    },
+    {
+        "sentence": "南北{}，一起串聯，就是這麼簡單",
+        "word_class": 4
+    },
+    {
+        "sentence": "看好了，台灣人只示範一次三周內{}",
+        "word_class": 4
+    },
+    {
+        "sentence": "別那麼快放棄，你想，{}可是歷經了十一次革命才有今天的江山啊！",
+        "word_class": 4
+    },
+    {
+        "sentence": "馬英九還我{}！",
+        "word_class": 4
+    },
+    {
+        "sentence": "政府應立法保障{}的權利。",
+        "word_class": 4
+    },
+    {
+        "sentence": "只要{}，就可以當上立法委員。",
+        "word_class": 4
+    },
+    {
+        "sentence": "美軍配發給每個士兵一個{}，以備不時之需。",
+        "word_class": 4
+    },
+    {
+        "sentence": "{}是中共同路人的行為。",
+        "word_class": 4
+    },
+    {
+        "sentence": "兩岸的關係彷彿{}。",
+        "word_class": 4
+    },
+    {
+        "sentence": "中方嚴重警告，此行為違反{}原則！",
+        "word_class": 4
+    },
+    {
+        "sentence": "俄國宣布不再對{}進行任何入侵行動。",
+        "word_class": 4
+    },
+    {
+        "sentence": "快訊：{}宣布對世界各國宣戰！",
+        "word_class": 4
+    },
+    {
+        "sentence": "快訊：新政府成立{}小組以應對中國與日俱增的威脅！",
+        "word_class": 4
+    },
+    {
+        "sentence": "俄羅斯使用了他們先進但不穩定的{}發動了孤注一擲的攻擊，以快速殲滅烏克蘭。",
+        "word_class": 4
+    },
+    {
+        "sentence": "超高校級的{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "我即使是死了，釘在棺材裏，也要在墓裏，用這腐朽的聲帶喊出{}！！！",
+        "word_class": 5
+    },
+    {
+        "sentence": "虎嘯龍吟！震驚百里！{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "每當遊戲王一回合召喚超過五隻怪，最後一定要{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "沒錯，我擁有的果實就是{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "他那麼{}，一看就知道是VT廚！",
+        "word_class": 5
+    },
+    {
+        "sentence": "《關於我轉生成{}這檔事》",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}神域",
+        "word_class": 5
+    },
+    {
+        "sentence": "新{}大戰",
+        "word_class": 5
+    },
+    {
+        "sentence": "這就是我的替身——{}的能力",
+        "word_class": 5
+    },
+    {
+        "sentence": "阿夸就{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "那天因為{}，導致彩虹社和齁社開始了第一次虛擬大戰。",
+        "word_class": 5
+    },
+    {
+        "sentence": "做台V要成功，不免要{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "有人說V皮比較重要，有人說V魂比較重要，但我們都知道，{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "是誰住在深海的大鳳梨裡？{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "洗內！{}！！！",
+        "word_class": 5
+    },
+    {
+        "sentence": "派大星呼叫海綿寶寶這個棉花糖{}的啦！",
+        "word_class": 5
+    },
+    {
+        "sentence": "派對咖{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "為甚麼……我要幫太陽神檔赤犬的拳頭……幹……我可是火拳{}哇……",
+        "word_class": 5
+    },
+    {
+        "sentence": "看到{}，就想到呂天被貫穿的畫面。",
+        "word_class": 5
+    },
+    {
+        "sentence": "若遇見{}不是奇蹟，地球在上，靈魂便不曾言語。——第四十六代女巫 林芳",
+        "word_class": 5
+    },
+    {
+        "sentence": "透過{}，我們將靈魂送往天堂。——第四十六代女巫 林芳",
+        "word_class": 5
+    },
+    {
+        "sentence": "哼哼，如此完美的手牌阿！我要召喚{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "海超人說，再買更多{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "假面騎士的新夥伴：{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "婆就是要抽到有，所以{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "抽一隻，保一隻，抽一隻，保一隻，抽到婆你會{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "帶著{}闖蕩異世界",
+        "word_class": 5
+    },
+    {
+        "sentence": "關於我轉生變成{}這檔事",
+        "word_class": 5
+    },
+    {
+        "sentence": "臣服在{}崇高的力量面前吧！",
+        "word_class": 5
+    },
+    {
+        "sentence": "萊納，你{}呀！",
+        "word_class": 5
+    },
+    {
+        "sentence": "戰鬥力只有{}的渣渣。",
+        "word_class": 5
+    },
+    {
+        "sentence": "{}永不為奴！",
+        "word_class": 5
+    },
+    {
+        "sentence": "您已被房主{}禁言。",
+        "word_class": 5
+    },
+    {
+        "sentence": "您有幾則來自百鬼あやめ的推特通知——{}",
+        "word_class": 5
+    },
+    {
+        "sentence": "接招吧！此乃吾之最終奧義！{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "接頭霸王凱留只是隻{}而已。",
+        "word_class": 5
+    },
+    {
+        "sentence": "很好，你很腦殘嗎……敢這樣講{}，我死也不會放過你。我給你兩個選擇。1：我把你送去鬼灯。2：你給我做好準備……死亡已經降臨在你身邊了。",
+        "word_class": 5
+    },
+    {
+        "sentence": "這是我最後的波紋了，出來吧！{}！",
+        "word_class": 5
+    },
+    {
+        "sentence": "我逐漸{}一切。",
+        "word_class": 5
+    },
+    {
+        "sentence": "我最推的VTuber是{}。",
+        "word_class": 5
+    },
+    {
+        "sentence": "我最愛看實況主帶著{}開台！",
+        "word_class": 5
+    },
+    {
+        "sentence": "我認為，下一個爆紅的VTuber會是以{}作為人設。",
+        "word_class": 5
+    },
+    {
+        "sentence": "看啊！鴨嘴獸泰瑞！{}終結者！",
+        "word_class": 5
+    },
+    {
+        "sentence": "天是空的，地是乾的，我要為妳，{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "每天晚上我都看放火{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "身為實況主，最重要的就是保持{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "亞洲{}，對不起！",
+        "word_class": 6
+    },
+    {
+        "sentence": "{}？Who are you？整天講那些Fucking words，好可悲喔，7414啦！",
+        "word_class": 6
+    },
+    {
+        "sentence": "放火你的頭上怎麼綠綠的，難道是被{}了嗎？",
+        "word_class": 6
+    },
+    {
+        "sentence": "放火的鑫鑫腸{}這樣做才好吃！",
+        "word_class": 6
+    },
+    {
+        "sentence": "放火迷因大賽我放了{}當參賽作品。",
+        "word_class": 6
+    },
+    {
+        "sentence": "放火最喜歡{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "東太平洋漁場時價分析師兼操盤手暨洋流講師海龍王{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "波特，你敢用我的{}來對付我？",
+        "word_class": 6
+    },
+    {
+        "sentence": "去去{}走！",
+        "word_class": 6
+    },
+    {
+        "sentence": "直播到一半，discord跳出{}的訊息。",
+        "word_class": 6
+    },
+    {
+        "sentence": "很高興通知您，您因為{}被霍格華茲錄取了！",
+        "word_class": 6
+    },
+    {
+        "sentence": "看到我大....看到我巨鎚{}都不會怕的！",
+        "word_class": 6
+    },
+    {
+        "sentence": "差不多一樣，{}，再見。",
+        "word_class": 6
+    },
+    {
+        "sentence": "特哥{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "真的好不焋喔！到底為什麼會{}啊！",
+        "word_class": 6
+    },
+    {
+        "sentence": "臭臭泥的{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "偉大的茄子神說：{}",
+        "word_class": 6
+    },
+    {
+        "sentence": "{}，請退群。",
+        "word_class": 6
+    },
+    {
+        "sentence": "聽說每位鄉民都有{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "我就是{}，跪不下去！",
+        "word_class": 6
+    },
+    {
+        "sentence": "{}根本鑰匙生產器！",
+        "word_class": 6
+    },
+    {
+        "sentence": "他媽老子{}的外號十歲就有了R",
+        "word_class": 6
+    },
+    {
+        "sentence": "你可以改看其他實況主，像是{}的台。",
+        "word_class": 6
+    },
+    {
+        "sentence": "卡個{}。",
+        "word_class": 6
+    },
+    {
+        "sentence": "愛～愛愛愛～準備{}。愛～愛愛愛～戰鬥～",
+        "word_class": 7
+    },
+    {
+        "sentence": "威爾史密斯生氣，因為{}。",
+        "word_class": 13
+    },
+    {
+        "sentence": "相信{}的人都是智障。",
+        "word_class": 13
+    },
+    {
+        "sentence": "{}能一舉清除世界上的種族歧視。",
+        "word_class": 13
+    },
+    {
+        "sentence": "沒{}，就暴動！",
+        "word_class": 14
+    },
+    {
+        "sentence": "信耶穌得{}",
+        "word_class": 14
+    },
+    {
+        "sentence": "恭迎{}，渡世靈顯四方",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}是唯一的神。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}要自立自強。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}，發大財！",
+        "word_class": 14
+    },
+    {
+        "sentence": "我國研發許久的秘密武器終於問世了，那就是{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}申請補助造福了全台的高齡長者，為我們應對高齡化時代照護不足的問題。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}是極度不人道的行為，是文明的悲哀。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}是造成極端異常氣候的元兇，若不加以應對只會讓我們更快地走向滅亡的邊緣。",
+        "word_class": 14
+    },
+    {
+        "sentence": "美國在世界各地發起了數以千計的戰爭，目的是{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "{}對新疆的野蠻人權暴行一直在說謊，國際社會必須立即採取具體的行動，就這些暴行追究責任。",
+        "word_class": 14
+    },
+    {
+        "sentence": "我們的情報部門已經確認了敵軍最近的奇怪行動的原因：{}。",
+        "word_class": 14
+    },
+    {
+        "sentence": "政府鼓勵我們的國民多多{}，一同營造友善新社會。",
+        "word_class": 14
+    },
+    {
+        "sentence": "那麼，來細數你的{}吧！",
+        "word_class": 15
+    },
+    {
+        "sentence": "如果這是妳的{}，那麼就由我來實現！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我想和這樣的{}一起度過情人節僅僅四小時的甜蜜時間。明明，就只是那樣而已啊。",
+        "word_class": 15
+    },
+    {
+        "sentence": "沒有{}的世界巴洛克",
+        "word_class": 15
+    },
+    {
+        "sentence": "現在，我的{}抓住了未來！",
+        "word_class": 15
+    },
+    {
+        "sentence": "事實上，{}我見過11次。",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}家家酒",
+        "word_class": 15
+    },
+    {
+        "sentence": "咦？這不是{}，還原度還真高啊！",
+        "word_class": 15
+    },
+    {
+        "sentence": "哇！是擅長{}的朋友呢～",
+        "word_class": 15
+    },
+    {
+        "sentence": "為了{}！！！",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}算是一種樂器嗎？",
+        "word_class": 15
+    },
+    {
+        "sentence": "不會拿捏距離的{}同學",
+        "word_class": 15
+    },
+    {
+        "sentence": "五等分的{}",
+        "word_class": 15
+    },
+    {
+        "sentence": "迪士尼樂園今日因為{}的緣故，緊急休園一天。",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}是會互相吸引的。",
+        "word_class": 15
+    },
+    {
+        "sentence": "獻出{}吧！",
+        "word_class": 15
+    },
+    {
+        "sentence": "發動{}的陷阱卡！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我是{}，看著我。",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}？先生，沒有那種東西。",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}這款遊戲是10/10分。",
+        "word_class": 15
+    },
+    {
+        "sentence": "能站在頂點的，只有{}阿！",
+        "word_class": 15
+    },
+    {
+        "sentence": "你喜歡動物嗎？一般的狗、貓、馬、天竺鼠⋯⋯{}?",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}，你坐啊。",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}又死了！真沒人性！",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}才沒有錯呢！",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}可不能臨陣脫逃啊！",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}永遠只有一個！",
+        "word_class": 15
+    },
+    {
+        "sentence": "一切都是{}的錯！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我要成為{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "快住手，這已經不是{}了！",
+        "word_class": 15
+    },
+    {
+        "sentence": "{}豈是如此不便之物。",
+        "word_class": 15
+    },
+    {
+        "sentence": "連{}都沒有打過我！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我大{}還能再戰十年！",
+        "word_class": 15
+    },
+    {
+        "sentence": "動啊，{}！你為什麼不動！",
+        "word_class": 15
+    },
+    {
+        "sentence": "你敢違抗擁有{}的我嗎？！",
+        "word_class": 15
+    },
+    {
+        "sentence": "藝術就是{}！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我的{}在你之上！",
+        "word_class": 15
+    },
+    {
+        "sentence": "我就想看你這表情，你臉上那{}的表情。",
+        "word_class": 15
+    },
+    {
+        "sentence": "今晚就去{}吧！",
+        "word_class": 15
+    },
+    {
+        "sentence": "那一天，人類想起了被{}支配的恐懼。",
+        "word_class": 15
+    },
+    {
+        "sentence": "施主請留步，{}與我有緣。",
+        "word_class": 16
+    },
+    {
+        "sentence": "{}是中學生之敵",
+        "word_class": 16
+    },
+    {
+        "sentence": "YouTube上最優質的就是{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "他們說我是沒有用的{}",
+        "word_class": 16
+    },
+    {
+        "sentence": "為什麼我們國家的{}，一天比一天空虛了呢！？",
+        "word_class": 16
+    },
+    {
+        "sentence": "只要龍五的手上有{}，誰都殺不死他。",
+        "word_class": 16
+    },
+    {
+        "sentence": "{}打得很好欸，無敵的吧！",
+        "word_class": 16
+    },
+    {
+        "sentence": "比賽結束之後回家路上的足球部員們。也許是因為過於疲憊，不幸追撞了黑色的高級車。對為了保護後輩而擔下全部責任的三浦，車主——暴力團員谷岡所提出的和解條件是{}。",
+        "word_class": 16
+    },
+    {
+        "sentence": "卿得{}否？",
+        "word_class": 17
+    },
+    {
+        "sentence": "{}，摩斯的章魚堡！",
+        "word_class": 17
+    },
+    {
+        "sentence": "{}：很幼稚，照藝術上說，是不應該的。",
+        "word_class": 17
+    },
+    {
+        "sentence": "「你知道嗎？{}在交配完就會死亡。」「真的假的？！」「不確定，至少我幹的這隻死了。」",
+        "word_class": 23
+    },
+    {
+        "sentence": "會有強姦案，都是因為{}",
+        "word_class": 23
+    },
+    {
+        "sentence": "我常常在{}和野貓一起3P。",
+        "word_class": 23
+    },
+    {
+        "sentence": "桐人的體液{}",
+        "word_class": 25
+    },
+    {
+        "sentence": "我寧願{}，我也不要跟阿夸做愛。",
+        "word_class": 25
+    },
+    {
+        "sentence": "咪醬面臨財務危機被迫{}辛酸畫面流出。",
+        "word_class": 35
+    },
+    {
+        "sentence": "在我看來，她彷彿代言了{}。",
+        "word_class": 56
+    },
+    {
+        "sentence": "{}沒關係，等你想開台的時候再開台就好了。",
+        "word_class": 56
+    },
+    {
+        "sentence": "你想不想要做{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天要拯救世界，必須要靠{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "今天學校的演唱會是{}要來。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我終於大學畢業了，接下來我就該{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我是{}，想要你跟我做愛心餅乾。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我要{}了。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我也覺得{}就在這裡。",
+        "word_class": 1
+    },
+    {
+        "sentence": "我們今次目標就是要拿到{}。",
+        "word_class": 1
+    },
+    {
+        "sentence": "某總統表示：「保證不缺{}」",
+        "word_class": 1
+    }
+]
