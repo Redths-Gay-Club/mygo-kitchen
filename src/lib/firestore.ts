@@ -1,6 +1,7 @@
 import { initializeApp } from "firebase/app";
-import { getFirestore, collection, setDoc, doc, onSnapshot, getDocs, getDoc, deleteDoc } from "firebase/firestore";
-import { AnswerSchema, OfferSchema, rawParseObj, type Answer, type Offer } from "./schema";
+import { getFirestore, collection, setDoc, doc, onSnapshot, getDocs, getDoc, deleteDoc, addDoc } from "firebase/firestore";
+import { AnswerSchema, asString, FSRoomSchema, OfferSchema, rawParseObj, SignalSchema, type Answer, type FSRoom, type Offer } from "./schema";
+import { random } from "./host/data";
 
 const firebaseConfig = {
     apiKey: "AIzaSyAozsrYtU92CXfVG7T9Xnkwb5zvm_VtrDk",
@@ -14,6 +15,7 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
+const rooms = collection(db, "rooms");
 const offers = collection(db, "offers");
 const answers = collection(db, "answers");
 
@@ -45,36 +47,95 @@ function registerListener() {
     });
 }
 
-async function setOffer(roomId: string, offer: Offer) {
+export async function getRoomKey(roomId: string) {
+    const docRef = await getDoc(doc(rooms, roomId));
+    const data = docRef.data();
+    const parsed = rawParseObj(FSRoomSchema, data);
+    return parsed?.key;
+}
+export async function deleteFSRoom(roomId: string) {
+    await deleteDoc(doc(rooms, roomId));
+}
+export function sendKeyListenForOffer(key: number, roomId: string, onSignal: (singal: string) => void) {
+    console.log("started listeneing");
+    const fsRoom: FSRoom = { key };
+    setDoc(doc(rooms, roomId), fsRoom);
+    return onSnapshot(collection(db, "o" + key), (doc) => {
+        for (const change of doc.docChanges()) {
+            console.log("listened changes");
+            if (change.type !== "added") continue;
+            const signal = change.doc.data();
+            console.log("listened answer", signal);
+            const parsed = rawParseObj(SignalSchema, signal);
+            deleteDoc(change.doc.ref);
+            if (!parsed) return;
+            onSignal(parsed.data);
+        }
+    });
+}
+export function signalAnswer(key: number, signal: string) {
+    addDoc(collection(db, "a"+key), { data: signal });
+}
+export function signalOffer(key: number, signal: string) {
+    addDoc(collection(db, "o"+key), { data: signal });
+}
+export async function deleteOfferSignal(key: number) {
+    const col = collection(db, "o"+key);
+    const snapshot = await getDocs(col);
+    for (const doc of snapshot.docs) {
+        await deleteDoc(doc.ref);
+    }
+}
+export async function deleteAnswerSignal(key: number) {
+    const col = collection(db, "a"+key);
+    const snapshot = await getDocs(col);
+    for (const doc of snapshot.docs) {
+        await deleteDoc(doc.ref);
+    }
+}
+export function listenForAnswer(key: number, roomId: string, onSignal: (singal: string) => void) {
+    return onSnapshot(collection(db, "a" + key), (doc) => {
+        for (const change of doc.docChanges()) {
+            console.log("listened changes");
+            if (change.type !== "added") continue;
+            const signal = change.doc.data();
+            console.log("listened answer", signal);
+            const parsed = rawParseObj(SignalSchema, signal);
+            deleteDoc(change.doc.ref);
+            if (!parsed) return;
+            onSignal(parsed.data);
+        }
+    });
+}
+
+export async function setOffer(roomId: string, offer: Offer) {
     await setDoc(doc(offers, roomId), offer);
 }
 
-async function getOffer(roomId: string) {
+export async function getOffer(roomId: string) {
     const docRef = await getDoc(doc(offers, roomId));
     const data = docRef.data();
     const parsed = rawParseObj(OfferSchema, data);
     return parsed;
 }
 
-async function deleteOffer(roomId: string) {
+export async function deleteOffer(roomId: string) {
     await deleteDoc(doc(offers, roomId));
 }
 
-async function getRoomIDs() {
-    const snapshot = await getDocs(offers);
+export async function getRoomIDs() {
+    const snapshot = await getDocs(rooms);
     const ids = snapshot.docs.map(doc => doc.id);
     return ids;
 }
 
-async function addAnswer(answer: Answer) {
+export async function addAnswer(answer: Answer) {
     await setDoc(doc(answers), answer);
 }
 
-function nextAnswer(roomId: string): Promise<Answer> {
+export function nextAnswer(roomId: string): Promise<Answer> {
     registerListener();
     return new Promise(resolve => {
         listener = { roomId, callback: resolve };
     });
 }
-
-export { getRoomIDs, setOffer, addAnswer, nextAnswer, getOffer, deleteOffer };

@@ -209,6 +209,14 @@ export const AnswerSchema = z.object({
 export type Answer = z.infer<typeof AnswerSchema>;
 
 
+export const SignalSchema = z.object({ data: z.string() });
+export type Signal = z.infer<typeof SignalSchema>;
+
+
+export const FSRoomSchema = z.object({ key: z.number() });
+export type FSRoom = z.infer<typeof FSRoomSchema>;
+
+
 export function rawParseString<T, U extends z.ZodTypeDef, V>(schema: z.ZodType<T, U, V>, input: string) {
     try {
         return schema.parse(JSON.parse(input));
@@ -226,3 +234,10 @@ export function rawParseObj<T, U extends z.ZodTypeDef, V>(schema: z.ZodType<T, U
     }
 }
 
+export function asString(input: any) {
+    try {
+        return z.string().parse(input);
+    } catch (e) {
+        console.error(e);
+    }
+}

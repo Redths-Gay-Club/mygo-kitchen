@@ -1,6 +1,6 @@
 import { goto } from "$app/navigation";
 import { S2CPacketSchema, type S2CPacket, type S2CRoomInfo, type C2SPacket, type PlayerProfile, type Screen, rawParseString, type S2CResponse } from "./schema";
-import { addAnswer, getOffer, getRoomIDs } from "./firestore";
+import { addAnswer, deleteOfferSignal, getOffer, getRoomIDs, getRoomKey, listenForAnswer, signalOffer } from "./firestore";
 import Peer from "simple-peer";
 
 export type Game = {
@@ -22,22 +22,35 @@ export async function findRoom(username: string, roomId: string): Promise<S2CRes
 }
 
 export async function joinGame(username: string, roomId: string) {
-    const offer = await getOffer(roomId);
 
-    if (!offer) {
+    const roomKey = await getRoomKey(roomId);
+
+    if (!roomKey) {
         console.log("No such room ", roomId);
         return;
     }
 
-    console.log("Offer data:", offer);
+    const connectionToServer = new Peer({ initiator: true });
 
-    const join = new Peer();
-    const sendPacket = (packet: C2SPacket) => join.send(JSON.stringify(packet));
-    join.on('connect', () => {
+    const unsubAnswerListener = listenForAnswer(roomKey, roomId, signal => {
+        console.log("server signal recv, proc...", signal);
+        connectionToServer.signal(signal);
+    });
+
+    connectionToServer.on("signal", data => {
+        console.log("client signal output, sending...", data);
+        signalOffer(roomKey, JSON.stringify(data));
+    });
+
+    const sendPacket = (packet: C2SPacket) => connectionToServer.send(JSON.stringify(packet));
+    connectionToServer.on('connect', () => {
+        deleteOfferSignal(roomKey);
+        unsubAnswerListener();
+        console.log("connected to server, unsubbed answer listener");
         sendPacket({ action: "join", name: username });
     });
     let errored = false;
-    join.on('data', data => {
+    connectionToServer.on('data', data => {
         const message: string = data.toString();
         console.log("received:", message);
         const parsed = rawParseString(S2CPacketSchema, message);
@@ -50,45 +63,16 @@ export async function joinGame(username: string, roomId: string) {
         }
         processS2CPacket(sendPacket, parsed);
     });
-    join.on("close", () => {
+    connectionToServer.on("close", () => {
         if (errored) return;
         console.log("bro server closed");
         goto("/error?name=server_closed");
-        // TODO: host quit;
     });
-    join.on("error", () => {
+    connectionToServer.on("error", () => {
         if (errored) return;
         console.log("bro server crashed");
         goto("/error?name=server_closed");
-        // TODO: host quit;
     });
-
-    let answerPacket: string | undefined;
-    let candidatePacket: string | undefined;
-    join.on('signal', data => {
-        if (answerPacket && candidatePacket) return;
-
-        if (data.type === "answer") {
-            console.log("join gen answer: ", data);
-            answerPacket = JSON.stringify(data);
-        } else if (data.type === "candidate") {
-            console.log("join gen candidate: ", data);
-            candidatePacket = JSON.stringify(data);
-        }
-
-        if (answerPacket && candidatePacket) {
-            console.log("join signal full, writing to answers");
-            addAnswer({
-                roomId,
-                answer: answerPacket,
-                candidate: candidatePacket
-            });
-        }
-    });
-
-    // connect to server thru offer
-    join.signal(offer.offer);
-    join.signal(offer.candidate);
 }
 
 type PacketHandlerMap = {

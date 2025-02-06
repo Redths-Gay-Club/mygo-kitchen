@@ -13,10 +13,12 @@ type ServerReady = {
 type ServerWaitForSentence = {
     readonly name: "wait_for_sentence",
     readonly sentences: string[],
+    readonly timeout: NodeJS.Timeout,
 };
 type ServerWaitForCard = {
     readonly name: "wait_for_card",
     readonly sentence: string,
+    readonly timeout: NodeJS.Timeout,
     waitFor: string[],
     chosenCards: OwnedCard[];
 };
@@ -25,12 +27,14 @@ type ServerWaitForBestCard = {
     readonly sentence: string,
     readonly cards: OwnedCard[],
     readonly anonymousCards: Card[],
+    readonly timeout: NodeJS.Timeout,
     selected: number,
 };
 type ServerEnd = {
     readonly name: "end",
     readonly sentence: string,
     readonly bestCard: OwnedCard,
+    readonly timeout: NodeJS.Timeout,
 };
 
 type ServerStage =
@@ -218,10 +222,15 @@ function letJudgeChooseSentence(judge: Player, room: Room) {
             sentences: generatedSentences,
         }
     });
+
     room.stage = {
         name: "wait_for_sentence",
         sentences: generatedSentences,
+        timeout: setTimeout(() => {
+            startWithNewJudge(room);
+        }, 20000),
     };
+
     broadcastPacket({
         action: "show_screen",
         screenData: { name: "wait_for_sentence" },
@@ -229,9 +238,11 @@ function letJudgeChooseSentence(judge: Player, room: Room) {
 }
 
 function judgeChoseSentence(judge: Player, room: Room, packet: C2SChooseSentence, stage: ServerWaitForSentence) {
+    clearTimeout(stage.timeout);
+
     const sentence = stage.sentences[packet.sentenceIndex];
     const waitFor: string[] = [];
-    const generatedCards = generateCards(room.players.length - 1, 6); // TODO! no cards
+    const generatedCards = generateCards(room.players.length - 1); // TODO! no cards
 
     for (const p of room.players) {
         if (p === judge) continue;
@@ -253,11 +264,15 @@ function judgeChoseSentence(judge: Player, room: Room, packet: C2SChooseSentence
         sentence,
         waitFor,
         chosenCards: [],
+        timeout: setTimeout(() => {
+            if (room.stage.name !== "wait_for_card") return;
+            startChoosingBestCard(room, room.stage);
+        }, 60000),
     };
-    updateProgress(room, room.stage);
+    updateCardSubmitProgress(room, room.stage);
 }
 
-function updateProgress(room: Room, stage: ServerWaitForCard) {
+function updateCardSubmitProgress(room: Room, stage: ServerWaitForCard) {
     const finishedPlayers = stage.chosenCards.map(c => c.owner);
     finishedPlayers.push(room.judge);
     console.log("update progress", finishedPlayers);
@@ -283,9 +298,15 @@ function playerChoseCard(player: Player, room: Room, packet: C2SChooseCard, stag
 
 function updateChoseCard(room: Room, stage: ServerWaitForCard) {
     if (stage.waitFor.length > 0) {
-        updateProgress(room, stage);
+        updateCardSubmitProgress(room, stage);
         return;
     }
+
+    startChoosingBestCard(room, stage);
+}
+
+function startChoosingBestCard(room: Room, stage: ServerWaitForCard) {
+    clearTimeout(stage.timeout);
 
     if (stage.chosenCards.length === 0) {
         startAgain(room);
@@ -302,6 +323,9 @@ function updateChoseCard(room: Room, stage: ServerWaitForCard) {
         cards: stage.chosenCards,
         anonymousCards,
         selected: 0,
+        timeout: setTimeout(() => {
+            startWithNewJudge(room);
+        }, 60000),
     };
     const judge = room.players.find(p => isJudge(p, room));
     if (!judge) return;
@@ -335,10 +359,15 @@ function judgeChoseBestCard(judge: Player, room: Room, packet: C2SChooseBestCard
     const card = stage.cards.at(index);
     if (!card) return;
 
+    clearTimeout(stage.timeout);
+
     room.stage = {
         name: "end",
         sentence: stage.sentence,
         bestCard: card,
+        timeout: setTimeout(() => {
+            startWithNewJudge(room);
+        }, 5000)
     };
 
     broadcastPacket({
@@ -360,14 +389,25 @@ function judgeChoseBestCard(judge: Player, room: Room, packet: C2SChooseBestCard
             score: winner.profile.score,
         }, room);
     }
-    
-    setTimeout(() => {
-        if (room.players.length === 0) return;
-        startAgain(room, findNextJudge(room));
-    }, 5000);
+
+}
+
+function startWithNewJudge(room: Room) {
+    startAgain(room, findNextJudge(room));
 }
 
 function startAgain(room: Room, nextJudge?: string) {
+    switch (room.stage.name) {
+        case "ready":
+            break;
+        case "wait_for_sentence":
+        case "wait_for_card":
+        case "wait_for_best_card":
+        case "end":
+            clearTimeout(room.stage.timeout);
+            break;
+    }
+    if (room.players.length === 0) return;
     if (nextJudge) {
         room.judge = nextJudge;
         broadcastPacket({

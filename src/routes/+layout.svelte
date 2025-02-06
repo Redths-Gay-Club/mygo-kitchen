@@ -42,10 +42,35 @@
         display: flex;
         width: 64rem;
         height: 48rem;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
         background-color: var(--background);
         border-radius: 1rem;
+        overflow: hidden;
+    }
+
+    @media screen and (max-aspect-ratio: 1/1) {
+        :root {
+            font-size: min(3vw, 2.25vh);
+        }
+        #outer {
+            overflow: visible;
+            /* height: 100%; */
+            height: unset;
+            min-height: 100vh;
+            /* padding: 2rem; */
+        }
+        #inner {
+            width: 100%;
+            height: unset;
+            /* height: 100%; */
+            min-height: calc(100vh - 2rem);
+            margin: 1rem;
+            overflow: hidden;
+            /* width: 48rem; */
+            /* height: 64rem; */
+        }
     }
 
     :global {
@@ -69,6 +94,15 @@
         button:hover:not(:disabled) {
             transform: scale(1.2);
             background-color: var(--secondary);
+        }
+
+        ::-webkit-scrollbar {
+            width: 0.5rem;
+            background-color: var(--accent);
+        }
+        ::-webkit-scrollbar-thumb {
+            background-color: var(--secondary);
+            border-radius: 0.2rem;
         }
     }
 </style>

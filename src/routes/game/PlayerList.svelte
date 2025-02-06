@@ -12,26 +12,24 @@
     );
 </script>
 
-<div class="sidebar">
-    <h1>房號 {game.id}<CopyButton content={game.id} /></h1>
-    <h3>
-        <TooltipIcon
-            image="/host.svg"
-            tooltip="房主"
-            description="架設此房間，退出則房間銷毀"
-            size="0.8rem"
-            popDirection="right"
-        />
-        房主 {game.host}
-    </h3>
-    <hr />
-    <div class="list">
-        {#each sortedPlayer as player (player.name)}
-            <div class="player-card" animate:flip={{ duration: 1000 }}>
-                <PlayerCard {game} {player} />
-            </div>
-        {/each}
-    </div>
+<h1>房號 {game.id}<CopyButton content={game.id} /></h1>
+<h3>
+    <TooltipIcon
+        image="/host.svg"
+        tooltip="房主"
+        description="架設此房間，退出則房間銷毀"
+        size="0.8rem"
+        popDirection="right"
+    />
+    房主 {game.host}
+</h3>
+<hr />
+<div class="list">
+    {#each sortedPlayer as player (player.name)}
+        <div class="player-card" animate:flip={{ duration: 1000 }}>
+            <PlayerCard {game} {player} />
+        </div>
+    {/each}
 </div>
 
 <style>
@@ -62,20 +60,13 @@
         margin-bottom: 1rem;
     }
 
-    .sidebar {
-        background-color: var(--accent);
+    .list {
         display: flex;
         flex-direction: column;
-
-        padding: 1rem;
-        border-top-left-radius: 1rem;
-        border-bottom-left-radius: 1rem;
-    }
-
-    .list {
-        display: grid;
-        grid-auto-rows: 5rem;
         width: 100%;
+        gap: 1rem;
+        height: 100%;
+        overflow-x: hidden;
         overflow-y: auto;
     }
 
@@ -87,10 +78,17 @@
         justify-content: center;
         padding: 0.7rem;
         gap: 0.3rem;
-        margin-bottom: 1rem;
+        height: 3rem;
+        flex-shrink: 0;
         background-color: var(--background);
         border-radius: 0.5rem;
 
         transition: transform 0.3s ease-in-out;
+    }
+
+    @media screen and (max-aspect-ratio: 1/1) {
+        .list {
+            overflow-y: visible;
+        }
     }
 </style>

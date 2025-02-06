@@ -12,6 +12,8 @@
     let mask: HTMLElement;
     let list: HTMLElement;
 
+    let translateX = 0;
+
     if (!controllable) {
         $effect(() => update());
     }
@@ -20,6 +22,7 @@
         selectedIndex = n;
         update();
     }
+
     function update() {
         const halfWidth = mask.getBoundingClientRect().width / 2;
         const currentC = list.children[selectedIndex]
@@ -27,8 +30,8 @@
         const halfImageWidth = currentC.getBoundingClientRect().width / 2;
         const listX = list.getBoundingClientRect().x;
         const currentX = currentC.getBoundingClientRect().x;
-        const translate = listX - currentX + halfWidth - halfImageWidth;
-        list.style.transform = `translateX(${translate}px)`;
+        translateX = listX - currentX + halfWidth - halfImageWidth;
+        list.style.transform = `translateX(${translateX}px)`;
     }
 
     function onload(index: number) {
@@ -40,18 +43,57 @@
         const max = list.children.length;
         updateTranslation((selectedIndex + delta + max) % max);
     }
+
+    let topSlide: HTMLElement;
+    let swiping = $state(false);
+    let startTouchX = $state(0);
+    let lastTouchX = $state(0);
+
+    function ontouchstart(event: TouchEvent) {
+        startTouchX = event.touches[0].pageX;
+    }
+
+    function ontouchmove(event: TouchEvent) {
+        swiping = true;
+        lastTouchX = event.touches[0].pageX;
+    }
+
+    function ontouchend() {
+        if (!swiping) return;
+        swiping = false;
+        topSlide.style.transform = "";
+        const deltaX = lastTouchX - startTouchX;
+        if (deltaX > 0) {
+            changeBy(-1);
+        } else if (deltaX < 0) {
+            changeBy(1);
+        }
+        startTouchX = 0;
+        lastTouchX = 0;
+    }
 </script>
 
 <div class="carousel">
-    <div class="upper">
-        <img class="large" src={images[selectedIndex]} alt="gay" />
+    <div class="upper" {ontouchstart} {ontouchmove} {ontouchend}>
+        <div
+            class="top-slide"
+            bind:this={topSlide}
+            class:animate-left={!swiping}
+            style:left={`calc(${lastTouchX - startTouchX}px - ${selectedIndex}00%)`}
+        >
+            {#each images as image, index (image)}
+                <div class="upper-container">
+                    <img class="large" src={image} alt="card" />
+                </div>
+            {/each}
+        </div>
         {#if controllable}
-            <button class="left-arrow" onclick={() => changeBy(-1)}
-                >{"<"}</button
-            >
-            <button class="right-arrow" onclick={() => changeBy(1)}
-                >{">"}</button
-            >
+            <button class="left-arrow" onclick={() => changeBy(-1)}>
+                {"<"}
+            </button>
+            <button class="right-arrow" onclick={() => changeBy(1)}>
+                {">"}
+            </button>
         {/if}
     </div>
     <div class="mask" bind:this={mask}>
@@ -91,8 +133,30 @@
     .upper {
         display: flex;
         position: relative;
+        overflow: hidden;
         width: 30rem;
         height: 18rem;
+    }
+
+    .upper-container {
+        width: 30rem;
+        height: 18rem;
+        overflow: visible;
+    }
+
+    .top-slide {
+        display: flex;
+        position: absolute;
+
+        /* width: 100%;
+        height: 100%; */
+
+        /* gap: 1rem; */
+        /* transition: transform 0.1s; */
+    }
+
+    .animate-left {
+        transition: left 0.5s;
     }
 
     .left-arrow {
@@ -151,5 +215,20 @@
         display: flex;
         transition-property: transform;
         transition-duration: 0.5s;
+    }
+
+    @media screen and (max-aspect-ratio: 1/1) {
+        .carousel {
+            width: 26rem;
+        }
+        .upper,
+        .upper-container {
+            width: 26rem;
+            height: 15rem;
+        }
+
+        .left-arrow, .right-arrow {
+            display: none;
+        }
     }
 </style>

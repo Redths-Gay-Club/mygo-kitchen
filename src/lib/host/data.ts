@@ -1,23 +1,26 @@
-import cards from "./data/cards.json";
+// import cards from "./data/cards.json";
+import classified from "./data/word-classified.json";
 import sentences from "./data/sentences.json";
 import type { Card } from "../schema";
 
-export function generateCards(players: number, cardsPerPlayer: number): Card[][] {
-    const indexes = new Set<number>();
+function generateTwoCardOfClass(word_class: keyof typeof classified) {
+    const cards = classified[word_class];
+    const first = random(0, cards.length);
+    let second = random(0, cards.length);
+    while (first === second) {
+        second = random(0, cards.length);
+    }
+    return [cards[first], cards[second]];
+}
+function generateCardsOfAllClasses() {
+    const keys = ["noun", "verb", "sentence", "adj", "adv"] as const;
+    return keys.flatMap(wc => generateTwoCardOfClass(wc));
+}
+
+export function generateCards(players: number): Card[][] {
     const playersCards: Card[][] = [];
     for (let i = 0; i < players; i++) {
-        const cardOfEachPlayer: Card[] = [];
-        for (let j = 0; j < cardsPerPlayer; j++) {
-            while (true) {
-                const randomNum = random(0, cards.length);
-                if (indexes.has(randomNum)) continue;
-                indexes.add(randomNum);
-                const card = cards[randomNum];
-                cardOfEachPlayer.push(card);
-                break;
-            }
-        }
-        playersCards.push(cardOfEachPlayer);
+        playersCards.push(generateCardsOfAllClasses());
     }
     return playersCards;
 }
