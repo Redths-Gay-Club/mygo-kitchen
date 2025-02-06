@@ -1,2 +1,13 @@
 # mygo-kitchen
-real
+災難公關mygo版
+
+# develop
+`bun i`
+
+## dev
+`bun run dev`
+
+## build & deploy
+`bun i -g wrangler`
+`wrangler login`
+`bun run deploy`
